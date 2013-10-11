@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>{{ page.title }}</title>
+        <meta name="viewport" content="width=device-width">
+        <link rel="stylesheet" href="/css/syntax.css">
+        <link rel="stylesheet" href="/css/main.css">
+    </head>
+    <body>
+        <div class="site">
+          <div class="header">
+            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
+            <a class="extra" href="/">home</a>
+          </div>
+
+          {{ content }}
+
+          <div class="footer">
+            <div class="contact">
+              <p>
+                Anton Rudeshko<br />
+                Web Developer at Yandex<br />
+                <a href="mailto:anton@rudeshko.com">anton@rudeshko.com</a>
+              </p>
+            </div>
+            <div class="contact">
+              <p>
+                <a href="https://github.com/{{ contacts.github }}">github.com/anton-rudeshko</a><br />
+                <a href="https://twitter.com/404tesla">twitter.com/404tesla</a><br />
+              </p>
+            </div>
+          </div>
+        </div>
+
+    </body>
+</html>

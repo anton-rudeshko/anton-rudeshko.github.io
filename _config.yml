@@ -1,0 +1,10 @@
+name: Anton Rudeshko blog
+markdown: redcarpet
+pygments: true
+
+timezone: Europe/Moscow
+encoding: UTF-8
+
+contacts:
+    twitter: 404tesla
+    github: anton-rudeshko
