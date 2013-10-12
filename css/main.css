@@ -100,7 +100,7 @@ ul.posts span {
   font-size: 80%;
   color: #666;
   border-top: 4px solid #eee;
-  margin-top: 2em;
+  margin-top: 20px;
   overflow: hidden;
 }
 
@@ -145,4 +145,8 @@ ul.posts span {
 
 .post pre.terminal code {
   background-color: #333;
+}
+
+.post__comments {
+    margin-top: 20px;
 }
