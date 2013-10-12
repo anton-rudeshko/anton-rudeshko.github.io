@@ -77,18 +77,13 @@ ul.posts span {
   line-height: 1.5em;
 }
 
-.site .header a {
-  font-weight: bold;
-  text-decoration: none;
-}
-
 .site .header h1.title {
-  display: inline-block;
-  margin-bottom: 2em;
+  font-size: 36px;
 }
 
 .site .header h1.title a {
   color: #a00;
+  font-weight: normal;
 }
 
 .site .header h1.title a:hover {
@@ -97,7 +92,7 @@ ul.posts span {
 
 .site .header a.extra {
   color: #aaa;
-  margin-left: 1em;
+  margin-right: 1em;
 }
 
 .site .header a.extra:hover {
@@ -119,20 +114,6 @@ ul.posts span {
 .site .footer .contact {
   float: left;
   margin-right: 3em;
-}
-
-.site .footer .contact a {
-  color: #8085C1;
-}
-
-.site .footer .rss {
-  margin-top: 1.1em;
-  margin-right: -.2em;
-  float: right;
-}
-
-.site .footer .rss img {
-  border: 0;
 }
 
 /*****************************************************************************/
