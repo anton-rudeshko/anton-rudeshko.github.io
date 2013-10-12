@@ -1,4 +1,7 @@
 name: Anton Rudeshko blog
+description: About web and digital art.
+url: http://anton-rudeshko.github.io
+
 markdown: redcarpet
 pygments: true
 
