@@ -30,9 +30,18 @@ p {
     margin: 1em 0; 
 }
 
-a         { color: #00a; }
-a:hover   { color: #000; }
-a:visited { color: #a0a; }
+a { 
+    color: #7d7dbd;
+    text-decoration: none;
+}
+
+a:hover { 
+    color: #1623be; 
+}
+
+a:visited { 
+    color: #a0a; 
+}
 
 /*****************************************************************************/
 /*
@@ -63,8 +72,8 @@ ul.posts span {
 .site {
   font-size: 115%;
   text-align: justify;
-  width: 42em;
-  margin: 3em auto 2em;
+  width: 900px;
+  margin: 40px auto;
   line-height: 1.5em;
 }
 
