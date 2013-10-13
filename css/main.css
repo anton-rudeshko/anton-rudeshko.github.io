@@ -179,3 +179,9 @@ ul.posts span {
 .post__date {
   color: #aaa;
 }
+
+.youtube,
+.soundcloud {
+  width: 100%;
+  height: 560px;
+}
