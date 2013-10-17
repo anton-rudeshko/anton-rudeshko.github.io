@@ -13,7 +13,7 @@ html, body {
 
 body {
   background-color: #fff;
-  font: 16px Helvetica, Arial, sans-serif;
+  font: 16px 'Open Sans', Helvetica, Arial, sans-serif;
 }
 
 h1, h2 {
@@ -62,7 +62,7 @@ ul.posts li {
 
 ul.posts span {
   color: #aaa;
-  font-family: Monaco, "Courier New", monospace;
+  font-family: Consolas, Monaco, "Courier New", monospace;
   font-size: 80%;
 }
 
