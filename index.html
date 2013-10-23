@@ -4,13 +4,16 @@ title: Anton Rudeshko blog
 ---
 
 <div id="home">
-  <h1>Recent Posts</h1>
+  <h1 class="posts__header"><a href="/">Recent Posts</a></h1>
   <ul class="posts">
     {% for post in site.posts %}
-      <li class="posts__post">
-        <span class="posts__date">{{ post.date | date_to_string }} &raquo; </span>
-        <a class="link posts__title" href="{{ post.url }}">{{ post.title }}</a>
-      </li>
+    <li class="posts__post">
+      <span class="posts__date">{{ post.date | date_to_string }}</span>
+      <h2 class="posts__title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+
+      {{ post.excerpt }}
+
+    </li>
     {% endfor %}
   </ul>
 </div>

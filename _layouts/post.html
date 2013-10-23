@@ -3,8 +3,8 @@ layout: default
 comments: true
 ---
 <div class="post">
+  <span class="post__date">{{ page.date | date_to_string }}</span>
   <h1 class="post__header"><a href="{{ page.url }}">{{ page.title }}</a></h1>
-  <p class="post__date">{{ page.date | date_to_string }}</p>
 
   <div class="post__content">
     {{ content }}
