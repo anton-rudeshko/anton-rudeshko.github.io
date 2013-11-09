@@ -1,6 +1,6 @@
 name: Anton Rudeshko
 description: Web dev and digital art.
-url: http://anton-rudeshko.github.io
+url: http://new.rudeshko.io
 
 markdown: redcarpet
 pygments: true
@@ -9,5 +9,6 @@ timezone: Europe/Moscow
 encoding: UTF-8
 
 contacts:
+    email: anton@rudeshko.com
     twitter: AntonRudeshko
     github: anton-rudeshko
