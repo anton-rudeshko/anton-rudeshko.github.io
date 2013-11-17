@@ -190,6 +190,10 @@ a:hover {
   text-align: justify;
 }
 
+.post__content img {
+  max-width: 100%;
+}
+
 .post__comments {
   margin-top: 20px;
 }
