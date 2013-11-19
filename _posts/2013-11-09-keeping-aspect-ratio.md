@@ -3,7 +3,7 @@ layout: post
 title: Keeping responsive aspect ratio
 category: web
 ---
-What to do if you need to make a responsive YouTube video?
+What should you do if you need to make a responsive YouTube video?
 That is, when you shrink your window your content should properly adapt and do not look silly like
 having 480x640 instead of 480x320 (for 4:3 aspect ratio).
 
