@@ -9,9 +9,10 @@ timezone: Europe/Moscow
 encoding: UTF-8
 
 contacts:
-    email: anton@rudeshko.com
     twitter: AntonRudeshko
+    gplus: AntonRudeshko
     github: anton-rudeshko
+    email: anton@rudeshko.com
 
 prose:
     siteurl: http://new.rudeshko.com
