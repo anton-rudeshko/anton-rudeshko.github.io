@@ -36,7 +36,7 @@ h3 {
   color: #444;
 }
 
-p,
+p, ol, ul,
 .highlight {
   margin-bottom: 15px;
 }
