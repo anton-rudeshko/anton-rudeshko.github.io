@@ -6,9 +6,9 @@ comments: true
   <span class="post__date">{{ page.date | date_to_string }}</span>
   <h1 class="post__header"><a href="{{ page.url }}">{{ page.title }}</a></h1>
 
-  <div class="post__content">
+  <article class="post__content">
     {{ content }}
-  </div>
+  </article>
 
   {% if page.comments %}
   <div class="post__comments">
