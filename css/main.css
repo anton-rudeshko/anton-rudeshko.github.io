@@ -63,6 +63,7 @@ a:hover {
 /*****************************************************************************/
 
 .header__inner,
+.footer__inner,
 .site {
   width: 90%;
   margin: 0 auto;
@@ -71,7 +72,7 @@ a:hover {
 
 .header {
   line-height: 50px;
-  background-color: #000;
+  background-color: #6a289e;
   height: 50px;
 }
 
@@ -106,7 +107,7 @@ a:hover {
   vertical-align: middle;
 }
 
-.site .footer {
+.footer {
   font-size: 80%;
   color: #666;
   border-top: 4px solid #eee;
@@ -115,7 +116,7 @@ a:hover {
   padding-top: 10px;
 }
 
-.site .footer .contact {
+.footer__contact {
   float: left;
   margin-right: 3em;
 }
@@ -181,6 +182,10 @@ a:hover {
 
 .post__header a {
   color: inherit;
+}
+
+.post__content a:hover {
+  text-decoration: underline;
 }
 
 .post__content img {

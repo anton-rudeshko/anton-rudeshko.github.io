@@ -12,6 +12,8 @@
   <link rel="stylesheet" href="/css/main.css">
   <link rel="stylesheet" href="/css/syntax.css">
 
+  <link rel="shortcut icon" href="/favicon.ico">
+
   <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
 </head>
 <body>
@@ -34,18 +36,19 @@
 </header>
 
 <div class="site">
-
   {{ content }}
+</div>
 
-  <div class="footer">
-    <div class="contact">
+<footer class="footer">
+  <div class="footer__inner">
+    <div class="footer__contact">
       <p>
         Anton Rudeshko<br/>
         Web Developer at Yandex<br/>
         <a href="mailto:{{ site.contacts.email }}">{{ site.contacts.email }}</a>
       </p>
     </div>
-    <div class="contact">
+    <div class="footer__contact">
       <p>
         <a href="https://github.com/{{ site.contacts.github }}">github.com/{{ site.contacts.github }}</a><br/>
         <a href="https://twitter.com/{{ site.contacts.twitter }}">twitter.com/{{ site.contacts.twitter }}</a><br/>
@@ -53,7 +56,7 @@
       </p>
     </div>
   </div>
-</div>
+</footer>
 
 <script type="text/javascript">
   var _gaq = _gaq || [];
