@@ -76,11 +76,14 @@ a:hover {
 /*****************************************************************************/
 
 .header__inner,
-.footer__inner,
+.footer,
 .site {
   margin: 0 auto;
   max-width: 960px;
-  padding: 0 4%;
+}
+
+.site {
+   padding: 0 4%;
 }
 
 .header {
