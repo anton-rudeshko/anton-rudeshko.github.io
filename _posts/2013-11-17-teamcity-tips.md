@@ -45,7 +45,7 @@ fixed text "TeamCity build" followed by full build configuration name, "finished
 
 ![Long pull request description](/assets/long_pr_desc.png)
 
-That is, be nice and don't use a lot of long-named nested projects with large messages in their finish status.
+That's it, be nice and don't use a lot of long-named nested projects with large messages in their finish status.
 
 ## One more thing about reporting
 When you successfully integrate GitHub reporting you'll probably want it everywhere (because its awesome).
