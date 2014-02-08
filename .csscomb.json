@@ -1,0 +1,20 @@
+{
+    "remove-empty-rulesets": true,
+    "always-semicolon": true,
+    "color-case": "lower",
+    "color-shorthand": true,
+    "element-case": "lower",
+    "leading-zero": false,
+    "quotes": "single",
+    "strip-spaces": true,
+    "eof-newline": true,
+    "stick-brace": " ",
+    "colon-space": [
+        "",
+        " "
+    ],
+    "rule-indent": "  ",
+    "block-indent": "  ",
+    "unitless-zero": true,
+    "vendor-prefix-align": true
+}

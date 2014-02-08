@@ -38,9 +38,15 @@ h3 {
 }
 
 @media screen and (max-width: 480px) {
-  h1 { font-size: 32px; }
-  h2 { font-size: 26px; }
-  h3 { font-size: 20px; }
+  h1 {
+    font-size: 32px;
+  }
+  h2 {
+    font-size: 26px;
+  }
+  h3 {
+    font-size: 20px;
+  }
 }
 
 p, ol, ul,
@@ -178,7 +184,7 @@ a:hover {
 .post pre,
 .post code {
   border: 1px solid #ddd;
-  background-color: #F8F8F8;
+  background-color: #f8f8f8;
   font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
   font-size: 14px;
 }
