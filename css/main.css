@@ -9,6 +9,7 @@
 
 html, body {
   height: 100%;
+  min-width: 320px;
 }
 
 body {
@@ -36,6 +37,12 @@ h3 {
   color: #444;
 }
 
+@media screen and (max-width: 480px) {
+  h1 { font-size: 32px; }
+  h2 { font-size: 26px; }
+  h3 { font-size: 20px; }
+}
+
 p, ol, ul,
 .highlight {
   margin-bottom: 15px;
@@ -44,10 +51,11 @@ p, ol, ul,
 a {
   color: #404ebe;
   text-decoration: none;
+  transition: color .1s;
 }
 
 a:hover {
-  color: #7979b1;
+  color: orange;
 }
 
 /*****************************************************************************/
@@ -65,9 +73,9 @@ a:hover {
 .header__inner,
 .footer__inner,
 .site {
-  width: 90%;
   margin: 0 auto;
   max-width: 960px;
+  padding: 0 4%;
 }
 
 .header {
@@ -121,16 +129,41 @@ a:hover {
   margin-right: 3em;
 }
 
+.right-side {
+  width: 170px;
+  height: 600px;
+  background-color: orange;
+  position: absolute;
+  top: -45px;
+  left: -115px;
+
+  -webkit-transform: rotateZ(10deg);
+          transform: rotateZ(10deg);
+
+  -webkit-transition: left .5s;
+          transition: left .5s;
+
+  z-index: -1;
+}
+
+@media screen and (max-width: 1200px) {
+  .right-side {
+    left: -175px;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .right-side {
+    left: -220px;
+  }
+}
+
 /*****************************************************************************/
 /* Posts
 /*****************************************************************************/
 
 .posts__header a {
   color: inherit;
-}
-
-.posts__title {
-  font-size: 32px;
 }
 
 .posts__post {
@@ -153,6 +186,8 @@ a:hover {
 .post pre {
   padding: 5px;
   border-radius: 5px;
+  white-space: pre-wrap;
+  word-break: break-all;
 }
 
 .post ul, .post ol {
@@ -184,10 +219,7 @@ a:hover {
   color: inherit;
 }
 
-.post__content a:hover {
-  text-decoration: underline;
-}
-
+.posts__content img,
 .post__content img {
   max-width: 100%;
   height: auto;
