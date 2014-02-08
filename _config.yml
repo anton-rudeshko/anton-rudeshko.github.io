@@ -1,6 +1,6 @@
 name: Anton Rudeshko
 description: Web dev and digital art.
-url: http://new.rudeshko.com
+url: http://www.rudeshko.com
 
 markdown: redcarpet
 pygments: true
@@ -15,5 +15,5 @@ contacts:
     email: anton@rudeshko.com
 
 prose:
-    siteurl: http://new.rudeshko.com
+    siteurl: http://www.rudeshko.com
     media: assets
