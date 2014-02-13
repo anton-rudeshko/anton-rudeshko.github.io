@@ -5,7 +5,7 @@ title: Anton Rudeshko blog
 
 <h1 class="posts__header"><a href="/">Recent Posts</a></h1>
 <ul class="posts">
-  {% for post in site.posts %}
+  {% for post in paginator.posts %}
   <li class="posts__post">
     <a href="{{ post.url }}" class="posts__date">{{ post.date | date_to_string }}</a>
     <h2 class="posts__title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
@@ -15,3 +15,15 @@ title: Anton Rudeshko blog
   </li>
   {% endfor %}
 </ul>
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+  <a href="{{ paginator.previous_page_path }}" class="previous">&larr;&nbsp;Later</a>
+  {% endif %}
+
+  <span class="page_number ">{{ paginator.page }} of {{ paginator.total_pages }}</span>
+
+  {% if paginator.next_page %}
+  <a href="{{ paginator.next_page_path }}" class="next">Earlier&nbsp;&rarr;</a>
+  {% endif %}
+</div>

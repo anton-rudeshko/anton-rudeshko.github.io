@@ -7,6 +7,8 @@ pygments: true
 
 timezone: Europe/Moscow
 encoding: UTF-8
+paginate: 5
+paginate_path: "/:num"
 
 contacts:
     twitter: AntonRudeshko

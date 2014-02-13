@@ -86,6 +86,10 @@ a:hover {
    padding: 0 4%;
 }
 
+.pagination {
+  text-align: center;
+}
+
 .header {
   line-height: 50px;
   background-color: #6a289e;
