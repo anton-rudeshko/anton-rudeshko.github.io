@@ -96,6 +96,7 @@ a:hover {
   line-height: 50px;
   background-color: #6a289e;
   height: 50px;
+  overflow: hidden;
 }
 
 .header__title {
