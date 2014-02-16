@@ -82,8 +82,9 @@ a:hover {
   max-width: 960px;
 }
 
+.header__inner,
 .site {
-   padding: 0 4%;
+   padding: 0 3%;
 }
 
 .pagination {
