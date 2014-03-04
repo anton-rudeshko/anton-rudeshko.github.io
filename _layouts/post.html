@@ -3,8 +3,10 @@ layout: default
 comments: true
 ---
 <div class="post">
-  <a href="{{ page.url }}" class="posts__date">{{ page.date | date_to_string }}</a>
-  <h1 class="post__header"><a href="{{ page.url }}">{{ page.title }}</a></h1>
+  <header>
+    <a href="{{ page.url }}" class="posts__date">{{ page.date | date_to_string }}</a>
+    <h1 class="post__header"><a href="{{ page.url }}">{{ page.title }}</a></h1>
+  </header>
 
   <article class="post__content">
     {{ content }}
