@@ -140,6 +140,7 @@ a:hover {
 }
 
 .footer__contact {
+  font-style: normal;
   float: left;
   margin-right: 3em;
 }
