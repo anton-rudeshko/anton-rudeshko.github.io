@@ -16,7 +16,7 @@ title: Anton Rudeshko
   {% endfor %}
 </ul>
 
-<div class="pagination">
+<nav class="pagination">
   {% if paginator.previous_page %}
   <a href="{{ paginator.previous_page_path }}" class="previous">&larr;&nbsp;Later</a>
   {% endif %}
@@ -26,4 +26,4 @@ title: Anton Rudeshko
   {% if paginator.next_page %}
   <a href="{{ paginator.next_page_path }}" class="next">Earlier&nbsp;&rarr;</a>
   {% endif %}
-</div>
+</nav>
