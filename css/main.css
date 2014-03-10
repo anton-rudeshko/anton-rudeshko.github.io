@@ -85,7 +85,8 @@ a:hover {
 
 .header__inner,
 .site {
-   padding: 0 3%;
+  padding: 0 15px;
+  position: relative;
 }
 
 .pagination {
@@ -97,6 +98,22 @@ a:hover {
   background-color: #6a289e;
   height: 50px;
   overflow: hidden;
+}
+
+.header__logo {
+  border-radius: 5px;
+  position: absolute;
+  left: -38px;
+  top: 3px;
+
+  -webkit-transition: left .5s;
+          transition: left .5s;
+}
+
+@media screen and (max-width: 1080px) {
+  .header__logo {
+    left: -100px;
+  }
 }
 
 .header__title {
@@ -168,7 +185,7 @@ a:hover {
   }
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1040px) {
   .right-side {
     left: -220px;
   }
