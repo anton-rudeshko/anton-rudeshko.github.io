@@ -10,4 +10,4 @@ I live in Moscow, Russia and currently I'm a web developer at [Yandex](http://ww
 search engine results page.
 
 I'm passionate about beautiful optimized code, music and digital art. Sometimes I compose electronic music,
-you can listen to my sounds at [Soundcloud](https://soundcloud.com/anton-rudeshko/tracks).
+you can listen to my sounds at [SoundCloud](https://soundcloud.com/anton-rudeshko/tracks).
