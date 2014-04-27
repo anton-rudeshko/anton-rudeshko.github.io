@@ -51,6 +51,7 @@ h3 {
 }
 
 p, ol, ul,
+.post__container,
 .highlight {
   margin-bottom: 15px;
 }
