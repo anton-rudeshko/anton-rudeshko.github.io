@@ -143,6 +143,7 @@ a:hover {
   color: #fff;
 }
 
+.header__link iframe,
 .header__link img {
   vertical-align: middle;
 }
