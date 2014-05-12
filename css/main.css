@@ -18,14 +18,13 @@ body {
 }
 
 h1, h2 {
-  margin: 15px 0 0;
+  margin: 15px 0 5px;
   line-height: 1.40;
   font-weight: normal;
 }
 
 h1 {
   font-size: 42px;
-  margin-top: 5px;
 }
 
 h2 {
@@ -204,9 +203,10 @@ a:hover {
   margin-bottom: 20px;
 }
 
-.posts__date {
+.posts__date,
+.post__date {
   color: #aaa;
-  float: right;;
+  float: right;
 }
 
 .post pre,
@@ -265,11 +265,6 @@ a:hover {
 
 .post__comments {
   margin-top: 20px;
-}
-
-.post__date {
-  color: #aaa;
-  float: right;
 }
 
 .post__container {
