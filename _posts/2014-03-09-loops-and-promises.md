@@ -63,7 +63,7 @@ function httpGetWithRetries(url, maxRetries, retry) {
 
     // wait some time and try again
     return Q.delay(5000).then(function () {
-      return httpGet(url, maxRetries, ++retry);
+      return httpGetWithRetries(url, maxRetries, ++retry);
     });
   });
 }
