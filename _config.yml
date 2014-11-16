@@ -3,7 +3,7 @@ description: Web dev and digital art.
 url: http://www.rudeshko.com
 
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 
 timezone: Europe/Moscow
 encoding: UTF-8
