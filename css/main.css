@@ -75,6 +75,7 @@ blockquote {
 /*****************************************************************************/
 .posts {
   list-style-type: none;
+  margin-left: 0;
   margin-bottom: 32px;
 }
 
@@ -231,7 +232,7 @@ blockquote {
   word-break: break-all;
 }
 
-.post ul, .post ol {
+ul, ol {
   margin-left: 2em;
 }
 
