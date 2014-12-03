@@ -6,6 +6,8 @@ title: About Me
 # About me
 Hi, my name is Anton Rudeshko.
 
+I'm a geek, introvert, perfectionist, fan of productivity, hardcore gamer and music lover.
+
 I live in Moscow, Russia and currently I'm a web developer at [Yandex](http://www.yandex.ru/)
 search engine results page.
 
