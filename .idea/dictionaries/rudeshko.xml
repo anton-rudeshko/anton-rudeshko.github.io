@@ -5,6 +5,7 @@
       <w>allowfullscreen</w>
       <w>aspx</w>
       <w>automagically</w>
+      <w>bluetooth</w>
       <w>changefreq</w>
       <w>clickable</w>
       <w>disqus</w>
@@ -17,6 +18,7 @@
       <w>gplus</w>
       <w>interlayers</w>
       <w>lastmod</w>
+      <w>logitech</w>
       <w>mailto</w>
       <w>mathiasbynens</w>
       <w>mikeal</w>
@@ -31,6 +33,8 @@
       <w>smartphone</w>
       <w>soundcloud</w>
       <w>veged</w>
+      <w>wishlist</w>
+      <w>xbox</w>
     </words>
   </dictionary>
 </component>

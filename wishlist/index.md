@@ -13,8 +13,8 @@ Russian version only.
 
 По убыванию:
 
-  * Беспроводной геймпад для PC, например: [Microsoft Xbox 360 Wireless Controller for Windows](http://market.yandex.ru/model.xml?modelid=6157885&hid=91117)
-  * Аудио адаптер с Bluetooth, например: [Logitech Bluetooth Audio Adapter](http://www.ulmart.ru/goods/872447)
+  * ✔ ~~Беспроводной геймпад для PC, например: [Microsoft Xbox 360 Wireless Controller for Windows](http://market.yandex.ru/model.xml?modelid=6157885&hid=91117)~~
+  * ✔ ~~Аудио адаптер с Bluetooth, например: [Logitech Bluetooth Audio Adapter](http://www.ulmart.ru/goods/872447)~~
   * Свежий смартфон на голом Андроиде или CyanogenMod, например: [Nexus 5](http://market.yandex.ru/model.xml?modelid=10564187&hid=91491), [OnePlus One](http://market.yandex.ru/model.xml?modelid=10799520&hid=91491)
   * Отличная веб-камера, например: [Logitech HD Pro Webcam C920](http://market.yandex.ru/model.xml?modelid=7878358&hid=4684840)
   * Портативная акустика (пожелания: Bluetooth, NFC, Line In, USB), например: [JBL Pulse](http://market.yandex.ru/model.xml?modelid=10580942&hid=2724669), [Razer Ferox](http://market.yandex.ru/model.xml?modelid=7332865&hid=2724669)
@@ -51,19 +51,20 @@ Russian version only.
   * Возможны настолки, хотя их и так достаточно [есть](https://docs.google.com/document/d/1tmS6GldcGQllXxe-SeEqjR-SzQPwu74BIwmjpf7LRyk/edit)
   * Почти любое ***LEGO***, например: [42009](http://shop.lego.com/en-US/Mobile-Crane-MK-II-42009), [42025](http://shop.lego.com/en-US/Cargo-Plane-42025), [21050](http://shop.lego.com/en-US/Studio-21050) или что-то поменьше. Есть: [8068](http://shop.lego.com/en-US/Rescue-Helicopter-8068), [9392](http://shop.lego.com/en-US/Quad-Bike-9392), [42000](http://shop.lego.com/en-US/Racer-42000)
 
+## Деньги
+
+Не вижу ничего зазорного в денежных подарках.
+
 ## Другое
 
+  * Большая термокружка с абстрактной картинкой
   * Разборная гантеля (а лучше две)
   * Handgum, чем больше/круче тем лучше!
   * Разнообразные кружки с принтами
   * Почти любое изделие из [www.tranceshop.ru](http://www.tranceshop.ru/) или подобного
-  * Какая-нибудь крутая подставка для кружки на работу
+  * ✔ ~~Какая-нибудь крутая подставка для кружки на работу~~
   * Футболки с весёлыми принтами (M или L). Следите за качеством!
   * Что-то, сделанное *вашими* руками
-
-## Деньги
-
-Не вижу ничего зазорного в денежных подарках.
 
 ## Сделайте что-нибудь полезное
 
