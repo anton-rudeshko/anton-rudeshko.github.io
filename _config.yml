@@ -3,6 +3,8 @@ description: Web dev and digital art.
 url: http://www.rudeshko.com
 
 markdown: redcarpet
+redcarpet:
+  extensions: ["strikethrough"]
 highlighter: pygments
 
 timezone: Europe/Moscow
