@@ -17,7 +17,7 @@ Russian version only.
   * ✔ ~~Аудио адаптер с Bluetooth, например: [Logitech Bluetooth Audio Adapter](http://www.ulmart.ru/goods/872447)~~
   * ✔ ~~Свежий смартфон на голом Андроиде или CyanogenMod, например: [Nexus 5](http://market.yandex.ru/model.xml?modelid=10564187&hid=91491), [OnePlus One](http://market.yandex.ru/model.xml?modelid=10799520&hid=91491)~~
   * Отличная веб-камера, например: [Logitech HD Pro Webcam C920](http://market.yandex.ru/model.xml?modelid=7878358&hid=4684840)
-  * Портативная акустика (пожелания: Bluetooth, NFC, Line In, USB), например: [JBL Pulse](http://market.yandex.ru/model.xml?modelid=10580942&hid=2724669), [Razer Ferox](http://market.yandex.ru/model.xml?modelid=7332865&hid=2724669)
+  * ✔ ~~Портативная акустика (пожелания: Bluetooth, NFC, Line In, USB), например: [JBL Pulse](http://market.yandex.ru/model.xml?modelid=10580942&hid=2724669), [Razer Ferox](http://market.yandex.ru/model.xml?modelid=7332865&hid=2724669)~~
   * ✔ ~~Домашний кинопроектор, например: [BenQ W1070](hhttp://market.yandex.ru/product/8517332)~~
   * SSD, чем жирнее тем лучше
   * Аудиокарта, например: [Focusrite Scarlett 2i2](http://market.yandex.ru/model.xml?modelid=7754997&hid=91027)
