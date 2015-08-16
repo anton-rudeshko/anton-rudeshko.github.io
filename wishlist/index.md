@@ -7,7 +7,7 @@ title: Anton Rudeshko Wishlist
 
 Russian version only.
 
-*Обновлено 12.08.2015.*
+*Обновлено 16.08.2015.*
 
 ## Железо
 
@@ -44,11 +44,26 @@ Russian version only.
 
 ## Игрушки
 
-Все мы дети.
+Я теперь взрослый, могу и в игрушки поиграть.
 
-  * Что угодно из моего [Steam Wishlist](http://steamcommunity.com/id/Tesla404/wishlist)
-  * Возможны настолки, хотя их и так достаточно [есть](https://docs.google.com/document/d/1tmS6GldcGQllXxe-SeEqjR-SzQPwu74BIwmjpf7LRyk/edit). Например, [500 злобных карт](http://www.mosigra.ru/Face/Show/500/).
-  * Почти любое ***LEGO***, например: [42009](http://shop.lego.com/en-US/Mobile-Crane-MK-II-42009), [42025](http://shop.lego.com/en-US/Cargo-Plane-42025), [21050](http://shop.lego.com/en-US/Studio-21050) или что-то поменьше. Есть: [8068](http://shop.lego.com/en-US/Rescue-Helicopter-8068), [9392](http://shop.lego.com/en-US/Quad-Bike-9392), [42000](http://shop.lego.com/en-US/Racer-42000)
+  * Что угодно из моего [Steam Wishlist][steam].
+  * Возможны настолки, хотя их и так достаточно [много есть][board]. Очень хочу [500 злобных карт][500].
+  * Почти любое ***LEGO***, например: [42009][42009], [42025][42025], [21050][21050] или что-то поменьше. Есть: [8068][8068], [9392][9392], [42000][42000], [60065][60065], [60084][60084], [75075][75075].
+
+[steam]: http://steamcommunity.com/id/Tesla404/wishlist
+
+[board]: https://docs.google.com/document/d/1tmS6GldcGQllXxe-SeEqjR-SzQPwu74BIwmjpf7LRyk/edit
+[500]: http://www.mosigra.ru/Face/Show/500/
+
+[8068]: http://shop.lego.com/en-US/Rescue-Helicopter-8068
+[9392]: http://shop.lego.com/en-US/Quad-Bike-9392
+[21050]: http://shop.lego.com/en-US/Studio-21050
+[42000]: http://shop.lego.com/en-US/Racer-42000
+[42009]: http://shop.lego.com/en-US/Mobile-Crane-MK-II-42009
+[42025]: http://shop.lego.com/en-US/Cargo-Plane-42025
+[60065]: http://shop.lego.com/en-US/ATV-Patrol-60065
+[60084]: http://shop.lego.com/en-US/Racing-Bike-Transporter-60084
+[75075]: http://shop.lego.com/en-US/AT-AT-75075
 
 ## Деньги
 
@@ -62,6 +77,8 @@ Russian version only.
   * Разборная гантеля (а лучше две).
   * Handgum, чем больше/круче тем лучше!
   * Разнообразные кружки с принтами.
+  * Полочные ночные часы, чтобы ночью видеть время.
+  * Жёсткие (firm) зубные щётки R.O.C.S. никогда не будут лишними.
   * Почти любое изделие из [www.tranceshop.ru](http://www.tranceshop.ru/) или подобного.
   * ✔ ~~Какая-нибудь крутая подставка для кружки на работу.~~
   * Футболки с весёлыми принтами (M или L). Следите за качеством!
