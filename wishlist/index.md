@@ -7,7 +7,7 @@ title: Anton Rudeshko Wishlist
 
 Russian version only.
 
-*Обновлено 16.08.2015.*
+*Обновлено 21.10.2015.*
 
 ## Железо
 
@@ -19,16 +19,17 @@ Russian version only.
   * Отличная веб-камера, например: [Logitech HD Pro Webcam C920](http://market.yandex.ru/model.xml?modelid=7878358&hid=4684840)
   * ✔ ~~Портативная акустика (пожелания: Bluetooth, NFC, Line In, USB), например: [JBL Pulse](http://market.yandex.ru/model.xml?modelid=10580942&hid=2724669), [Razer Ferox](http://market.yandex.ru/model.xml?modelid=7332865&hid=2724669)~~
   * ✔ ~~Домашний кинопроектор, например: [BenQ W1070](hhttp://market.yandex.ru/product/8517332)~~
-  * SSD, чем жирнее тем лучше
+  * ✔ ~~SSD, чем жирнее тем лучше~~
   * Аудиокарта, например: [Focusrite Scarlett 2i2](http://market.yandex.ru/model.xml?modelid=7754997&hid=91027)
   * Гибкий штатив, например: [FotoPro](http://gopromarket.ru/#!/Гибкий-штатив-FotoPro/p/23619897/category=7002370)
   * Десктопная докстанция (для переключения переферии с десктопа на ноут через один USB), например: [Plugable UD-3000](http://www.amazon.com/Plugable-UD-3000-Universal-2048x1152-Ethernet/dp/B008N06I2I)
 
 Есть:
 
+  * SSD 240GB
+  * Видеокарта Radeon R9 200 series
   * Флэшка 16 ГБ
   * Мышь Razer Imperator
-  * SSD 128GB
   * Обычная клавиатура за 250р
 
 ## Головоломки
@@ -75,6 +76,7 @@ Russian version only.
 
 ## Другое
 
+  * Бафф.
   * Большая термокружка с абстрактной картинкой.
   * Карты для покера планирования.
   * ✔ ~~Подушка на шею для поездок/перелётов.~~
