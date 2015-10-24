@@ -21,3 +21,6 @@ contacts:
 prose:
     siteurl: http://www.rudeshko.com
     media: assets
+
+gems:
+- jekyll-feed
