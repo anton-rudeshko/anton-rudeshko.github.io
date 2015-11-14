@@ -13,6 +13,7 @@ Russian version only.
 
 По убыванию:
 
+  * Сетевой накопитель (NAS). Сам в них пока не очень хорошо разбираюсь. Хочется хранить там музыку, фильмы, фото, бэкапы. Возможно, качать. Чем больше слотов под диски, тем лучше.
   * ✔ ~~Беспроводной геймпад для PC, например: [Microsoft Xbox 360 Wireless Controller for Windows](http://market.yandex.ru/model.xml?modelid=6157885&hid=91117)~~
   * ✔ ~~Аудио адаптер с Bluetooth, например: [Logitech Bluetooth Audio Adapter](http://www.ulmart.ru/goods/872447)~~
   * ✔ ~~Свежий смартфон на голом Андроиде или CyanogenMod, например: [Nexus 5](http://market.yandex.ru/model.xml?modelid=10564187&hid=91491), [OnePlus One](http://market.yandex.ru/model.xml?modelid=10799520&hid=91491)~~
