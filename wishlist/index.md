@@ -7,7 +7,7 @@ title: Anton Rudeshko Wishlist
 
 Russian version only.
 
-*Обновлено 05.12.2015.*
+*Обновлено 06.12.2015.*
 
 ## Железо
 
@@ -50,7 +50,7 @@ Russian version only.
 
   * Что угодно из моего [Steam Wishlist][steam].
   * Какой-нибудь шмот для Dota 2.
-  * Игры Blizzard (не уверен, что их можно дарить): StarCraft 2: Legacy of the Void, Diablo 3: Reaper of Souls.
+  * Игры Blizzard (не уверен, что их можно дарить): StarCraft 2: Legacy of the Void, Diablo 3: Reaper of Souls, может быть даже Overwatch.
   * Возможны настолки, хотя их и так достаточно [много есть][board]. Очень хочу [500 злобных карт][500].
   * Почти любое ***LEGO***, например: [42009][42009], [42025][42025], [21050][21050] или что-то поменьше. Есть: [8068][8068], [9392][9392], [42000][42000], [60065][60065], [60084][60084], [75075][75075].
   * [LEGO. Книга идей][lego-ideas], [Большая книга LEGO][lego-big].
