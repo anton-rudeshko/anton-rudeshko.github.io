@@ -7,7 +7,7 @@ title: Anton Rudeshko Wishlist
 
 Russian version only.
 
-*Обновлено 06.12.2015.*
+*Обновлено 17.12.2015.*
 
 ## Железо
 
@@ -52,8 +52,8 @@ Russian version only.
   * Какой-нибудь шмот для Dota 2.
   * Игры Blizzard (не уверен, что их можно дарить): StarCraft 2: Legacy of the Void, Diablo 3: Reaper of Souls, может быть даже Overwatch.
   * Возможны настолки, хотя их и так достаточно [много есть][board]. Очень хочу [500 злобных карт][500].
-  * Почти любое ***LEGO***, например: [42009][42009], [42025][42025], [21050][21050] или что-то поменьше. Есть: [8068][8068], [9392][9392], [42000][42000], [60065][60065], [60084][60084], [75075][75075].
-  * [LEGO. Книга идей][lego-ideas], [Большая книга LEGO][lego-big].
+  * Почти любое ***LEGO***, например: [42009][42009], [42025][42025], [21050][21050] или что-то поменьше. Есть: [8068][8068], [9392][9392], [42000][42000], [60065][60065], [60084][60084], [75075][75075], [75100][75100].
+  * ~~[LEGO. Книга идей][lego-ideas]~~, [Большая книга LEGO][lego-big].
 
 [steam]: http://steamcommunity.com/id/Tesla404/wishlist
 
@@ -69,6 +69,7 @@ Russian version only.
 [60065]: http://shop.lego.com/en-US/ATV-Patrol-60065
 [60084]: http://shop.lego.com/en-US/Racing-Bike-Transporter-60084
 [75075]: http://shop.lego.com/en-US/AT-AT-75075
+[75100]: http://shop.lego.com/en-US/First-Order-Snowspeeder-75100
 
 [lego-ideas]: http://www.ozon.ru/context/detail/id/23876708/
 [lego-big]: http://www.mann-ivanov-ferber.ru/books/paperbook/unofficial-lego-builders-guide/
