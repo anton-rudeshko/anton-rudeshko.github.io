@@ -102,12 +102,15 @@ Russian version only.
 ## Сделайте что-нибудь полезное
 
   * Наведите порядок в своей голове.
-  * Заведите дневник. [Зачем?](http://lifehacker.ru/2012/10/20/6-prichin-zavesti-lichnyjj-dnevnik/)
+  * Заведите дневник. [Зачем?][diary-reason] [И ещё][why-diary].
   * Пристройте котёнка.
   * Посадите дерево.
   * Законтрибьютьте в опенсорс.
   * Отрефакторьте свой код.
   * Сделайте мир лучше.
+
+[diary-reason]: http://lifehacker.ru/2012/10/20/6-prichin-zavesti-lichnyjj-dnevnik/
+[why-diary]: https://medium.com/life-learning/why-keeping-a-daily-journal-could-change-your-life-cc114311afd
 
 ## Я не люблю
 
