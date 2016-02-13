@@ -2,10 +2,11 @@ name: Anton Rudeshko
 description: Web dev and digital art.
 url: http://www.rudeshko.com
 
-markdown: redcarpet
-redcarpet:
-  extensions: ["strikethrough"]
-highlighter: pygments
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
 
 timezone: Europe/Moscow
 encoding: UTF-8
@@ -23,5 +24,6 @@ prose:
     media: assets
 
 gems:
+- jekyll-paginate
 - jekyll-feed
 - jemoji
