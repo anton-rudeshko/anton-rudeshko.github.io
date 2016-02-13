@@ -36,7 +36,7 @@ Think of it as a real life product such as notebook with pre-installed Windows o
 Let's now talk about useful payload of your npm package.
 I asked this question on [StackOverflow](http://stackoverflow.com/questions/23090677/what-should-one-put-into-npm-package) but it has not received as much attention as I would have liked.
 
-Speaking in terms of object-oriented design, your npm package should be [highly cohesive](http://en.wikipedia.org/wiki/Cohesion_(computer_science) and [loosely coupled](http://en.wikipedia.org/wiki/Loose_coupling). Your package should do only one thing and do it well.
+Speaking in terms of object-oriented design, your npm package should be [highly cohesive](http://en.wikipedia.org/wiki/Cohesion_(computer_science)) and [loosely coupled](http://en.wikipedia.org/wiki/Loose_coupling). Your package should do only one thing and do it well.
 
 So, what should you put into npm package?
 
