@@ -26,6 +26,10 @@ If that isn't what you thought you told it to do, that's your problem.
 
 — W. Edwards Deming
 
+> Be everything to everybody and you’ll be nothing for yourself.
+
+— John Rushton
+
 > The more you care about the outcome, the harder it feels to achieve. The less you care, the more naturally it comes to you.
 
 — Mark Manson about [Procrastination](http://markmanson.net/procrastination)
