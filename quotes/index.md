@@ -14,6 +14,10 @@ If that isn't what you thought you told it to do, that's your problem.
 
 — Kent Beck in Extreme Programming Explained
 
+> The Best Code is No Code At All.
+
+— Jeff Atwood in [blog post](http://blog.codinghorror.com/the-best-code-is-no-code-at-all/)
+
 > Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
 
 — Antoine de Saint-Exupery
