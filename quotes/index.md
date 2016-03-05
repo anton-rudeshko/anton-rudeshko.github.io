@@ -26,6 +26,10 @@ If that isn't what you thought you told it to do, that's your problem.
 
 — Peter Drucker
 
+> Experience is what you get when you didn't get what you wanted.
+
+— Randy Pausch in "The Last Lecture"
+
 > It is not necessary to change. Survival is not mandatory.
 
 — W. Edwards Deming
