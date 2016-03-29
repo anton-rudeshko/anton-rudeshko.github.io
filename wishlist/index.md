@@ -9,7 +9,7 @@ Russian version only.
 
 Обратите также внимание на наш [семейный вишлист][family-wishlist].
 
-*Обновлено 21.02.2016.*
+*Обновлено 29.03.2016.*
 
 [family-wishlist]: /wishlist/family/
 
@@ -17,16 +17,16 @@ Russian version only.
 
 По убыванию:
 
-  * Аудиокарта, например: [Focusrite Scarlett 2i2](http://market.yandex.ru/model.xml?modelid=7754997&hid=91027)
+  * ? Аудиокарта, например: [Focusrite Scarlett 2i2](http://market.yandex.ru/model.xml?modelid=7754997&hid=91027)
+    * Кажется, пока не нужна, так как есть Traktor Kontrol S2
   * ✔ <del>Беспроводной геймпад для PC, например: [Microsoft Xbox 360 Wireless Controller for Windows](http://market.yandex.ru/model.xml?modelid=6157885&hid=91117)</del>
   * ✔ <del>Аудио адаптер с Bluetooth, например: [Logitech Bluetooth Audio Adapter](http://www.ulmart.ru/goods/872447)</del>
   * ✔ <del>Свежий смартфон на голом Андроиде или CyanogenMod, например: [Nexus 5](http://market.yandex.ru/model.xml?modelid=10564187&hid=91491), [OnePlus One](http://market.yandex.ru/model.xml?modelid=10799520&hid=91491)</del>
-  * Отличная веб-камера, например: [Logitech HD Pro Webcam C920](http://market.yandex.ru/model.xml?modelid=7878358&hid=4684840)
   * ✔ <del>Портативная акустика (пожелания: Bluetooth, NFC, Line In, USB), например: [JBL Pulse](http://market.yandex.ru/model.xml?modelid=10580942&hid=2724669), [Razer Ferox](http://market.yandex.ru/model.xml?modelid=7332865&hid=2724669)</del>
   * ✔ <del>Домашний кинопроектор, например: [BenQ W1070](hhttp://market.yandex.ru/product/8517332)</del>
   * ✔ <del>SSD, чем жирнее тем лучше</del>
-  * Гибкий штатив, например: [FotoPro](http://gopromarket.ru/#!/Гибкий-штатив-FotoPro/p/23619897/category=7002370)
   * Сетевой накопитель (NAS). Сам в них пока не очень хорошо разбираюсь. Хочется хранить там музыку, фильмы, фото, бэкапы. Возможно, качать. Чем больше слотов под диски, тем лучше.
+  * Отличная веб-камера, например: [Logitech HD Pro Webcam C920](http://market.yandex.ru/model.xml?modelid=7878358&hid=4684840)
   * Десктопная докстанция (для переключения переферии с десктопа на ноут через один USB), например: [Plugable UD-3000](http://www.amazon.com/Plugable-UD-3000-Universal-2048x1152-Ethernet/dp/B008N06I2I)
 
 Есть:
