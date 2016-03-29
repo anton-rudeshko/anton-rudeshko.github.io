@@ -42,6 +42,10 @@ If that isn't what you thought you told it to do, that's your problem.
 
 — Mark Manson about [Procrastination](http://markmanson.net/procrastination)
 
+> Music is the soundtrack of our lives.
+
+— Dick Clark
+
 > Как мотивировать себя что-то делать? Да никак, оставайтесь в жопе!
 
 — Артемий Лебедев
