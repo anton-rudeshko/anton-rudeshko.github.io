@@ -7,9 +7,9 @@ title: Quotes — Anton Rudeshko
 
 Various quotes I like to use and spread.
 
-> The most important thing is learning. The way I learn is to have a thought, then test it out to see if it is a good 
-thought. Code is the best way I know of to do this. Code isn't swayed by the power and logic of rhetoric. Code isn't 
-impressed by college degrees or large salaries. Code just sits there, happily doing exactly what you told it to do. 
+> The most important thing is learning. The way I learn is to have a thought, then test it out to see if it is a good
+thought. Code is the best way I know of to do this. Code isn't swayed by the power and logic of rhetoric. Code isn't
+impressed by college degrees or large salaries. Code just sits there, happily doing exactly what you told it to do.
 If that isn't what you thought you told it to do, that's your problem.
 
 — Kent Beck in Extreme Programming Explained
@@ -25,6 +25,10 @@ If that isn't what you thought you told it to do, that's your problem.
 > Efficiency is doing things right; effectiveness is doing the right things.
 
 — Peter Drucker
+
+> Programs must be written for people to read, and only incidentally for machines to execute.
+
+— Harold Abelson in "Structure and Interpretation of Computer Programs"
 
 > Experience is what you get when you didn't get what you wanted.
 
@@ -50,9 +54,9 @@ If that isn't what you thought you told it to do, that's your problem.
 
 — Артемий Лебедев
 
-> Умей поставить, в радостной надежде,  
-> Но карту все, что накопил с трудом,  
-> Все проиграть и нищим стать, как прежде,  
-> И никогда не пожалеть о том.  
+> Умей поставить, в радостной надежде,
+> Но карту все, что накопил с трудом,
+> Все проиграть и нищим стать, как прежде,
+> И никогда не пожалеть о том.
 
 — Редьярд Киплинг, "Заповедь"
