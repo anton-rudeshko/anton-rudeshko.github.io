@@ -42,6 +42,10 @@ If that isn't what you thought you told it to do, that's your problem.
 
 — John Rushton
 
+> Time you enjoy wasting, was not wasted.
+
+— John Lennon
+
 > The more you care about the outcome, the harder it feels to achieve. The less you care, the more naturally it comes to you.
 
 — Mark Manson about [Procrastination](http://markmanson.net/procrastination)
@@ -54,9 +58,9 @@ If that isn't what you thought you told it to do, that's your problem.
 
 — Артемий Лебедев
 
-> Умей поставить, в радостной надежде,
-> Но карту все, что накопил с трудом,
-> Все проиграть и нищим стать, как прежде,
+> Умей поставить, в радостной надежде,<br>
+> Но карту все, что накопил с трудом,<br>
+> Все проиграть и нищим стать, как прежде,<br>
 > И никогда не пожалеть о том.
 
 — Редьярд Киплинг, "Заповедь"
