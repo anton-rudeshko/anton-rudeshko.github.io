@@ -7,17 +7,14 @@ title: Anton Rudeshko Wishlist
 
 Russian version only.
 
-Обратите также внимание на наш [семейный вишлист][family-wishlist].
-
-*Обновлено 29.03.2016.*
-
-[family-wishlist]: /wishlist/family/
+*Обновлено 08.05.2016.*
 
 ## Железо
 
 По убыванию:
 
   * Открытые мониторные наушники, например: [Sennheiser HD 518][hd-518]
+  * Машинка для стрижки
   * [Native Instruments Traktor Kontrol S5][ni-kontrol-s5]
   * [Native Instruments Traktor Kontrol F1][ni-kontrol-f1]
   * ? Аудиокарта, например: [Focusrite Scarlett 2i2](http://market.yandex.ru/model.xml?modelid=7754997&hid=91027)
