@@ -7,17 +7,19 @@ title: Anton Rudeshko Wishlist
 
 Russian version only.
 
-*Обновлено 08.05.2016.*
+*Обновлено 31.10.2016.*
 
 ## Железо
 
 По убыванию:
 
+  * Читалка Amazon Kindle
+    * Не разбираюсь в них, так что доверяю годноту вышему выбору.
   * Открытые мониторные наушники, например: [Sennheiser HD 518][hd-518]
-  * Машинка для стрижки
+  * ✔ <del>Машинка для стрижки</del>
   * [Native Instruments Traktor Kontrol S5][ni-kontrol-s5]
   * [Native Instruments Traktor Kontrol F1][ni-kontrol-f1]
-  * ? Аудиокарта, например: [Focusrite Scarlett 2i2](http://market.yandex.ru/model.xml?modelid=7754997&hid=91027)
+  * ? Аудиокарта, например: [Focusrite Scarlett 2i2][audiocard]
     * Кажется, пока не нужна, так как есть встроенная в Traktor Kontrol S2.
   * ✔ <del>Беспроводной геймпад для PC, например: [Microsoft Xbox 360 Wireless Controller for Windows](http://market.yandex.ru/model.xml?modelid=6157885&hid=91117)</del>
   * ✔ <del>Аудио адаптер с Bluetooth, например: [Logitech Bluetooth Audio Adapter](http://www.ulmart.ru/goods/872447)</del>
@@ -25,18 +27,21 @@ Russian version only.
   * ✔ <del>Портативная акустика (пожелания: Bluetooth, NFC, Line In, USB), например: [JBL Pulse](http://market.yandex.ru/model.xml?modelid=10580942&hid=2724669), [Razer Ferox](http://market.yandex.ru/model.xml?modelid=7332865&hid=2724669)</del>
   * ✔ <del>Домашний кинопроектор, например: [BenQ W1070](hhttp://market.yandex.ru/product/8517332)</del>
   * ✔ <del>SSD, чем жирнее тем лучше</del>
-  * Сетевой накопитель (NAS). Сам в них пока не очень хорошо разбираюсь. Хочется хранить там музыку, фильмы, фото, бэкапы. Возможно, качать. Чем больше слотов под диски, тем лучше.
-  * ✔ <del>Отличная веб-камера, например: [Logitech HD Pro Webcam C920](http://market.yandex.ru/model.xml?modelid=7878358&hid=4684840)</del>
+  * Сетевой накопитель (NAS).
+    * Сам в них пока не очень хорошо разбираюсь. Хочется хранить там музыку, фильмы, фото, бэкапы. Возможно, качать. Чем больше слотов под диски, тем лучше.
+  * ✔ <del>Отличная веб-камера, например: [Logitech HD Pro Webcam C920][webcam]</del>
   * Десктопная докстанция (для переключения переферии с десктопа на ноут через один USB), например: [Plugable UD-3000](http://www.amazon.com/Plugable-UD-3000-Universal-2048x1152-Ethernet/dp/B008N06I2I)
 
 [hd-518]: https://market.yandex.ru/product/6516805
 [ni-kontrol-s5]: http://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-s5/
 [ni-kontrol-f1]: http://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-f1/
+[audiocard]: http://market.yandex.ru/model.xml?modelid=7754997&hid=91027
+[webcam]: http://market.yandex.ru/model.xml?modelid=7878358&hid=4684840
 
 Есть:
 
   * SSD 240GB
-  * Видеокарта Radeon R9 200 series
+  * Видеокарта GIGABYTE Radeon R9 270
   * Флэшка 16 ГБ
   * Мышь Razer Imperator
   * Обычная клавиатура за 250р
@@ -92,19 +97,21 @@ Russian version only.
 
   * Бафф.
   * Ручки с тонкими штрихами. Скорее всего гелевые. Нормальные ручки постоянно куда-то исчезают!
-  * ✔ <del>Большая термокружка с абстрактной картинкой.</del> Очень хорошо зашла икеевская EFTERSÖKT.
+  * ✔ <del>Большая термокружка с абстрактной картинкой.</del> Очень хорошо зашла икеевская [EFTERSÖKT][eftersokt].
   * Карты для покера планирования.
   * ✔ <del>Подушка на шею для поездок/перелётов.</del>
   * Разборная гантеля (а лучше две).
   * [FL Studio][fl-studio]
   * Handgum, чем больше/круче тем лучше!
   * Разнообразные кружки с принтами.
+  * Листовой чай.
   * Жёсткие (firm) зубные щётки R.O.C.S. никогда не будут лишними.
   * Почти любое изделие из [www.tranceshop.ru](http://www.tranceshop.ru/) или подобного.
   * ✔ <del>Какая-нибудь крутая подставка для кружки на работу.</del>
   * Футболки с весёлыми принтами (M или L). Следите за качеством!
   * Что-то, сделанное *вашими* руками.
 
+[eftersokt]: http://www.ikea.com/us/en/catalog/products/20287685/
 [fl-studio]: https://support.image-line.com/jshop/shop.php
 
 ## Сделайте что-нибудь полезное
