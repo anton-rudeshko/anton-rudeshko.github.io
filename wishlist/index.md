@@ -7,7 +7,7 @@ title: Anton Rudeshko Wishlist
 
 Russian version only.
 
-*Обновлено 31.10.2016.*
+*Обновлено 06.01.2017.*
 
 ## Железо
 
@@ -16,27 +16,18 @@ Russian version only.
   * Читалка Amazon Kindle
     * Не разбираюсь в них, так что доверяю годноту вышему выбору.
   * Открытые мониторные наушники, например: [Sennheiser HD 518][hd-518]
-  * ✔ <del>Машинка для стрижки</del>
   * [Native Instruments Traktor Kontrol S5][ni-kontrol-s5]
   * [Native Instruments Traktor Kontrol F1][ni-kontrol-f1]
   * ? Аудиокарта, например: [Focusrite Scarlett 2i2][audiocard]
     * Кажется, пока не нужна, так как есть встроенная в Traktor Kontrol S2.
-  * ✔ <del>Беспроводной геймпад для PC, например: [Microsoft Xbox 360 Wireless Controller for Windows](http://market.yandex.ru/model.xml?modelid=6157885&hid=91117)</del>
-  * ✔ <del>Аудио адаптер с Bluetooth, например: [Logitech Bluetooth Audio Adapter](http://www.ulmart.ru/goods/872447)</del>
-  * ✔ <del>Свежий смартфон на голом Андроиде или CyanogenMod, например: [Nexus 5](http://market.yandex.ru/model.xml?modelid=10564187&hid=91491), [OnePlus One](http://market.yandex.ru/model.xml?modelid=10799520&hid=91491)</del>
-  * ✔ <del>Портативная акустика (пожелания: Bluetooth, NFC, Line In, USB), например: [JBL Pulse](http://market.yandex.ru/model.xml?modelid=10580942&hid=2724669), [Razer Ferox](http://market.yandex.ru/model.xml?modelid=7332865&hid=2724669)</del>
-  * ✔ <del>Домашний кинопроектор, например: [BenQ W1070](hhttp://market.yandex.ru/product/8517332)</del>
-  * ✔ <del>SSD, чем жирнее тем лучше</del>
   * Сетевой накопитель (NAS).
     * Сам в них пока не очень хорошо разбираюсь. Хочется хранить там музыку, фильмы, фото, бэкапы. Возможно, качать. Чем больше слотов под диски, тем лучше.
-  * ✔ <del>Отличная веб-камера, например: [Logitech HD Pro Webcam C920][webcam]</del>
   * Десктопная докстанция (для переключения переферии с десктопа на ноут через один USB), например: [Plugable UD-3000](http://www.amazon.com/Plugable-UD-3000-Universal-2048x1152-Ethernet/dp/B008N06I2I)
 
 [hd-518]: https://market.yandex.ru/product/6516805
 [ni-kontrol-s5]: http://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-s5/
 [ni-kontrol-f1]: http://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-f1/
 [audiocard]: http://market.yandex.ru/model.xml?modelid=7754997&hid=91027
-[webcam]: http://market.yandex.ru/model.xml?modelid=7878358&hid=4684840
 
 Есть:
 
@@ -48,7 +39,7 @@ Russian version only.
 
 ## Головоломки
 
-  * Кубики-Рубики, например: 1x1 (если вы понимаете, о чём я), [Gear Cube](http://playlab.ru/toys/mefferts/gear-cube/)
+  * Кубики Рубика, например: 1x1 (если вы понимаете, о чём я), [Gear Cube](http://playlab.ru/toys/mefferts/gear-cube/)
   * [LEONARDO Puzzles](http://www.leonardo-puzzles.com/)
   * Прочая ерунда на ваш выбор
 
@@ -63,10 +54,10 @@ Russian version only.
 
   * Что угодно из моего [Steam Wishlist][steam].
   * Какой-нибудь шмот для Dota 2.
-  * Игры Blizzard (не уверен, что их можно дарить): <del>StarCraft 2: Legacy of the Void</del>, Diablo 3: Reaper of Souls, может быть даже Overwatch.
-  * Возможны настолки, хотя их и так достаточно [много есть][board]. <del>Очень хочу [500 злобных карт][500].</del>
+  * Игры Blizzard (не уверен, что их можно дарить): Diablo 3: Reaper of Souls, может быть даже Overwatch.
+  * Возможны настолки, хотя их и так достаточно [много есть][board].
   * Почти любое ***LEGO***, например: [42009][42009], [42025][42025], [21050][21050] или что-то поменьше. Есть: [8068][8068], [9392][9392], [42000][42000], [42034][42034], [60065][60065], [60084][60084], [75075][75075], [75076][75076], [75100][75100].
-  * <del>[LEGO. Книга идей][lego-ideas]</del>, [Большая книга LEGO][lego-big].
+  * [Большая книга LEGO][lego-big].
 
 [steam]: http://steamcommunity.com/id/Tesla404/wishlist
 
@@ -86,7 +77,6 @@ Russian version only.
 [75076]: http://shop.lego.com/en-US/Republic-Gunship-75076
 [75100]: http://shop.lego.com/en-US/First-Order-Snowspeeder-75100
 
-[lego-ideas]: http://www.ozon.ru/context/detail/id/23876708/
 [lego-big]: http://www.mann-ivanov-ferber.ru/books/paperbook/unofficial-lego-builders-guide/
 
 ## Деньги
@@ -97,9 +87,7 @@ Russian version only.
 
   * Бафф.
   * Ручки с тонкими штрихами. Скорее всего гелевые. Нормальные ручки постоянно куда-то исчезают!
-  * ✔ <del>Большая термокружка с абстрактной картинкой.</del> Очень хорошо зашла икеевская [EFTERSÖKT][eftersokt].
   * Карты для покера планирования.
-  * ✔ <del>Подушка на шею для поездок/перелётов.</del>
   * Разборная гантеля (а лучше две).
   * [FL Studio][fl-studio]
   * Handgum, чем больше/круче тем лучше!
@@ -107,25 +95,10 @@ Russian version only.
   * Листовой чай.
   * Жёсткие (firm) зубные щётки R.O.C.S. никогда не будут лишними.
   * Почти любое изделие из [www.tranceshop.ru](http://www.tranceshop.ru/) или подобного.
-  * ✔ <del>Какая-нибудь крутая подставка для кружки на работу.</del>
   * Футболки с весёлыми принтами (M или L). Следите за качеством!
   * Что-то, сделанное *вашими* руками.
 
-[eftersokt]: http://www.ikea.com/us/en/catalog/products/20287685/
 [fl-studio]: https://support.image-line.com/jshop/shop.php
-
-## Сделайте что-нибудь полезное
-
-  * Наведите порядок в своей голове.
-  * Заведите дневник. [Зачем?][diary-reason] [И ещё][why-diary].
-  * Пристройте котёнка.
-  * Посадите дерево.
-  * Законтрибьютьте в опенсорс.
-  * Отрефакторьте свой код.
-  * Сделайте мир лучше.
-
-[diary-reason]: http://lifehacker.ru/2012/10/20/6-prichin-zavesti-lichnyjj-dnevnik/
-[why-diary]: https://medium.com/life-learning/why-keeping-a-daily-journal-could-change-your-life-cc114311afd
 
 ## Я не люблю
 
