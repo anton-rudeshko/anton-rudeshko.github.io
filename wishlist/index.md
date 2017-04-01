@@ -5,26 +5,28 @@ title: Anton Rudeshko Wishlist
 
 # Anton Rudeshko Wishlist
 
-Russian version only.
-
-*Обновлено 06.01.2017.*
+*Обновлено 01.04.2017.*
 
 ## Железо
 
 По убыванию:
 
-  * Новые видеокарты всегда хорошо заходят. Предпочитаю Nvidia.
+  * Новые видеокарты всегда хорошо заходят. NVIDIA, > 2GB.
+    * Например: [GIGABYTE GeForce GTX 1050 Ti][gigabyte-vc]
+    * Сейчас [GIGABYTE Radeon R9 270][my-vc]
+  * Открытые мониторные наушники, например: [Sennheiser HD 518][hd-518]
+  * HDMI провод 7-10m (или коннектор F-F для соединения двух)
   * Читалка Amazon Kindle
     * Не разбираюсь в них, так что доверяю годноту вышему выбору.
-  * Открытые мониторные наушники, например: [Sennheiser HD 518][hd-518]
-  * [Native Instruments Traktor Kontrol S5][ni-kontrol-s5]
   * [Native Instruments Traktor Kontrol F1][ni-kontrol-f1]
+* [Native Instruments Traktor Kontrol S5][ni-kontrol-s5]
   * ? Аудиокарта, например: [Focusrite Scarlett 2i2][audiocard]
     * Кажется, пока не нужна, так как есть встроенная в Traktor Kontrol S2.
-  * Сетевой накопитель (NAS).
+  * Сетевой накопитель (NAS) или основа для домашнего сервера.
     * Сам в них пока не очень хорошо разбираюсь. Хочется хранить там музыку, фильмы, фото, бэкапы. Возможно, качать. Чем больше слотов под диски, тем лучше.
-  * Десктопная докстанция (для переключения переферии с десктопа на ноут через один USB), например: [Plugable UD-3000](http://www.amazon.com/Plugable-UD-3000-Universal-2048x1152-Ethernet/dp/B008N06I2I)
 
+[gigabyte-vc]: https://market.yandex.ru/product/1712062089
+[my-vc]: https://market.yandex.ru/product/10583548
 [hd-518]: https://market.yandex.ru/product/6516805
 [ni-kontrol-s5]: http://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-s5/
 [ni-kontrol-f1]: http://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-f1/
@@ -33,7 +35,6 @@ Russian version only.
 Есть:
 
   * SSD 240GB
-  * Видеокарта GIGABYTE Radeon R9 270
   * Флэшка 16 ГБ
   * Мышь Razer Imperator
   * Обычная клавиатура за 250р
@@ -53,7 +54,7 @@ Russian version only.
 
 Я теперь взрослый, могу и в игрушки поиграть.
 
-  * Что угодно из моего [Steam Wishlist][steam].
+  * Что угодно из моего [Steam Wishlist][steam]. Скорее всего вам нужно быть у меня в друзьях, чтобы его увидеть.
   * Какой-нибудь шмот для Dota 2.
   * Игры Blizzard (не уверен, что их можно дарить): Diablo 3: Reaper of Souls, может быть даже Overwatch.
   * Возможны настолки, хотя их и так достаточно [много есть][board].
