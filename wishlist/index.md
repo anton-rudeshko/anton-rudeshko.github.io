@@ -11,9 +11,6 @@ title: Anton Rudeshko Wishlist
 
 По убыванию:
 
-  * Новые видеокарты всегда хорошо заходят. NVIDIA, > 2GB.
-    * Например: [GIGABYTE GeForce GTX 1050 Ti][gigabyte-vc]
-    * Сейчас [GIGABYTE Radeon R9 270][my-vc]
   * Открытые мониторные наушники, например: [Sennheiser HD 518][hd-518]
   * HDMI провод 7-10m (или коннектор F-F для соединения двух)
   * Читалка Amazon Kindle
@@ -25,8 +22,6 @@ title: Anton Rudeshko Wishlist
   * Сетевой накопитель (NAS) или основа для домашнего сервера.
     * Сам в них пока не очень хорошо разбираюсь. Хочется хранить там музыку, фильмы, фото, бэкапы. Возможно, качать. Чем больше слотов под диски, тем лучше.
 
-[gigabyte-vc]: https://market.yandex.ru/product/1712062089
-[my-vc]: https://market.yandex.ru/product/10583548
 [hd-518]: https://market.yandex.ru/product/6516805
 [ni-kontrol-s5]: http://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-s5/
 [ni-kontrol-f1]: http://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-f1/
@@ -35,19 +30,22 @@ title: Anton Rudeshko Wishlist
 Есть:
 
   * SSD 240GB
+  * Видеокарта [GIGABYTE GeForce GTX 1050 Ti][gigabyte-vc]
   * Флэшка 16 ГБ
   * Мышь Razer Imperator
   * Обычная клавиатура за 250р
 
+[gigabyte-vc]: https://market.yandex.ru/product/1712062089
+
 ## Головоломки
 
-  * Кубики Рубика, например: 1x1 (если вы понимаете, о чём я), [Gear Cube](http://playlab.ru/toys/mefferts/gear-cube/)
+  * Кубики Рубика, например, [Gear Cube](http://playlab.ru/toys/mefferts/gear-cube/)
   * [LEONARDO Puzzles](http://www.leonardo-puzzles.com/)
   * Прочая ерунда на ваш выбор
 
 Есть:
 
-  * 2x2, 3x3, 4x4, зеркальный, морфикс, плоский куб
+  * 1x1, 2x2, 3x3, 4x4, зеркальный, морфикс, плоский куб
   * Perplexus Epic
 
 ## Игрушки
