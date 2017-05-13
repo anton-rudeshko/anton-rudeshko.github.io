@@ -59,7 +59,7 @@ title: Anton Rudeshko Wishlist
   * Почти любое ***LEGO***
     * Например: [42009][42009], [42025][42025], [21050][21050], [21114][21114], [21116][21116]. Или что-нибудь поменьше на ваш выбор.
     * Немного устал от Technic. Коллекционирую серии [Minecraft][lego-minecraft] и [Architecture][lego-architecture].
-    * ⚠️ Пожалуйста, убедитесь, что у меня нет этого набора. Есть: [8068][8068], [9392][9392], [21115][21115], [42000][42000], [42034][42034], [60065][60065], [60084][60084], [75075][75075], [75076][75076], [75100][75100].
+    * ⚠️ Пожалуйста, убедитесь, что у меня нет этого набора. Есть: [8068][8068], [9392][9392], [21115][21115], [21125][21125], [42000][42000], [42034][42034], [60065][60065], [60084][60084], [70900][70900], [75075][75075], [75076][75076], [75100][75100].
     * [Большая книга LEGO][lego-big].
 
 [steam]: http://steamcommunity.com/id/Tesla404/wishlist
@@ -73,12 +73,14 @@ title: Anton Rudeshko Wishlist
 [21114]: https://shop.lego.com/en-US/The-Farm-21114
 [21115]: https://shop.lego.com/en-US/The-First-Night-21115
 [21116]: https://shop.lego.com/en-US/Crafting-Box-21116
+[21125]: https://shop.lego.com/en-US/The-Jungle-Tree-House-21125
 [42000]: https://shop.lego.com/en-US/Racer-42000
 [42009]: https://shop.lego.com/en-US/Mobile-Crane-MK-II-42009
 [42025]: https://shop.lego.com/en-US/Cargo-Plane-42025
 [42034]: https://shop.lego.com/en-US/Quad-Bike-42034
 [60065]: https://shop.lego.com/en-US/ATV-Patrol-60065
 [60084]: https://shop.lego.com/en-US/Racing-Bike-Transporter-60084
+[70900]: https://shop.lego.com/en-US/The-Joker-Balloon-Escape-70900
 [75075]: https://shop.lego.com/en-US/AT-AT-75075
 [75076]: https://shop.lego.com/en-US/Republic-Gunship-75076
 [75100]: https://shop.lego.com/en-US/First-Order-Snowspeeder-75100
