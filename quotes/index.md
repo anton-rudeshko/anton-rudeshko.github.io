@@ -30,6 +30,10 @@ If that isn't what you thought you told it to do, that's your problem.
 
 — Harold Abelson in "Structure and Interpretation of Computer Programs"
 
+> There are only two hard things in Computer Science: cache invalidation and naming things.
+
+— Phil Karlton
+
 > Experience is what you get when you didn't get what you wanted.
 
 — Randy Pausch in "The Last Lecture"
