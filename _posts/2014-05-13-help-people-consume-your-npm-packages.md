@@ -7,23 +7,23 @@ title: Help People Consume Your npm Packages
 
 Today I want to share with you some pain and thoughts on current state of [npm](https://www.npmjs.org/) packages and `node_modules` folder in your application root.
 
-Most of the times npm packages is declared as dependencies of your app in `package.json` and installed every time you need them. Generally there should not be much more than single `npm install` for each working copy of your project.
+Most of the times npm packages are declared as dependencies of your app in `package.json` and installed every time you need them. Generally there should not be much more than single `npm install` for each working copy of your project.
 
 ## The Pain
-But things get complicated when you decide to use continuous integration/deployment, where your project is constantly built from scratch. Our TeamCity instance builds about 150 times a day on average and npm packages is installed every single time. Usually it takes about 30 seconds to <strike>Mars</strike> install all packages from local npm mirror. That is about **75 minutes** every day is spent on repeated installs of same npm packages. Ouch. I think that's a lot of time and potential bottleneck.
+But things get complicated when you decide to use continuous integration/deployment, where your project is being constantly built from scratch. Our TeamCity instance builds about 150 times a day on average and npm packages are installed every single time. Usually it takes about 30 seconds to <strike>Mars</strike> install all packages from local npm mirror. That is about **75 minutes** every day spent on repeated installs of the same npm packages. Ouch. I think that's a lot of time and potential bottleneck.
 
-Moreover, npm itself is not very stable and I often end up resolving some weird unclear and hardly reproducible portability issues, cleaning caches and reinstalling different versions. Just recently there was an network-related accident with our registry mirror, at the same time several broken packages were published on npmjs.org, European mirror had some outdated packages and npm@1.4.7 somehow become extremely buggy at our environment. An entire team was unable to work for several hours. And this really makes me upset.
+Moreover, npm itself is not very stable and I often end up resolving some weird unclear and hardly reproducible portability issues, cleaning caches and reinstalling different versions. Just recently there was a network-related accident with our registry mirror, at the same time several broken packages were published on npmjs.org, European mirror had some outdated packages and npm@1.4.7 somehow became extremely buggy at our environment. An entire team was unable to work for several hours. And this really makes me upset.
 
 ## Alternative View
-I came across [an old article](http://www.futurealoof.com/posts/nodemodules-in-git.html) where Mikeal Rogers talks about the reasons for committing your `node_modules` into git. For the first time this may sound crazy to you, but the justifications he gives is very strong. And if you're still not convinced, take a look at [this question on StackOverflow](http://stackoverflow.com/questions/11459475/should-i-check-in-node-modules-to-git-when-creating-a-node-js-app-on-heroku
-). Just in case you haven't noticed, all three top-voted answers recommend the same. Even [npm documentation](https://www.npmjs.org/doc/faq.html#Should-I-check-my-node_modules-folder-into-git) agree with this approach!
+I came across [an old article](http://www.futurealoof.com/posts/nodemodules-in-git.html) where Mikeal Rogers talks about the reasons for committing your `node_modules` into git. For the first time this may sounds crazy to you, but the justifications he gives are very strong. And if you're still not convinced, take a look at [this question on StackOverflow](http://stackoverflow.com/questions/11459475/should-i-check-in-node-modules-to-git-when-creating-a-node-js-app-on-heroku
+). Just in case you haven't noticed, all three top-voted answers recommend the same. Even [npm documentation](https://www.npmjs.org/doc/faq.html#Should-I-check-my-node_modules-folder-into-git) agrees with this approach!
 
-Actually, original article was about fixing dependencies of your dependencies and now there is [npm shrinkwrap](https://www.npmjs.org/doc/cli/npm-shrinkwrap.html) to the rescue. But it still [does not give](http://stackoverflow.com/questions/11459733/check-in-node-modules-vs-shrinkwrap) you full confidence in deployment. And I decided to try and commit my `node_modules` folder into git. You know what?
+Actually, original article was about fixing dependencies of your dependencies and now there is [npm shrinkwrap](https://www.npmjs.org/doc/cli/npm-shrinkwrap.html) to the rescue. But it still [does not give](http://stackoverflow.com/questions/11459733/check-in-node-modules-vs-shrinkwrap) you full confidence in deployment. And I decided to try and committed my `node_modules` folder into git. You know what?
 
 ## Authors Doesn't Care
 Some npm packages are so huge that committing them becomes scary:
 
-  * [bower](http://bower.io/) installation takes up to 31 megabytes on your drive! OMG, is this real? Please tell me that I need all that stuff. node.js itself is only 11 megs and npm is 10 MB! I'm gonna switch!
+  * [bower](http://bower.io/) installation takes up to 31 megabytes on your drive! OMG, is this real? Please tell me that I need all that stuff. Node.js itself is only 11 megs and npm is 10 MB! I'm gonna switch!
   * [grunt](http://gruntjs.com/) is 6 MB. I love you guys, but I really don't need CoffeeScript there.
   * [mocha](http://visionmedia.github.io/mocha/) is 1.5 megs, but my TeamCity doesn't care that it has jade and growl.
   * [express](http://expressjs.com/) is 872 KB. Well, that's great, isn't it? But I believe you can do it even smaller.
