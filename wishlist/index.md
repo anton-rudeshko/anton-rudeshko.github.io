@@ -5,26 +5,26 @@ title: Anton Rudeshko Wishlist
 
 # Anton Rudeshko Wishlist
 
-*Обновлено 01.07.2017.*
+*Обновлено 27.10.2017.*
 
 ## Железо
 
 По убыванию:
 
+  * Закрытая проводная геймерская USB гарнитура
   * Открытые мониторные наушники, например: [Sennheiser HD 518][hd-518]
   * Читалка Amazon Kindle
     * Не разбираюсь в них, так что доверяю годноту вышему выбору.
   * [Native Instruments Traktor Kontrol F1][ni-kontrol-f1]
-* [Native Instruments Traktor Kontrol S5][ni-kontrol-s5]
-  * ? Аудиокарта, например: [Focusrite Scarlett 2i2][audiocard]
+  * [Native Instruments Traktor Kontrol S5][ni-kontrol-s5]
+  * ? Аудиокарта, например: [Focusrite Scarlett 2i2][focusrite]
     * Кажется, пока не нужна, так как есть встроенная в Traktor Kontrol S2.
-  * Сетевой накопитель (NAS) или основа для домашнего сервера.
-    * Сам в них пока не очень хорошо разбираюсь. Хочется хранить там музыку, фильмы, фото, бэкапы. Возможно, качать. Чем больше слотов под диски, тем лучше.
+  * Двухдисковый сетевой накопитель (NAS; Synology/QNAP) или диски к нему (4+ TB).
 
 [hd-518]: https://market.yandex.ru/product/6516805
 [ni-kontrol-s5]: http://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-s5/
 [ni-kontrol-f1]: http://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-f1/
-[audiocard]: http://market.yandex.ru/model.xml?modelid=7754997&hid=91027
+[focusrite]: http://market.yandex.ru/model.xml?modelid=7754997&hid=91027
 
 Есть:
 
@@ -54,17 +54,13 @@ title: Anton Rudeshko Wishlist
   * Что угодно из моего [Steam Wishlist][steam]. Скорее всего вам нужно быть у меня в друзьях, чтобы его увидеть.
   * Какой-нибудь шмот для Dota 2.
   * Игры Blizzard (не уверен, что их можно дарить): Diablo 3: Reaper of Souls, может быть даже Overwatch.
-  * Возможны настолки, хотя их и так достаточно [много есть][board].
   * Почти любое ***LEGO***
-    * Например: [42009][42009], [42025][42025], [21050][21050], [21114][21114], [21116][21116]. Или что-нибудь поменьше на ваш выбор.
+    * Например: [42009][42009], [42025][42025], [21050][21050], [21114][21114], [21116][21116] (есть, но ещё один не помешает). Или что-нибудь поменьше на ваш выбор.
     * Немного устал от Technic. Коллекционирую серии [Minecraft][lego-minecraft] и [Architecture][lego-architecture].
-    * ⚠️ Пожалуйста, убедитесь, что у меня нет этого набора. Есть: [8068][8068], [9392][9392], [21115][21115], [21125][21125], [42000][42000], [42034][42034], [60065][60065], [60084][60084], [70900][70900], [75075][75075], [75076][75076], [75100][75100].
+    * ⚠️ Пожалуйста, убедитесь, что у меня нет этого набора. Есть: [8068][8068], [9392][9392], [21115][21115], [21116][21116], [21125][21125], [42000][42000], [42034][42034], [60065][60065], [60084][60084], [70900][70900], [75075][75075], [75076][75076], [75100][75100].
     * [Большая книга LEGO][lego-big].
 
 [steam]: http://steamcommunity.com/id/Tesla404/wishlist
-
-[board]: https://docs.google.com/document/d/1tmS6GldcGQllXxe-SeEqjR-SzQPwu74BIwmjpf7LRyk/edit
-[500]: http://www.mosigra.ru/Face/Show/500/
 
 [8068]: https://shop.lego.com/en-US/Rescue-Helicopter-8068
 [9392]: https://shop.lego.com/en-US/Quad-Bike-9392
