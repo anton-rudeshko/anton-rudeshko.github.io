@@ -5,13 +5,13 @@ title: Anton Rudeshko Wishlist
 
 # Anton Rudeshko Wishlist
 
-*Обновлено 27.10.2017.*
+*Обновлено 01.11.2017.*
 
 ## Железо
 
 По убыванию:
 
-  * Закрытая проводная геймерская USB гарнитура
+  * Закрытая проводная геймерская USB гарнитура. Присматриваюсь к [HyperX Cloud][hyperx] (именно первой версии).
   * Открытые мониторные наушники, например: [Sennheiser HD 518][hd-518]
   * Читалка Amazon Kindle
     * Не разбираюсь в них, так что доверяю годноту вышему выбору.
@@ -21,6 +21,7 @@ title: Anton Rudeshko Wishlist
     * Кажется, пока не нужна, так как есть встроенная в Traktor Kontrol S2.
   * Двухдисковый сетевой накопитель (NAS; Synology/QNAP) или диски к нему (4+ TB).
 
+[hyperx]: https://market.yandex.ru/product/12241602
 [hd-518]: https://market.yandex.ru/product/6516805
 [ni-kontrol-s5]: http://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-s5/
 [ni-kontrol-f1]: http://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-f1/
