@@ -5,27 +5,32 @@ title: Anton Rudeshko Wishlist
 
 # Anton Rudeshko Wishlist
 
-*Обновлено 01.11.2017.*
+*Обновлено 13.12.2017.*
 
 ## Железо
 
 По убыванию:
 
   * Закрытая проводная геймерская USB гарнитура. Присматриваюсь к [HyperX Cloud][hyperx] (именно первой версии).
+  * Дисплей [DELL U2715H][dell].
   * Открытые мониторные наушники, например: [Sennheiser HD 518][hd-518]
-  * Читалка Amazon Kindle
+  * Читалка Amazon Kindle.
     * Не разбираюсь в них, так что доверяю годноту вышему выбору.
+  * [JBL Charge 3][jbl] или новее. Цвет без разницы.
   * [Native Instruments Traktor Kontrol F1][ni-kontrol-f1]
   * [Native Instruments Traktor Kontrol S5][ni-kontrol-s5]
   * ? Аудиокарта, например: [Focusrite Scarlett 2i2][focusrite]
     * Кажется, пока не нужна, так как есть встроенная в Traktor Kontrol S2.
-  * Двухдисковый сетевой накопитель (NAS; Synology/QNAP) или диски к нему (4+ TB).
+  * Двухдисковый сетевой накопитель (NAS; Synology/QNAP) или диски к нему (WD Red 4+ TB). Самая подходящая модель на данный момент — [QNAP TS-251][qnap].
 
 [hyperx]: https://market.yandex.ru/product/12241602
+[dell]: https://market.yandex.ru/product/11131926
 [hd-518]: https://market.yandex.ru/product/6516805
+[jbl]: https://market.yandex.ru/product/13925684
 [ni-kontrol-s5]: http://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-s5/
 [ni-kontrol-f1]: http://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-f1/
 [focusrite]: http://market.yandex.ru/model.xml?modelid=7754997&hid=91027
+[qnap]: https://market.yandex.ru/product/10989697
 
 Есть:
 
@@ -91,9 +96,14 @@ title: Anton Rudeshko Wishlist
 
 ## Другое
 
-  * Бафф.
+  * Рюкзак.
+    * Подарком может являтся просто помощь в его выборе, именно с этим проблема. Хочется вместительный (> 25л) качественный рюкзак "для гиков", с отделением для ноутбука и множеством карманов.
+    * Последнее, на чём остановился — [Thule Crossover Backpack 32L][thule]
+  * Финский кофе Kulta Katriina Perinteinen.
+  * Подставка для книжек с зажимом (?), чтобы не закрывались.
+  * Проекционные часы.
+  * Контейнеры для хранения и организации ***LEGO***, с множеством отделений разного рамера.
   * Разборная гантеля (а лучше две).
-  * [FL Studio][fl-studio]
   * Handgum, чем больше/круче тем лучше!
   * Разнообразные кружки с принтами.
   * Листовой чай.
@@ -102,7 +112,7 @@ title: Anton Rudeshko Wishlist
   * Футболки с весёлыми принтами (M или L). Следите за качеством!
   * Что-то, сделанное вашими руками.
 
-[fl-studio]: https://support.image-line.com/jshop/shop.php
+[thule]: https://www.thule.com/ru-ru/ru/backpacks/laptop-backpacks/thule-crossover-backpack-32l-_-tl_85854231374
 
 ## Я не люблю
 
