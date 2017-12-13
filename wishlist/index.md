@@ -63,10 +63,12 @@ title: Anton Rudeshko Wishlist
   * Почти любое ***LEGO***
     * Например: [42009][42009], [42025][42025], [21050][21050], [21114][21114], [21116][21116] (есть, но ещё один не помешает). Или что-нибудь поменьше на ваш выбор.
     * Немного устал от Technic. Коллекционирую серии [Minecraft][lego-minecraft] и [Architecture][lego-architecture].
+    * Недорого и прикольно — серия [Brickheadz][lego-brickheadz]. Оттуда есть [41593][41593].
     * ⚠️ Пожалуйста, убедитесь, что у меня нет этого набора. Есть: [8068][8068], [9392][9392], [21115][21115], [21116][21116], [21125][21125], [42000][42000], [42034][42034], [60065][60065], [60084][60084], [70900][70900], [75075][75075], [75076][75076], [75100][75100].
     * [Большая книга LEGO][lego-big].
 
 [steam]: http://steamcommunity.com/id/Tesla404/wishlist
+
 
 [8068]: https://shop.lego.com/en-US/Rescue-Helicopter-8068
 [9392]: https://shop.lego.com/en-US/Quad-Bike-9392
@@ -79,6 +81,7 @@ title: Anton Rudeshko Wishlist
 [42009]: https://shop.lego.com/en-US/Mobile-Crane-MK-II-42009
 [42025]: https://shop.lego.com/en-US/Cargo-Plane-42025
 [42034]: https://shop.lego.com/en-US/Quad-Bike-42034
+[41593]: https://shop.lego.com/en-US/Captain-Jack-Sparrow-41593
 [60065]: https://shop.lego.com/en-US/ATV-Patrol-60065
 [60084]: https://shop.lego.com/en-US/Racing-Bike-Transporter-60084
 [70900]: https://shop.lego.com/en-US/The-Joker-Balloon-Escape-70900
@@ -86,6 +89,7 @@ title: Anton Rudeshko Wishlist
 [75076]: https://shop.lego.com/en-US/Republic-Gunship-75076
 [75100]: https://shop.lego.com/en-US/First-Order-Snowspeeder-75100
 
+[lego-brickheadz]: https://shop.lego.com/en-US/Brickheadz-sets
 [lego-minecraft]: https://shop.lego.com/en-US/Minecraft-ByTheme
 [lego-architecture]: https://shop.lego.com/en-US/Architecture-ByTheme
 [lego-big]: http://www.mann-ivanov-ferber.ru/books/paperbook/unofficial-lego-builders-guide/
