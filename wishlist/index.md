@@ -5,7 +5,7 @@ title: Anton Rudeshko Wishlist
 
 # Anton Rudeshko Wishlist
 
-*Обновлено 16.12.2017.*
+*Обновлено 23.12.2017.*
 
 ## Железо
 
@@ -45,7 +45,9 @@ title: Anton Rudeshko Wishlist
 ## Головоломки
 
   * Кубики Рубика, например, [Gear Cube](http://playlab.ru/toys/mefferts/gear-cube/)
-  * [LEONARDO Puzzles](http://www.leonardo-puzzles.com/)
+  * [LEONARDO Puzzles](http://www.leonardo-puzzles.com/) или Hanayama Cast Puzzles
+    * Есть Cast Infinity
+    * Лучше небольшие
   * Прочая ерунда на ваш выбор
 
 Есть:
@@ -55,11 +57,9 @@ title: Anton Rudeshko Wishlist
 
 ## Игрушки
 
-Я теперь взрослый, могу и в игрушки поиграть.
-
   * Что угодно из моего [Steam Wishlist][steam]. Скорее всего вам нужно быть у меня в друзьях, чтобы его увидеть.
-  * Какой-нибудь шмот для Dota 2.
-  * Игры Blizzard (не уверен, что их можно дарить): Diablo 3: Reaper of Souls, может быть даже Overwatch.
+  * Какой-нибудь шмот для Dota 2. См. мой [Dotabuff][dotabuff], чтобы оценить предпочтения по героям.
+  * [Подарочные карты][blizzard-giftcards] на игры Blizzard.
   * Почти любое ***LEGO***
     * Например: [42009][42009], [42025][42025], [21050][21050], [21114][21114], [21116][21116] (есть, но ещё один не помешает). Или что-нибудь поменьше на ваш выбор.
     * Немного устал от Technic. Коллекционирую серии [Minecraft][lego-minecraft] и [Architecture][lego-architecture].
@@ -68,7 +68,8 @@ title: Anton Rudeshko Wishlist
     * [Большая книга LEGO][lego-big].
 
 [steam]: http://steamcommunity.com/id/Tesla404/wishlist
-
+[dotabuff]: https://www.dotabuff.com/players/55714886
+[blizzard-giftcards]: https://giftcards.blizzard.com/
 
 [8068]: https://shop.lego.com/en-US/Rescue-Helicopter-8068
 [9392]: https://shop.lego.com/en-US/Quad-Bike-9392
