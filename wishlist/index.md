@@ -5,14 +5,16 @@ title: Anton Rudeshko Wishlist
 
 # Anton Rudeshko Wishlist
 
-*Обновлено 23.12.2017.*
+*Обновлено 27.03.2018.*
 
 ## Железо
 
 По убыванию:
 
-  * Закрытая проводная геймерская USB гарнитура. Присматриваюсь к [HyperX Cloud][hyperx] (именно первой версии).
+  * Закрытая проводная геймерская USB гарнитура. По сути хочется две: домой и на работу. Присматриваюсь к [HyperX Cloud II][hyperx2] или [HyperX Cloud][hyperx].
   * Дисплей [DELL U2715H][dell].
+  * Две планки RAM по 4 GB для NAS [QNAP TS-251][qnap] (SODIMM, DDR3L). Например, пару [Crucial CT51264BF160B][crucial].
+  * Несильно перегруженную функциями мышь Razer. Например, [DeathAdder Black USB][deathadder].
   * Открытые мониторные наушники, например: [Sennheiser HD 518][hd-518]
   * Читалка Amazon Kindle.
     * Не разбираюсь в них, так что доверяю годноту вышему выбору.
@@ -21,10 +23,12 @@ title: Anton Rudeshko Wishlist
   * [Native Instruments Traktor Kontrol S5][ni-kontrol-s5]
   * ? Аудиокарта, например: [Focusrite Scarlett 2i2][focusrite]
     * Кажется, пока не нужна, так как есть встроенная в Traktor Kontrol S2.
-  * Двухдисковый сетевой накопитель (NAS; Synology/QNAP) или диски к нему (WD Red 4+ TB). Самая подходящая модель на данный момент — [QNAP TS-251][qnap].
 
+[hyperx2]: https://market.yandex.ru/product/12241651
 [hyperx]: https://market.yandex.ru/product/12241602
 [dell]: https://market.yandex.ru/product/11131926
+[crucial]: https://market.yandex.ru/product/7854603
+[deathadder]: https://market.yandex.ru/product/989481
 [hd-518]: https://market.yandex.ru/product/6516805
 [jbl]: https://market.yandex.ru/product/13925684
 [ni-kontrol-s5]: http://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-s5/
@@ -53,12 +57,11 @@ title: Anton Rudeshko Wishlist
 Есть:
 
   * 1x1, 2x2, 3x3, 4x4, зеркальный, морфикс, плоский куб
-  * Perplexus Epic
 
 ## Игрушки
 
   * Что угодно из моего [Steam Wishlist][steam]. Скорее всего вам нужно быть у меня в друзьях, чтобы его увидеть.
-  * Какой-нибудь шмот для Dota 2. См. мой [Dotabuff][dotabuff], чтобы оценить предпочтения по героям.
+  * Какой-нибудь шмот для Dota 2. См. мой [Dotabuff][dotabuff], чтобы оценить предпочтения по героям. А ещё можно дарить [Plus подписку][dota2plus] (делается только из клиента Dota 2).
   * [Подарочные карты][blizzard-giftcards] на игры Blizzard.
   * Почти любое ***LEGO***
     * Например: [42009][42009], [42025][42025], [21050][21050], [21114][21114], [21116][21116] (есть, но ещё один не помешает). Или что-нибудь поменьше на ваш выбор.
@@ -69,6 +72,7 @@ title: Anton Rudeshko Wishlist
 
 [steam]: http://steamcommunity.com/id/Tesla404/wishlist
 [dotabuff]: https://www.dotabuff.com/players/55714886
+[dota2plus]: https://www.dota2.com/plus
 [blizzard-giftcards]: https://giftcards.blizzard.com/
 
 [8068]: https://shop.lego.com/en-US/Rescue-Helicopter-8068
