@@ -14,9 +14,9 @@ Graphics card: _Gigabyte_ `GV-N105TWF2OC-4GD` rev.1.0
 
 Memory:
 
-* _Corsair_ `CMX2GX3M1A1333C9` DIMM DDR3 2GB PC3-10600 1333MHz
-* 2 × _Corsair XMS3_ `CMX8GX3M2A1333C9`DIMM 4GB PC3-10666 1333MHz (one faulty & one incompatible)
-* 2 × _Kingston_ `KVR13N9S8HK2/8` DIMM 4GB PC3-10600 CL9 240-Pin
+* :x: _Corsair_ `CMX2GX3M1A1333C9` DIMM DDR3 2GB PC3-10600 1333MHz (incompatible)
+* :x: 2 × _Corsair XMS3_ `CMX8GX3M2A1333C9`DIMM 4GB PC3-10666 1333MHz (one faulty & one incompatible)
+* 4 × _Kingston_ `KVR13N9S8HK2/8` DIMM 4GB PC3-10600 CL9 240-Pin
 
 Storage:
 
