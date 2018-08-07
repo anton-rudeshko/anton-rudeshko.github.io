@@ -5,15 +5,14 @@ title: Anton Rudeshko Wishlist
 
 # Anton Rudeshko Wishlist
 
-*Обновлено 27.03.2018.*
+*Обновлено 07.08.2018.*
 
 ## Железо
 
 По убыванию:
 
-  * Закрытая проводная геймерская USB гарнитура. По сути хочется две: домой и на работу. Присматриваюсь к [HyperX Cloud II][hyperx2] или [HyperX Cloud][hyperx].
+  * Клавиатура [Razer Ornata Chroma][ornata].
   * Дисплей [DELL U2715H][dell].
-  * Две планки RAM по 4 GB для NAS [QNAP TS-251][qnap] (SODIMM, DDR3L). Например, пару [Crucial CT51264BF160B][crucial].
   * Несильно перегруженную функциями мышь Razer. Например, [DeathAdder Black USB][deathadder].
   * Открытые мониторные наушники, например: [Sennheiser HD 518][hd-518]
   * Читалка Amazon Kindle.
@@ -24,17 +23,14 @@ title: Anton Rudeshko Wishlist
   * ? Аудиокарта, например: [Focusrite Scarlett 2i2][focusrite]
     * Кажется, пока не нужна, так как есть встроенная в Traktor Kontrol S2.
 
-[hyperx2]: https://market.yandex.ru/product/12241651
-[hyperx]: https://market.yandex.ru/product/12241602
+[ornata]: https://market.yandex.ru/product/1721707174
 [dell]: https://market.yandex.ru/product/11131926
-[crucial]: https://market.yandex.ru/product/7854603
 [deathadder]: https://market.yandex.ru/product/989481
 [hd-518]: https://market.yandex.ru/product/6516805
 [jbl]: https://market.yandex.ru/product/13925684
 [ni-kontrol-s5]: http://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-s5/
 [ni-kontrol-f1]: http://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-f1/
 [focusrite]: http://market.yandex.ru/model.xml?modelid=7754997&hid=91027
-[qnap]: https://market.yandex.ru/product/10989697
 
 Есть:
 
@@ -106,20 +102,15 @@ title: Anton Rudeshko Wishlist
 ## Другое
 
   * Финский кофе Kulta Katriina Perinteinen.
-  * Подставка для книжек с зажимом (?), чтобы не закрывались.
-  * Проекционные часы.
   * Благовония фирмы **Satya**, особенно Super Hit и Nag Champa.
   * Контейнеры для хранения и организации ***LEGO***, с множеством отделений разного размера.
   * Разборная гантеля (а лучше две).
   * Handgum, чем больше/круче тем лучше!
-  * Разнообразные кружки с принтами.
   * Листовой чай.
   * Жёсткие (firm) зубные щётки R.O.C.S. никогда не будут лишними.
   * Почти любое изделие из [www.tranceshop.ru](http://www.tranceshop.ru/) или подобного.
   * Футболки с весёлыми принтами (M или L). Следите за качеством!
   * Что-то, сделанное вашими руками.
-
-[thule]: https://www.thule.com/ru-ru/ru/backpacks/laptop-backpacks/thule-crossover-backpack-32l-_-tl_85854231374
 
 ## Я не люблю
 
