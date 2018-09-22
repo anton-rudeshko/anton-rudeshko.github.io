@@ -12,6 +12,7 @@ title: Anton Rudeshko Wishlist
 По убыванию:
 
   * Клавиатура [Razer Ornata Chroma][ornata].
+  * Зашифрованная флэшка. Например, [iStorage datAshur Pro][encrypted-flash].
   * Дисплей [DELL U2715H][dell].
   * Несильно перегруженную функциями мышь Razer. Например, [DeathAdder Black USB][deathadder].
   * Открытые мониторные наушники, например: [Sennheiser HD 518][hd-518]
@@ -24,6 +25,7 @@ title: Anton Rudeshko Wishlist
     * Кажется, пока не нужна, так как есть встроенная в Traktor Kontrol S2.
 
 [ornata]: https://market.yandex.ru/product/1721707174
+[encrypted-flash]: https://market.yandex.ru/product/13832438
 [dell]: https://market.yandex.ru/product/11131926
 [deathadder]: https://market.yandex.ru/product/989481
 [hd-518]: https://market.yandex.ru/product/6516805
@@ -110,6 +112,7 @@ title: Anton Rudeshko Wishlist
   * Жёсткие (firm) зубные щётки R.O.C.S. никогда не будут лишними.
   * Почти любое изделие из [www.tranceshop.ru](http://www.tranceshop.ru/) или подобного.
   * Футболки с весёлыми принтами (M или L). Следите за качеством!
+  * Джамперы JollyJumper.
   * Что-то, сделанное вашими руками.
 
 ## Я не люблю
