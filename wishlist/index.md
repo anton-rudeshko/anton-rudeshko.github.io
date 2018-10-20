@@ -44,6 +44,17 @@ I already have:
 
 [gigabyte-vc]: https://market.yandex.ru/product/1712062089
 
+## Software
+
+* [Backblaze subscription][backblaze].
+* [Plex Pass subscription][plex-pass].
+* Music from my [bandcamp wishlist][bandcamp-wishlist].
+* YouTube / Google Play Music subscription.
+
+[backblaze]: https://secure.backblaze.com/gift.htm
+[plex-pass]: https://www.plex.tv/plex-pass/gift/
+[bandcamp-wishlist]: https://bandcamp.com/anton-rudeshko/wishlist
+
 ## Головоломки
 
   * Кубики Рубика, например, [Gear Cube](http://playlab.ru/toys/mefferts/gear-cube/)
