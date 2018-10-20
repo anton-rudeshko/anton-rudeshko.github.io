@@ -5,24 +5,24 @@ title: Anton Rudeshko Wishlist
 
 # Anton Rudeshko Wishlist
 
-*Обновлено 07.08.2018.*
+*Last update at 20.10.2018.*
 
-## Железо
+## Hardware
 
-По убыванию:
+In descending order:
 
-  * Клавиатура [Razer Ornata Chroma][ornata].
-  * Зашифрованная флэшка. Например, [iStorage datAshur Pro][encrypted-flash].
-  * Дисплей [DELL U2715H][dell].
-  * Несильно перегруженную функциями мышь Razer. Например, [DeathAdder Black USB][deathadder].
-  * Открытые мониторные наушники, например: [Sennheiser HD 518][hd-518]
-  * Читалка Amazon Kindle.
-    * Не разбираюсь в них, так что доверяю годноту вышему выбору.
-  * [JBL Charge 3][jbl] или новее. Цвет без разницы.
+  * [Razer Ornata Chroma][ornata] keyboard.
+  * Encrypted USB flash drive. Eg [iStorage datAshur Pro][encrypted-flash].
+  * [DELL U2715H][dell] display.
+  * Simple and efficient Razer mouse. Eg [DeathAdder Black USB][deathadder].
+  * Monitor headphones. Eg [Sennheiser HD 518][hd-518]
+  * Amazon Kindle with screen light.
+    * I'm not very good with those. Feel free to choose what you think is good.
+  * [JBL Charge 3][jbl] or newer. Color doesn't matter.
   * [Native Instruments Traktor Kontrol F1][ni-kontrol-f1]
   * [Native Instruments Traktor Kontrol S5][ni-kontrol-s5]
-  * ? Аудиокарта, например: [Focusrite Scarlett 2i2][focusrite]
-    * Кажется, пока не нужна, так как есть встроенная в Traktor Kontrol S2.
+  * ? USB audio interface. Eg [Focusrite Scarlett 2i2][focusrite]
+    * Uncertain about this. Right now I'm okay with Traktor Kontrol S2 embedded audio card.
 
 [ornata]: https://market.yandex.ru/product/1721707174
 [encrypted-flash]: https://market.yandex.ru/product/13832438
@@ -34,13 +34,13 @@ title: Anton Rudeshko Wishlist
 [ni-kontrol-f1]: http://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-f1/
 [focusrite]: http://market.yandex.ru/model.xml?modelid=7754997&hid=91027
 
-Есть:
+I already have:
 
-  * SSD 240GB
-  * Видеокарта [GIGABYTE GeForce GTX 1050 Ti][gigabyte-vc]
-  * Флэшка 16 ГБ
-  * Мышь Razer Imperator
-  * Обычная клавиатура за 250р
+  * SSD 240GB.
+  * [GIGABYTE GeForce GTX 1050 Ti][gigabyte-vc] video card.
+  * Ordinary 16 GB flash drive.
+  * Razer Imperator mouse.
+  * Ordinary keyboard.
 
 [gigabyte-vc]: https://market.yandex.ru/product/1712062089
 
@@ -97,13 +97,13 @@ title: Anton Rudeshko Wishlist
 [lego-architecture]: https://shop.lego.com/en-US/Architecture-ByTheme
 [lego-big]: http://www.mann-ivanov-ferber.ru/books/paperbook/unofficial-lego-builders-guide/
 
-## Деньги
+## Money
 
-Не вижу ничего зазорного в денежных подарках.
+I'm fine with money gifts.
 
-## Другое
+## Other
 
-  * Финский кофе Kulta Katriina Perinteinen.
+  * Finnish coffee Kulta Katriina Perinteinen.
   * Благовония фирмы **Satya**, особенно Super Hit и Nag Champa.
   * Контейнеры для хранения и организации ***LEGO***, с множеством отделений разного размера.
   * Разборная гантеля (а лучше две).
