@@ -112,6 +112,7 @@ I'm fine with money gifts.
 
 ## Other
 
+  * Funny colorful socks (42EU).
   * Finnish coffee Kulta Katriina Perinteinen.
   * Благовония фирмы **Satya**, особенно Super Hit и Nag Champa.
   * Контейнеры для хранения и организации ***LEGO***, с множеством отделений разного размера.
