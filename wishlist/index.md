@@ -5,16 +5,14 @@ title: Anton Rudeshko Wishlist
 
 # Anton Rudeshko Wishlist
 
-*Last update at 20.10.2018.*
+*Last update at 14 Nov 2018.*
 
 ## Hardware
 
 In descending order:
 
-  * [Razer Ornata Chroma][ornata] keyboard.
   * Encrypted USB flash drive. Eg [iStorage datAshur Pro][encrypted-flash].
   * [DELL U2715H][dell] display.
-  * Simple and efficient Razer mouse. Eg [DeathAdder Black USB][deathadder].
   * Monitor headphones. Eg [Sennheiser HD 518][hd-518]
   * Amazon Kindle with screen light.
     * I'm not very good with those. Feel free to choose what you think is good.
@@ -24,10 +22,8 @@ In descending order:
   * ? USB audio interface. Eg [Focusrite Scarlett 2i2][focusrite]
     * Uncertain about this. Right now I'm okay with Traktor Kontrol S2 embedded audio card.
 
-[ornata]: https://market.yandex.ru/product/1721707174
 [encrypted-flash]: https://market.yandex.ru/product/13832438
 [dell]: https://market.yandex.ru/product/11131926
-[deathadder]: https://market.yandex.ru/product/989481
 [hd-518]: https://market.yandex.ru/product/6516805
 [jbl]: https://market.yandex.ru/product/13925684
 [ni-kontrol-s5]: http://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-s5/
@@ -39,8 +35,8 @@ I already have:
   * SSD 240GB.
   * [GIGABYTE GeForce GTX 1050 Ti][gigabyte-vc] video card.
   * Ordinary 16 GB flash drive.
-  * Razer Imperator mouse.
-  * Ordinary keyboard.
+  * HyperX Pulsefire Surge mouse.
+  * Razer Ornata Chrome keyboard.
 
 [gigabyte-vc]: https://market.yandex.ru/product/1712062089
 
