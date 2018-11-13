@@ -11,6 +11,7 @@ title: Anton Rudeshko Wishlist
 
 In descending order:
 
+  * [Yubikey 5 NFC][yubikey].
   * Encrypted USB flash drive. Eg [iStorage datAshur Pro][encrypted-flash].
   * [DELL U2715H][dell] display.
   * Monitor headphones. Eg [Sennheiser HD 518][hd-518]
@@ -22,6 +23,7 @@ In descending order:
   * ? USB audio interface. Eg [Focusrite Scarlett 2i2][focusrite]
     * Uncertain about this. Right now I'm okay with Traktor Kontrol S2 embedded audio card.
 
+[yubikey]: https://www.yubico.com/product/yubikey-5-nfc/
 [encrypted-flash]: https://market.yandex.ru/product/13832438
 [dell]: https://market.yandex.ru/product/11131926
 [hd-518]: https://market.yandex.ru/product/6516805
