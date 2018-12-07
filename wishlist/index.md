@@ -5,23 +5,23 @@ title: Anton Rudeshko Wishlist
 
 # Anton Rudeshko Wishlist
 
-*Last update at 14 Nov 2018.*
+*Last update at 7 Dec 2018.*
 
 ## Hardware
 
-In descending order:
+In descending order of preference:
 
-  * [Yubikey 5 NFC][yubikey].
-  * Encrypted USB flash drive. Eg [iStorage datAshur Pro][encrypted-flash].
-  * [DELL U2715H][dell] display.
-  * Monitor headphones. Eg [Sennheiser HD 518][hd-518]
-  * Amazon Kindle with screen light.
-    * I'm not very good with those. Feel free to choose what you think is good.
-  * [JBL Charge 3][jbl] or newer. Color doesn't matter.
-  * [Native Instruments Traktor Kontrol F1][ni-kontrol-f1]
-  * [Native Instruments Traktor Kontrol S5][ni-kontrol-s5]
-  * ? USB audio interface. Eg [Focusrite Scarlett 2i2][focusrite]
-    * Uncertain about this. Right now I'm okay with Traktor Kontrol S2 embedded audio card.
+* [Yubikey 5 NFC][yubikey].
+* Encrypted USB flash drive. Eg [iStorage datAshur Pro][encrypted-flash].
+* [DELL U2715H][dell] display.
+* Monitor headphones. Eg [Sennheiser HD 518][hd-518]
+* Amazon Kindle with screen light.
+  * I'm not very good with those. Feel free to choose what you think is good.
+* [JBL Charge 3][jbl] or newer. Color doesn't matter.
+* [Native Instruments Traktor Kontrol F1][ni-kontrol-f1]
+* [Native Instruments Traktor Kontrol S5][ni-kontrol-s5]
+* ? USB audio interface. Eg [Focusrite Scarlett 2i2][focusrite]
+  * Uncertain about this. Right now I'm okay with Traktor Kontrol S2 embedded audio card.
 
 [yubikey]: https://www.yubico.com/product/yubikey-5-nfc/
 [encrypted-flash]: https://market.yandex.ru/product/13832438
@@ -34,11 +34,11 @@ In descending order:
 
 I already have:
 
-  * SSD 240GB.
-  * [GIGABYTE GeForce GTX 1050 Ti][gigabyte-vc] video card.
-  * Ordinary 16 GB flash drive.
-  * HyperX Pulsefire Surge mouse.
-  * Razer Ornata Chrome keyboard.
+* SSD 240GB.
+* [GIGABYTE GeForce GTX 1050 Ti][gigabyte-vc] video card.
+* Ordinary 16 GB flash drive.
+* HyperX Pulsefire Surge mouse.
+* Razer Ornata Chrome keyboard.
 
 [gigabyte-vc]: https://market.yandex.ru/product/1712062089
 
@@ -47,33 +47,32 @@ I already have:
 * [Backblaze subscription][backblaze].
 * [Plex Pass subscription][plex-pass].
 * Music from my [bandcamp wishlist][bandcamp-wishlist].
-* YouTube / Google Play Music subscription.
+* YouTube Premium subscription.
 
 [backblaze]: https://secure.backblaze.com/gift.htm
 [plex-pass]: https://www.plex.tv/plex-pass/gift/
 [bandcamp-wishlist]: https://bandcamp.com/anton-rudeshko/wishlist
 
-## Головоломки
+## Puzzle toys
 
-  * Кубики Рубика, например, [Gear Cube](http://playlab.ru/toys/mefferts/gear-cube/)
-  * [LEONARDO Puzzles](http://www.leonardo-puzzles.com/) или Hanayama Cast Puzzles
-    * Есть Cast Infinity
-    * Лучше небольшие
-  * Прочая ерунда на ваш выбор
+* Various Rubik's Cubes. Eg [Gear Cube](http://playlab.ru/toys/mefferts/gear-cube/).
+* [LEONARDO Puzzles](http://www.leonardo-puzzles.com/) / Hanayama Cast Puzzles. Preferably small.
+* Something other of your choice
 
-Есть:
+I already have:
 
-  * 1x1, 2x2, 3x3, 4x4, зеркальный, морфикс, плоский куб
+* 1x1, 2x2, 3x3, 4x4, mirror, morphix, flat cube.
+* Cast Infinity.
 
 ## Игрушки
 
-  * Что угодно из моего [Steam Wishlist][steam]. Скорее всего вам нужно быть у меня в друзьях, чтобы его увидеть.
+  * Anything from my [Steam Wishlist][steam]. Most likely you'll need to be friend with me to see it.
   * Какой-нибудь шмот для Dota 2. См. мой [Dotabuff][dotabuff], чтобы оценить предпочтения по героям. А ещё можно дарить [Plus подписку][dota2plus] (делается только из клиента Dota 2).
   * [Подарочные карты][blizzard-giftcards] на игры Blizzard.
-  * Почти любое ***LEGO***
+  * ***LEGO***
     * Например: [42009][42009], [42025][42025], [21050][21050], [21114][21114], [21116][21116] (есть, но ещё один не помешает). Или что-нибудь поменьше на ваш выбор.
-    * Немного устал от Technic. Коллекционирую серии [Minecraft][lego-minecraft] и [Architecture][lego-architecture].
-    * Недорого и прикольно — серия [Brickheadz][lego-brickheadz]. Оттуда есть [41593][41593].
+    * Got tired of Technic series. Коллекционирую серии [Minecraft][lego-minecraft] и [Architecture][lego-architecture].
+    * Недорого и прикольно — серия [Brickheadz][lego-brickheadz]. Оттуда есть [41593][41593]. 
     * ⚠️ Пожалуйста, убедитесь, что у меня нет этого набора. Есть: [8068][8068], [9392][9392], [21115][21115], [21116][21116], [21125][21125], [42000][42000], [42034][42034], [60065][60065], [60084][60084], [70900][70900], [75075][75075], [75076][75076], [75100][75100].
     * [Большая книга LEGO][lego-big].
 
@@ -112,21 +111,21 @@ I'm fine with money gifts.
 
 ## Other
 
-  * Funny colorful socks (42EU).
-  * Finnish coffee Kulta Katriina Perinteinen.
-  * Благовония фирмы **Satya**, особенно Super Hit и Nag Champa.
-  * Контейнеры для хранения и организации ***LEGO***, с множеством отделений разного размера.
-  * Разборная гантеля (а лучше две).
-  * Handgum, чем больше/круче тем лучше!
-  * Листовой чай.
-  * Жёсткие (firm) зубные щётки R.O.C.S. никогда не будут лишними.
-  * Почти любое изделие из [www.tranceshop.ru](http://www.tranceshop.ru/) или подобного.
-  * Футболки с весёлыми принтами (M или L). Следите за качеством!
-  * Джамперы JollyJumper.
-  * Что-то, сделанное вашими руками.
+* Handgum.
+* **Satya** incense (Super Hit and Nag Champa are awesome).
+* Finnish coffee Kulta Katriina Perinteinen.
+* Leaf tea.
+* Firm toothbrushes (R.O.C.S. are quite good).
+* Funny colorful socks (42EU).
+* Storage containers for ***LEGO***.
+* Folding dumbbell (or two).
+* Anything from [www.tranceshop.ru](http://www.tranceshop.ru/) or similar.
+* T-Shirts with 3D printing (L).
+* JollyJumper.
+* Something made by your hands.
 
-## Я не люблю
+## 🚫 I don't like
 
-  * Подарочные сертификаты на "впечатления".
-  * Аналоговые книги (перевод бумаги).
-  * Безделушки (название говорит само за себя).
+* Подарочные сертификаты на "впечатления".
+* Paper books.
+* Безделушки (название говорит само за себя).
