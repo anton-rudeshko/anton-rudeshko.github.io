@@ -69,7 +69,7 @@ I already have:
 * 1x1, 2x2, 3x3, 4x4, mirror, morphix, flat cube.
 * Cast Infinity.
 
-## Игрушки
+## Games
 
   * Anything from my [Steam Wishlist][steam]. Most likely you'll need to be friend with me to see it.
   * [Something for Dota 2][dota2-store]. See [Dotabuff][dotabuff] for hero preference. Also consider gifting [Plus subscription][dota2-plus] (looks like game client is required).
