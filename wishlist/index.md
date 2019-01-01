@@ -11,7 +11,6 @@ title: Anton Rudeshko Wishlist
 
 In descending order of preference:
 
-* [WD Blue 2TB][wd-blue].
 * [Yubikey 5 NFC][yubikey] or USB-C. Previous version looks okay too.
 * Encrypted USB flash drive. Eg [iStorage datAshur Pro][encrypted-flash].
 * [DELL U2715H][dell] display.
@@ -26,7 +25,6 @@ In descending order of preference:
 * ? USB audio interface. Eg [Focusrite Scarlett 2i2][focusrite]
   * Uncertain about this. Right now I'm okay with Traktor Kontrol S2 embedded audio card.
 
-[wd-blue]: https://market.yandex.ru/product/12943857
 [yubikey]: https://www.yubico.com/product/yubikey-5-nfc/
 [encrypted-flash]: https://market.yandex.ru/product/13832438
 [dell]: https://market.yandex.ru/product/11131926
@@ -140,7 +138,6 @@ I'm fine with money gifts.
 
 ## Other
 
-* Handgum.
 * **Satya** incense (Super Hit and Nag Champa are awesome).
 * Finnish coffee Kulta Katriina Perinteinen.
 * Leaf tea.
