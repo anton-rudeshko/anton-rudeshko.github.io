@@ -136,10 +136,10 @@ I'm fine with money gifts.
 
 ## Other
 
+* Firm toothbrushes (R.O.C.S. are quite good).
+* Leaf tea.
 * **Satya** incense (Super Hit and Nag Champa are awesome).
 * Finnish coffee Kulta Katriina Perinteinen.
-* Leaf tea.
-* Firm toothbrushes (R.O.C.S. are quite good).
 * Funny colorful socks (42EU).
 * Storage containers for ***LEGO***.
 * Folding dumbbell (or two).
