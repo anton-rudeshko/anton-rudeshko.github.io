@@ -48,12 +48,10 @@ I already have:
 ## Software
 
 * [Backblaze subscription][backblaze].
-* [Plex Pass subscription][plex-pass].
 * Music from my [bandcamp wishlist][bandcamp-wishlist].
 * YouTube Premium subscription.
 
 [backblaze]: https://secure.backblaze.com/gift.htm
-[plex-pass]: https://www.plex.tv/plex-pass/gift/
 [bandcamp-wishlist]: https://bandcamp.com/anton-rudeshko/wishlist
 
 ## Puzzle toys
