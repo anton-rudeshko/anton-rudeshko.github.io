@@ -5,7 +5,7 @@ title: Anton Rudeshko Wishlist
 
 # Anton Rudeshko Wishlist
 
-*Last updated 8 December, 2018.*
+*Last updated 2 January, 2019.*
 
 ## Hardware
 
