@@ -136,6 +136,7 @@ I'm fine with money gifts.
 
 ## Other
 
+* "Blood, Sweat, and Pixels" by Jason Schreier (without Russian translation).
 * Touchscreen winter gloves.
 * Firm toothbrushes (R.O.C.S. are quite good).
 * Leaf tea.
