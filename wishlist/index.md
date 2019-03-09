@@ -5,7 +5,7 @@ title: Anton Rudeshko Wishlist
 
 # Anton Rudeshko Wishlist
 
-*Last updated 2 January, 2019.*
+*Last updated 9 March, 2019.*
 
 ## Hardware
 
@@ -18,7 +18,7 @@ In descending order of preference:
 * Space Gray/Silver MacBook Air 2018 (Core i7, 16GB).
 * Monitor headphones. Eg [Sennheiser HD 518][hd-518].
 * Amazon Kindle with screen light.
-  * I'm not very good with those. Feel free to choose what you think is good.
+  * I'm not very good with those. Feel free to choose what you think is good. It is important to be able to read PDF's.
 * [JBL Charge 3][jbl] or newer. Color doesn't matter.
 * [Native Instruments Traktor Kontrol F1][ni-kontrol-f1]
 * [Native Instruments Traktor Kontrol S5][ni-kontrol-s5]
@@ -48,11 +48,13 @@ I already have:
 ## Software
 
 * [Backblaze subscription][backblaze].
-* Music from my [bandcamp wishlist][bandcamp-wishlist].
+* Music from my [Bandcamp wishlist][bandcamp-wishlist].
 * YouTube Premium subscription.
+* [Emby Premiere][emby-premiere] subscription.
 
 [backblaze]: https://secure.backblaze.com/gift.htm
 [bandcamp-wishlist]: https://bandcamp.com/anton-rudeshko/wishlist
+[emby-premiere]: https://emby.media/premiere.html
 
 ## Puzzle toys
 
@@ -136,7 +138,8 @@ I'm fine with money gifts.
 
 ## Other
 
-* "Blood, Sweat, and Pixels" by Jason Schreier (without Russian translation).
+* High-quality 1L+ thermos (to be used in the office).
+* "Blood, Sweat, and Pixels" by Jason Schreier (_without_ Russian translation).
 * Touchscreen winter gloves.
 * Firm toothbrushes (R.O.C.S. are quite good).
 * Leaf tea.
