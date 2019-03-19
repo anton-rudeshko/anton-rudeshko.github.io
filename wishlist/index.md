@@ -5,7 +5,7 @@ title: Anton Rudeshko Wishlist
 
 # Anton Rudeshko Wishlist
 
-*Last updated 9 March, 2019.*
+*Last updated 19 March, 2019.*
 
 ## Hardware
 
@@ -58,7 +58,9 @@ I already have:
 
 ## Puzzle toys
 
-* Various Rubik's Cubes. Eg [Gear Cube](http://playlab.ru/toys/mefferts/gear-cube/).
+* Various Rubik's Cubes:
+  * [Gear Cube](http://playlab.ru/toys/mefferts/gear-cube/).
+  * [Touch Cube](https://www.rubiks.com/rubik-s-touch-cube.html) or similar (so that it can be solved with closed eyes).
 * [LEONARDO Puzzles](http://www.leonardo-puzzles.com/) / Hanayama Cast Puzzles. Preferably small.
 * Something other of your choice
 
