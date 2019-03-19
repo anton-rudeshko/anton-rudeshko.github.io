@@ -141,6 +141,7 @@ I'm fine with money gifts.
 ## Other
 
 * High-quality 1L+ thermos (to be used in the office).
+* White board markers (fine bullet point) and moderate size (max 60 cm) white board.
 * "Blood, Sweat, and Pixels" by Jason Schreier (_without_ Russian translation).
 * Touchscreen winter gloves.
 * Firm toothbrushes (R.O.C.S. are quite good).
