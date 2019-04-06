@@ -5,14 +5,12 @@ title: Anton Rudeshko Wishlist
 
 # Anton Rudeshko Wishlist
 
-*Last updated 19 March, 2019.*
+*Last updated 6 April, 2019.*
 
 ## Hardware
 
 In descending order of preference:
 
-* [Yubikey 5 NFC][yubikey] or USB-C. Previous version looks okay too.
-* Encrypted USB flash drive. Eg [iStorage datAshur Pro][encrypted-flash].
 * [DELL U2715H][dell] display.
 * One more [HyperX Cloud II][hyperx2].
 * Space Gray/Silver MacBook Air 2018 (Core i7, 16GB).
@@ -25,8 +23,6 @@ In descending order of preference:
 * ? USB audio interface. Eg [Focusrite Scarlett 2i2][focusrite]
   * Uncertain about this. Right now I'm okay with Traktor Kontrol S2 embedded audio card.
 
-[yubikey]: https://www.yubico.com/product/yubikey-5-nfc/
-[encrypted-flash]: https://market.yandex.ru/product/13832438
 [dell]: https://market.yandex.ru/product/11131926
 [hyperx2]: https://market.yandex.ru/product/12241651
 [hd-518]: https://market.yandex.ru/product/6516805
@@ -141,7 +137,6 @@ I'm fine with money gifts.
 ## Other
 
 * High-quality 1L+ thermos (to be used in the office).
-* White board markers (fine bullet point) and moderate size (max 60 cm) white board.
 * "Blood, Sweat, and Pixels" by Jason Schreier (_without_ Russian translation).
 * Touchscreen winter gloves.
 * Firm toothbrushes (R.O.C.S. are quite good).
