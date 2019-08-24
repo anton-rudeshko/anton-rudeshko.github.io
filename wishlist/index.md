@@ -136,11 +136,13 @@ I'm fine with money gifts.
 
 ## Other
 
+* [Levitating lamp](https://www.levitera.ru/product/levitiruyuschiy-svetilnik-cosmic-temnyy).
 * High-quality 1L+ thermos (to be used in the office).
 * "Blood, Sweat, and Pixels" by Jason Schreier (_without_ Russian translation).
 * Touchscreen winter gloves.
 * Firm toothbrushes (R.O.C.S. are quite good).
 * Leaf tea.
+* Cavendish & Harvey Ice Drops.
 * **Satya** incense (Super Hit and Nag Champa are awesome).
 * Finnish coffee Kulta Katriina Perinteinen.
 * Funny colorful socks (42EU).
