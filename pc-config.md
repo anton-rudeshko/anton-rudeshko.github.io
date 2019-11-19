@@ -1,16 +1,10 @@
 # PC configuration
 
-Rear fan: _Zalman_ (`ZF1225ASH`)
-
-CPU fan: _Slip Stream 120 PWM_ (`SY1225SL12LM-P`)
-
-Front fan: _Zalman_ (`ZF1225ASH`)
-
-Power supply: _Thermaltake_ `TR2-550W PP`
+CPU: _Intel_ Core `i7-2600K`
 
 Motherboard: _Intel_ `DP67BA`
 
-Graphics card: _Gigabyte_ `GV-N105TWF2OC-4GD` rev.1.0
+Graphics card: _GigaByte_ GeForce GTX 1660 Ti 1860Mhz PCI-E 3.0 6GB 12000Mhz 192 bit HDMI 3xDP `GV-N166TGAMING`
 
 Memory:
 
@@ -24,3 +18,11 @@ Storage:
 * Kingston `SV300S37A/240G`
 
 Audio card: _M-Audio_ AudioPhile 24/96 2003 Rev-B
+
+Power supply: _Zalman_ `ZM1000-EBT 1000W`
+
+Rear fan: _Zalman_ (`ZF1225ASH`)
+
+CPU fan: _Slip Stream 120 PWM_ (`SY1225SL12LM-P`)
+
+Front fan: _Zalman_ (`ZF1225ASH`)
