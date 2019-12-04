@@ -5,15 +5,18 @@ title: Anton Rudeshko Wishlist
 
 # Anton Rudeshko Wishlist
 
-*Last updated 6 April, 2019.*
+*Last updated 4 December, 2019.*
 
 ## Hardware
 
 In descending order of preference:
 
+* [Elgato Game Capture HD60 S][hd60-s]
+* [Elgato Key Light][key-light]
+* [Elgato Stream Deck][stream-deck]
+* [TC Helicon GoXLR][goxlr]
 * [DELL U2715H][dell] display.
 * One more [HyperX Cloud II][hyperx2].
-* Space Gray/Silver MacBook Air 2018 (Core i7, 16GB).
 * Monitor headphones. Eg [Sennheiser HD 518][hd-518].
 * Amazon Kindle with screen light.
   * I'm not very good with those. Feel free to choose what you think is good. It is important to be able to read PDF's.
@@ -23,6 +26,10 @@ In descending order of preference:
 * ? USB audio interface. Eg [Focusrite Scarlett 2i2][focusrite]
   * Uncertain about this. Right now I'm okay with Traktor Kontrol S2 embedded audio card.
 
+[hd60-s]: https://www.elgato.com/en/gaming/game-capture-hd60-s
+[key-light]: https://www.elgato.com/en/gaming/key-light
+[stream-deck]: https://www.elgato.com/en/gaming/stream-deck
+[goxlr]: https://www.tc-helicon.com/broadcast
 [dell]: https://market.yandex.ru/product/11131926
 [hyperx2]: https://market.yandex.ru/product/12241651
 [hd-518]: https://market.yandex.ru/product/6516805
@@ -31,23 +38,19 @@ In descending order of preference:
 [ni-kontrol-f1]: http://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-f1/
 [focusrite]: http://market.yandex.ru/model.xml?modelid=7754997&hid=91027
 
-I already have:
+[My current PC specs for reference][pc-config].
 
-* SSD 240GB.
-* [GIGABYTE GeForce GTX 1050 Ti][gigabyte-vc] video card.
-* Ordinary 16GB flash drive.
-* HyperX Pulsefire Surge mouse.
-* Razer Ornata Chrome keyboard.
-
-[gigabyte-vc]: https://market.yandex.ru/product/1712062089
+[pc-config]: https://www.rudeshko.com/pc-config
 
 ## Software
 
+* [FL Studio + ALL Plugins Bundle][fl-studio].
 * [Backblaze subscription][backblaze].
 * Music from my [Bandcamp wishlist][bandcamp-wishlist].
 * YouTube Premium subscription.
 * [Emby Premiere][emby-premiere] subscription.
 
+[fl-studio]: https://support.image-line.com/jshop/shop.php
 [backblaze]: https://secure.backblaze.com/gift.htm
 [bandcamp-wishlist]: https://bandcamp.com/anton-rudeshko/wishlist
 [emby-premiere]: https://emby.media/premiere.html
@@ -58,7 +61,7 @@ I already have:
   * [Gear Cube](http://playlab.ru/toys/mefferts/gear-cube/).
   * [Touch Cube](https://www.rubiks.com/rubik-s-touch-cube.html) or similar (so that it can be solved with closed eyes).
 * [LEONARDO Puzzles](http://www.leonardo-puzzles.com/) / Hanayama Cast Puzzles. Preferably small.
-* Something other of your choice
+* Something other of your choice.
 
 I already have:
 
@@ -136,6 +139,8 @@ I'm fine with money gifts.
 
 ## Other
 
+* Subscribe to my streaming account on [Twitch](https://www.twitch.tv/rudeshko_plays), [Twitter](https://twitter.com/rudeshko_plays), and [YouTube](https://www.youtube.com/channel/UCEmTIP5sBak0aiGU2sFMX2w).
+* Support my stream by [donating][https://donate.stream/rudeshko_plays].
 * [Levitating lamp](https://www.levitera.ru/product/levitiruyuschiy-svetilnik-cosmic-temnyy).
 * High-quality 1L+ thermos (to be used in the office).
 * "Blood, Sweat, and Pixels" by Jason Schreier (_without_ Russian translation).
@@ -145,7 +150,7 @@ I'm fine with money gifts.
 * Cavendish & Harvey Ice Drops.
 * **Satya** incense (Super Hit and Nag Champa are awesome).
 * Finnish coffee Kulta Katriina Perinteinen.
-* Funny colorful socks (42EU).
+* Funny colorful socks (42EU). Eg. [funnysocks.ru](https://funnysocks.ru/).
 * Storage containers for ***LEGO***.
 * Folding dumbbell (or two).
 * Anything from [www.tranceshop.ru](http://www.tranceshop.ru/) or similar.
