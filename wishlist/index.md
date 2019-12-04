@@ -11,13 +11,13 @@ title: Anton Rudeshko Wishlist
 
 In descending order of preference:
 
-* [Elgato Game Capture HD60 S][hd60-s]
-* [Elgato Key Light][key-light]
-* [Elgato Stream Deck][stream-deck]
-* [TC Helicon GoXLR][goxlr]
-* [DELL U2715H][dell] display.
-* One more [HyperX Cloud II][hyperx2].
-* Monitor headphones. Eg [Sennheiser HD 518][hd-518].
+* [Elgato Game Capture HD60 S][hd60-s] ($135).
+* [Elgato Key Light][key-light] ($195).
+* [Elgato Stream Deck][stream-deck] ($170).
+* [TC Helicon GoXLR][goxlr] ($500).
+* [DELL U2715H][dell] display ($680).
+* One more [HyperX Cloud II][hyperx2] ($69).
+* Monitor headphones. Eg [Sennheiser HD 518][hd-518] ($65).
 * Amazon Kindle with screen light.
   * I'm not very good with those. Feel free to choose what you think is good. It is important to be able to read PDF's.
 * [JBL Charge 3][jbl] or newer. Color doesn't matter.
@@ -44,8 +44,8 @@ In descending order of preference:
 
 ## Software
 
-* [FL Studio + ALL Plugins Bundle][fl-studio].
-* [Backblaze subscription][backblaze].
+* [FL Studio + ALL Plugins Bundle][fl-studio] ($900).
+* [Backblaze subscription][backblaze] ($60).
 * Music from my [Bandcamp wishlist][bandcamp-wishlist].
 * YouTube Premium subscription.
 * [Emby Premiere][emby-premiere] subscription.
@@ -70,7 +70,7 @@ I already have:
 
 ## Games
 
-* Anything from my [Steam Wishlist][steam]. Most likely you'll need to be friend with me to see it.
+* Anything from my [Steam Wishlist][steam].
 * [Something for Dota 2][dota2-store]. See [Dotabuff][dotabuff] for hero preference. Also consider gifting [Plus subscription][dota2-plus] (looks like game client is required).
 * [Blizzard giftcards][blizzard-giftcards].
 
