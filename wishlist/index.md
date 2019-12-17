@@ -5,7 +5,7 @@ title: Anton Rudeshko Wishlist
 
 # Anton Rudeshko Wishlist
 
-*Last updated 4 December, 2019.*
+*Last updated 17 December, 2019.*
 
 ## Hardware
 
@@ -130,8 +130,9 @@ I'm fine with money gifts.
 
 ## Other
 
-* Subscribe to my streaming account on [Twitch](https://www.twitch.tv/rudeshko_plays), [Twitter](https://twitter.com/rudeshko_plays), and [YouTube](https://www.youtube.com/channel/UCEmTIP5sBak0aiGU2sFMX2w).
+* Follow or subscribe to my streaming account on [Twitch](https://www.twitch.tv/rudeshko_plays), [Twitter](https://twitter.com/rudeshko_plays), and [YouTube](https://www.youtube.com/channel/UCEmTIP5sBak0aiGU2sFMX2w).
 * Support my stream by [donating](https://donate.stream/rudeshko_plays).
+* Кистевой тренажёр (можно регулируемый).
 * [Levitating lamp](https://www.levitera.ru/product/levitiruyuschiy-svetilnik-cosmic-temnyy).
 * High-quality 1L+ thermos (to be used in the office).
 * "Blood, Sweat, and Pixels" by Jason Schreier (_without_ Russian translation).
