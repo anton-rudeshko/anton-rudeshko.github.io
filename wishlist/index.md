@@ -5,7 +5,7 @@ title: Anton Rudeshko Wishlist
 
 # Anton Rudeshko Wishlist
 
-*Last updated 17 December, 2019.*
+*Last updated 1 January, 2020.*
 
 ## Hardware
 
@@ -13,7 +13,6 @@ In descending order of preference:
 
 * [Elgato Game Capture HD60 S][hd60-s] ($135).
 * [Elgato Key Light][key-light] ($195).
-* [Elgato Stream Deck][stream-deck] ($170).
 * [TC Helicon GoXLR][goxlr] ($500).
 * [DELL U2715H][dell] display ($680).
 * One more [HyperX Cloud II][hyperx2] ($69).
@@ -28,7 +27,6 @@ In descending order of preference:
 
 [hd60-s]: https://www.elgato.com/en/gaming/game-capture-hd60-s
 [key-light]: https://www.elgato.com/en/gaming/key-light
-[stream-deck]: https://www.elgato.com/en/gaming/stream-deck
 [goxlr]: https://www.tc-helicon.com/broadcast
 [dell]: https://market.yandex.ru/product/11131926
 [hyperx2]: https://market.yandex.ru/product/12241651
@@ -134,7 +132,6 @@ I'm fine with money gifts.
 * Support my stream by [donating](https://donate.stream/rudeshko_plays).
 * Кистевой тренажёр (можно регулируемый).
 * [Levitating lamp](https://www.levitera.ru/product/levitiruyuschiy-svetilnik-cosmic-temnyy).
-* High-quality 1L+ thermos (to be used in the office).
 * "Blood, Sweat, and Pixels" by Jason Schreier (_without_ Russian translation).
 * Touchscreen winter gloves.
 * Firm toothbrushes (R.O.C.S. are quite good).
