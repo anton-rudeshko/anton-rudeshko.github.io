@@ -80,43 +80,14 @@ I already have:
 
 ### *LEGO*
 
-* Something from [Brickheadz][lego-brickheadz] series. I have [41593], [41596], [41597], [41600], [41605], [41610], [41612], [41619].
-* [Minecraft][lego-minecraft]: [21114], [21116], [21137]. I have [21115], [21125], [21142].
-* [Architecture][lego-architecture]: [21050]. I have [21019], [21026].
-* Technic: [42009], [42025]. I have [8068], [9392], [42000], [42034].
+* Something from [Brickheadz][lego-brickheadz] series. I have 41593, 41596, 41597, 41600, 41605, 41610, 41612, 41619.
+* [Minecraft][lego-minecraft]: 21114, 21116, 21137. I have 21115, 21125, 21142.
+* [Architecture][lego-architecture]: 21050. I have 21019, 21026.
+* Technic: 42009, 42025. I have 8068, 9392, 42000, 42034.
 * [Большая книга LEGO][lego-big].
 
-I also have [60065], [60084], [70900], [75075], [75076], [75100].
+I also have 60065, 60084, 70900, 75075, 75076, 75100.
 
-[8068]: https://www.google.com/search?q=lego%20"8068"
-[9392]: https://www.google.com/search?q=lego%20"9392"
-[21019]: https://www.google.com/search?q=lego%20"21019"
-[21026]: https://www.google.com/search?q=lego%20"21026"
-[21050]: https://www.google.com/search?q=lego%20"21050"
-[21114]: https://www.google.com/search?q=lego%20"21114"
-[21115]: https://www.google.com/search?q=lego%20"21115"
-[21116]: https://www.google.com/search?q=lego%20"21116"
-[21125]: https://www.google.com/search?q=lego%20"21125"
-[21137]: https://www.google.com/search?q=lego%20"21137"
-[21142]: https://www.google.com/search?q=lego%20"21142"
-[41593]: https://www.google.com/search?q=lego%20"41593"
-[41596]: https://www.google.com/search?q=lego%20"41596"
-[41597]: https://www.google.com/search?q=lego%20"41597"
-[41600]: https://www.google.com/search?q=lego%20"41600"
-[41605]: https://www.google.com/search?q=lego%20"41605"
-[41610]: https://www.google.com/search?q=lego%20"41610"
-[41612]: https://www.google.com/search?q=lego%20"41612"
-[41619]: https://www.google.com/search?q=lego%20"41619"
-[42000]: https://www.google.com/search?q=lego%20"42000"
-[42009]: https://www.google.com/search?q=lego%20"42009"
-[42025]: https://www.google.com/search?q=lego%20"42025"
-[42034]: https://www.google.com/search?q=lego%20"42034"
-[60065]: https://www.google.com/search?q=lego%20"60065"
-[60084]: https://www.google.com/search?q=lego%20"60084"
-[70900]: https://www.google.com/search?q=lego%20"70900"
-[75075]: https://www.google.com/search?q=lego%20"75075"
-[75076]: https://www.google.com/search?q=lego%20"75076"
-[75100]: https://www.google.com/search?q=lego%20"75100"
 [lego-architecture]: https://shop.lego.com/en-US/Architecture-ByTheme
 [lego-big]: http://www.mann-ivanov-ferber.ru/books/paperbook/unofficial-lego-builders-guide/
 [lego-brickheadz]: https://shop.lego.com/en-US/Brickheadz-sets
