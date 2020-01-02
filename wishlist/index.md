@@ -98,6 +98,7 @@ title: Вишлист
 
 * Подпишитесь (можно платно) на мои стриминг-аккаунты: [Twitch](https://www.twitch.tv/rudeshko_plays), [Twitter](https://twitter.com/rudeshko_plays).
 * Поддержите стримы [донатами](https://donate.stream/rudeshko_plays).
+* Чехол для хранения велосипеда.
 * Кистевой тренажёр (можно регулируемый).
 * [Левитирующая лампа](https://www.levitera.ru/product/levitiruyuschiy-svetilnik-cosmic-temnyy).
 * "Blood, Sweat, and Pixels" by Jason Schreier (книжка на английском).
