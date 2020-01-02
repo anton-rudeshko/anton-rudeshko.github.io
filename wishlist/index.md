@@ -1,29 +1,29 @@
 ---
 layout: default
-title: Anton Rudeshko Wishlist
+title: Вишлист
 ---
 
-# Anton Rudeshko Wishlist
+# Вишлист
 
-*Last updated 1 January, 2020.*
+*Обновлено 1 января 2020.*
 
-## Hardware
+## Железо
 
-In descending order of preference:
+По убыванию:
 
-* [Elgato Game Capture HD60 S][hd60-s] ($135).
-* [Elgato Key Light][key-light] ($195).
-* [TC Helicon GoXLR][goxlr] ($500).
+* Устройство захвата [Elgato Game Capture HD60 S][hd60-s] ($135).
+* Свет [Elgato Key Light][key-light] ($195).
+* Микшер [TC Helicon GoXLR][goxlr] ($500).
 * [DELL U2715H][dell] display ($680).
-* One more [HyperX Cloud II][hyperx2] ($69).
-* Monitor headphones. Eg [Sennheiser HD 518][hd-518] ($65).
-* Amazon Kindle with screen light.
-  * I'm not very good with those. Feel free to choose what you think is good. It is important to be able to read PDF's.
-* [JBL Charge 3][jbl] or newer. Color doesn't matter.
-* [Native Instruments Traktor Kontrol F1][ni-kontrol-f1]
-* [Native Instruments Traktor Kontrol S5][ni-kontrol-s5]
-* ? USB audio interface. Eg [Focusrite Scarlett 2i2][focusrite]
-  * Uncertain about this. Right now I'm okay with Traktor Kontrol S2 embedded audio card.
+* Ещё один [HyperX Cloud II][hyperx2] ($69).
+* Мониторные наушники. Например, [Sennheiser HD 518][hd-518] ($65).
+* Amazon Kindle с подсветкой. Не разбираюсь, готов довериться чужому выбору, лишь бы PDF умело.
+* [JBL Charge 3][jbl] или новее. Лучше яркого цвета.
+* [Native Instruments Traktor Kontrol F1][ni-kontrol-f1].
+* [Native Instruments Traktor Kontrol S5][ni-kontrol-s5].
+* Внешняя звуковая карта. Например, [Focusrite Scarlett 2i2][focusrite].
+
+[Текущие комплектующие ПК][pc-config].
 
 [hd60-s]: https://www.elgato.com/en/gaming/game-capture-hd60-s
 [key-light]: https://www.elgato.com/en/gaming/key-light
@@ -35,42 +35,39 @@ In descending order of preference:
 [ni-kontrol-s5]: http://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-s5/
 [ni-kontrol-f1]: http://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-f1/
 [focusrite]: http://market.yandex.ru/model.xml?modelid=7754997&hid=91027
-
-[My current PC specs for reference][pc-config].
-
 [pc-config]: https://www.rudeshko.com/pc-config
 
-## Software
+## Софт
 
 * [FL Studio + ALL Plugins Bundle][fl-studio] ($900).
-* [Backblaze subscription][backblaze] ($60).
-* Music from my [Bandcamp wishlist][bandcamp-wishlist].
-* YouTube Premium subscription.
-* [Emby Premiere][emby-premiere] subscription.
+* Подписка [Backblaze][backblaze] ($60).
+* Музыка из [вишлиста в Bandcamp][bandcamp-wishlist].
+* Подписка YouTube Premium.
+* Подписка [Emby Premiere][emby-premiere].
 
 [fl-studio]: https://support.image-line.com/jshop/shop.php
 [backblaze]: https://secure.backblaze.com/gift.htm
 [bandcamp-wishlist]: https://bandcamp.com/anton-rudeshko/wishlist
 [emby-premiere]: https://emby.media/premiere.html
 
-## Puzzle toys
+## Головоломки
 
-* Various Rubik's Cubes:
+* Вариации Кубика Рубика:
   * [Gear Cube](http://playlab.ru/toys/mefferts/gear-cube/).
-  * [Touch Cube](https://www.rubiks.com/rubik-s-touch-cube.html) or similar (so that it can be solved with closed eyes).
-* [LEONARDO Puzzles](http://www.leonardo-puzzles.com/) / Hanayama Cast Puzzles. Preferably small.
-* Something other of your choice.
+  * [Touch Cube](https://www.rubiks.com/rubik-s-touch-cube.html) или что-то подобное, чтобы была возможность решить с закрытыми глазами.
+* [LEONARDO Puzzles](http://www.leonardo-puzzles.com/) / Hanayama Cast Puzzles. Лучше небольшие.
+* Что-то ещё клёвое, о чём могу не знать.
 
-I already have:
+У меня есть:
 
 * 1x1, 2x2, 3x3, 4x4, mirror, morphix, flat cube.
 * Cast Infinity.
 
-## Games
+## Игры
 
-* Anything from my [Steam Wishlist][steam].
-* [Something for Dota 2][dota2-store]. See [Dotabuff][dotabuff] for hero preference. Also consider gifting [Plus subscription][dota2-plus] (looks like game client is required).
-* [Blizzard giftcards][blizzard-giftcards].
+* Что-либо из [вишлиста в Steam][steam].
+* [Шмот для Dota 2][dota2-store]. Предпочтение по героям см. на [Dotabuff][dotabuff]. Также буду рад [Plus-подписке][dota2-plus], но для этого точно нужен клиент игры.
+* [Подарочные карты Blizzard][blizzard-giftcards].
 
 [steam]: http://steamcommunity.com/id/Tesla404/wishlist
 [dota2-store]: http://www.dota2.com/store/
@@ -80,45 +77,45 @@ I already have:
 
 ### *LEGO*
 
-* Something from [Brickheadz][lego-brickheadz] series. I have 41593, 41596, 41597, 41600, 41605, 41610, 41612, 41619.
-* [Minecraft][lego-minecraft]: 21114, 21116, 21137. I have 21115, 21125, 21142.
-* [Architecture][lego-architecture]: 21050. I have 21019, 21026.
-* Technic: 42009, 42025. I have 8068, 9392, 42000, 42034.
+* Что угодно из серии [Brickheadz][lego-brickheadz]. Есть: 41593, 41596, 41597, 41600, 41605, 41610, 41612, 41619.
+* [Minecraft][lego-minecraft]: 21114, 21116, 21137. Есть: 21115, 21125, 21142.
+* [Architecture][lego-architecture]: 21050. Есть: 21019, 21026.
+* Technic: 42009, 42025. Есть: 8068, 9392, 42000, 42034.
 * [Большая книга LEGO][lego-big].
 
-I also have 60065, 60084, 70900, 75075, 75076, 75100.
+Кроме того, есть: 60065, 60084, 70900, 75075, 75076, 75100.
 
 [lego-architecture]: https://shop.lego.com/en-US/Architecture-ByTheme
 [lego-big]: http://www.mann-ivanov-ferber.ru/books/paperbook/unofficial-lego-builders-guide/
 [lego-brickheadz]: https://shop.lego.com/en-US/Brickheadz-sets
 [lego-minecraft]: https://shop.lego.com/en-US/Minecraft-ByTheme
 
-## Money
+## Деньги
 
-I'm fine with money gifts.
+Не вижу ничего зазорного в денежных подарках :)
 
-## Other
+## Другое
 
-* Follow or subscribe to my streaming account on [Twitch](https://www.twitch.tv/rudeshko_plays), [Twitter](https://twitter.com/rudeshko_plays), and [YouTube](https://www.youtube.com/channel/UCEmTIP5sBak0aiGU2sFMX2w).
-* Support my stream by [donating](https://donate.stream/rudeshko_plays).
+* Подпишитесь (можно платно) на мои стриминг-аккаунты: [Twitch](https://www.twitch.tv/rudeshko_plays), [Twitter](https://twitter.com/rudeshko_plays).
+* Поддержите стримы [донатами](https://donate.stream/rudeshko_plays).
 * Кистевой тренажёр (можно регулируемый).
-* [Levitating lamp](https://www.levitera.ru/product/levitiruyuschiy-svetilnik-cosmic-temnyy).
-* "Blood, Sweat, and Pixels" by Jason Schreier (_without_ Russian translation).
-* Touchscreen winter gloves.
-* Firm toothbrushes (R.O.C.S. are quite good).
-* Leaf tea.
-* Cavendish & Harvey Ice Drops.
-* **Satya** incense (Super Hit and Nag Champa are awesome).
-* Finnish coffee Kulta Katriina Perinteinen.
-* Funny colorful socks (42EU). Eg. [funnysocks.ru](https://funnysocks.ru/).
-* Storage containers for ***LEGO***.
-* Folding dumbbell (or two).
-* Anything from [www.tranceshop.ru](http://www.tranceshop.ru/) or similar.
-* T-Shirts with 3D printing (L).
+* [Левитирующая лампа](https://www.levitera.ru/product/levitiruyuschiy-svetilnik-cosmic-temnyy).
+* "Blood, Sweat, and Pixels" by Jason Schreier (книжка на английском).
+* Перчатки для тачскрина.
+* _Жёсткие_ зубные щётки, R.O.C.S. отлично себя зарекомендовали.
+* Любой листовой чай.
+* Конфеты Cavendish & Harvey Ice Drops.
+* Благовония **Satya**: Super Hit или Nag Champa.
+* Финский кофе Kulta Katriina Perinteinen.
+* Цветные носки размера 42EU. Например, из [funnysocks.ru](https://funnysocks.ru/).
+* Контейнеры для хранения ***LEGO***.
+* Разборная гантеля (а лучше две).
+* Что угодно из [www.tranceshop.ru](http://www.tranceshop.ru/) или подобного.
+* Майки с 3D-печатью размера L.
 * JollyJumper.
-* Something made by your hands.
+* Что-нибудь, сделанное вашими руками.
 
-## 🚫 I don't like
+## 🚫 Лучше не дарить
 
-* Gift certificates for various activities.
-* Paper books.
+* Подарочные сертификаты.
+* Бумажные книги.
