@@ -52,10 +52,12 @@ title: Вишлист
 
 ## Головоломки
 
-* Вариации Кубика Рубика:
+* Крутой Кубик Рубика [Gan 356 XS 3x3x3](https://cccstore.ru/catalog/kubiki-rubika/gan-356-xs-3x3x3/). Вариант с цветным пластиком, без наклеек.
+* Необычные вариации Кубика Рубика:
   * [Gear Cube](http://playlab.ru/toys/mefferts/gear-cube/).
   * [Touch Cube](https://www.rubiks.com/rubik-s-touch-cube.html) или что-то подобное, чтобы была возможность решить с закрытыми глазами.
 * [LEONARDO Puzzles](http://www.leonardo-puzzles.com/) / Hanayama Cast Puzzles. Лучше небольшие.
+* Много интересного есть в [CCC Store](https://cccstore.ru/)
 * Что-то ещё клёвое, о чём могу не знать.
 
 У меня есть:
