@@ -18,6 +18,10 @@ If that isn't what you thought you told it to do, that's your problem.
 
 — Jeff Atwood in [blog post](http://blog.codinghorror.com/the-best-code-is-no-code-at-all/)
 
+> Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+
+— Martin Fowler in Refactoring: Improving the Design of Existing Code
+
 > Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
 
 — Antoine de Saint-Exupery
