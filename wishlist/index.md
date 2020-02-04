@@ -5,7 +5,7 @@ title: Вишлист
 
 # Вишлист
 
-*Обновлено 1 января 2020.*
+*Обновлено 4 февраля 2020.*
 
 ## Железо
 
@@ -56,6 +56,7 @@ title: Вишлист
 * Необычные вариации Кубика Рубика:
   * [Gear Cube](http://playlab.ru/toys/mefferts/gear-cube/).
   * [Touch Cube](https://www.rubiks.com/rubik-s-touch-cube.html) или что-то подобное, чтобы была возможность решить с закрытыми глазами.
+* Что-нибудь из [Ugears](http://ugears-russia.ru/).
 * [LEONARDO Puzzles](http://www.leonardo-puzzles.com/) / Hanayama Cast Puzzles. Лучше небольшие.
 * Много интересного есть в [CCC Store](https://cccstore.ru/)
 * Что-то ещё клёвое, о чём могу не знать.
