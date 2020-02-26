@@ -5,7 +5,7 @@ title: Вишлист
 
 # Вишлист
 
-*Обновлено 4 февраля 2020.*
+*Обновлено 26 февраля 2020.*
 
 ## Железо
 
@@ -101,6 +101,7 @@ title: Вишлист
 
 * Подпишитесь (можно платно) на мои стриминг-аккаунты: [Twitch](https://www.twitch.tv/rudeshko_plays), [Twitter](https://twitter.com/rudeshko_plays).
 * Поддержите стримы [донатами](https://donate.stream/rudeshko_plays).
+* [Попросите Армина](mailto:armin@astateoftrance.com) меня поздравить.
 * Чехол для хранения велосипеда.
 * Кистевой тренажёр (можно регулируемый).
 * [Левитирующая лампа](https://www.levitera.ru/product/levitiruyuschiy-svetilnik-cosmic-temnyy).
