@@ -13,7 +13,7 @@ title: Вишлист
 
 * Свет [Elgato Key Light] ($195).
 * Микрофон [Blue Ember] ($99).
-* Внешняя звуковая карта [Focusrite Scarlett Solo].
+* Внешняя звуковая карта [Focusrite Scarlett Solo] ($130).
 * Устройство захвата [Elgato Game Capture HD60 S] ($135).
 * [DELL U2715H] display ($680).
 * Ещё один [HyperX Cloud II] ($69).
