@@ -11,31 +11,31 @@ title: Вишлист
 
 По убыванию:
 
-* Свет [Elgato Key Light][key-light] ($195).
+* Свет [Elgato Key Light] ($195).
 * Микрофон [Blue Ember] ($99).
 * Внешняя звуковая карта [Focusrite Scarlett Solo].
-* Устройство захвата [Elgato Game Capture HD60 S][hd60-s] ($135).
-* [DELL U2715H][dell] display ($680).
-* Ещё один [HyperX Cloud II][hyperx2] ($69).
-* Мониторные наушники. Например, [Sennheiser HD 518][hd-518] ($65).
+* Устройство захвата [Elgato Game Capture HD60 S] ($135).
+* [DELL U2715H] display ($680).
+* Ещё один [HyperX Cloud II] ($69).
+* Мониторные наушники. Например, [Sennheiser HD 518] ($65).
 * Amazon Kindle с подсветкой. Не разбираюсь, готов довериться чужому выбору, лишь бы PDF умело.
-* [JBL Charge 3][jbl] или новее. Лучше яркого цвета.
-* [Native Instruments Traktor Kontrol F1][ni-kontrol-f1].
-* [Native Instruments Traktor Kontrol S5][ni-kontrol-s5].
-* Микшер [TC Helicon GoXLR][goxlr] ($500).
+* [JBL Charge 3] или новее. Лучше яркого цвета.
+* [Native Instruments Traktor Kontrol F1].
+* [Native Instruments Traktor Kontrol S5].
+* Микшер [TC Helicon GoXLR] ($500).
 
 [Текущие комплектующие ПК][pc-config].
 
 [Blue Ember]: https://market.yandex.ru/product/463314132
-[hd60-s]: https://www.elgato.com/en/gaming/game-capture-hd60-s
-[key-light]: https://www.elgato.com/en/gaming/key-light
-[goxlr]: https://www.tc-helicon.com/broadcast
-[dell]: https://market.yandex.ru/product/11131926
-[hyperx2]: https://market.yandex.ru/product/12241651
-[hd-518]: https://market.yandex.ru/product/6516805
-[jbl]: https://market.yandex.ru/product/13925684
-[ni-kontrol-s5]: http://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-s5/
-[ni-kontrol-f1]: http://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-f1/
+[Elgato Game Capture HD60 S]: https://www.elgato.com/en/gaming/game-capture-hd60-s
+[Elgato Key Light]: https://www.elgato.com/en/gaming/key-light
+[TC Helicon GoXLR]: https://www.tc-helicon.com/broadcast
+[DELL U2715H]: https://market.yandex.ru/product/11131926
+[HyperX Cloud II]: https://market.yandex.ru/product/12241651
+[Sennheiser HD 518]: https://market.yandex.ru/product/6516805
+[JBL Charge 3]: https://market.yandex.ru/product/13925684
+[Native Instruments Traktor Kontrol S5]: http://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-s5/
+[Native Instruments Traktor Kontrol F1]: http://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-f1/
 [Focusrite Scarlett Solo]: https://market.yandex.ru/product/508266326
 [pc-config]: https://www.rudeshko.com/pc-config
 
