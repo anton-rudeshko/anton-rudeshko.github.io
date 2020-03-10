@@ -11,10 +11,10 @@ title: Вишлист
 
 По убыванию:
 
-* Микрофон [Blue Ember] ($99).
-* Устройство захвата [Elgato Game Capture HD60 S][hd60-s] ($135).
 * Свет [Elgato Key Light][key-light] ($195).
-* Микшер [TC Helicon GoXLR][goxlr] ($500).
+* Микрофон [Blue Ember] ($99).
+* Внешняя звуковая карта [Focusrite Scarlett Solo].
+* Устройство захвата [Elgato Game Capture HD60 S][hd60-s] ($135).
 * [DELL U2715H][dell] display ($680).
 * Ещё один [HyperX Cloud II][hyperx2] ($69).
 * Мониторные наушники. Например, [Sennheiser HD 518][hd-518] ($65).
@@ -22,7 +22,7 @@ title: Вишлист
 * [JBL Charge 3][jbl] или новее. Лучше яркого цвета.
 * [Native Instruments Traktor Kontrol F1][ni-kontrol-f1].
 * [Native Instruments Traktor Kontrol S5][ni-kontrol-s5].
-* Внешняя звуковая карта [Focusrite Scarlett Solo].
+* Микшер [TC Helicon GoXLR][goxlr] ($500).
 
 [Текущие комплектующие ПК][pc-config].
 
