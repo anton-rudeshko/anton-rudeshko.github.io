@@ -5,7 +5,7 @@ title: Вишлист
 
 # Вишлист
 
-*Обновлено 26 февраля 2020.*
+*Обновлено 10 марта 2020.*
 
 ## Железо
 
@@ -21,7 +21,7 @@ title: Вишлист
 * [JBL Charge 3][jbl] или новее. Лучше яркого цвета.
 * [Native Instruments Traktor Kontrol F1][ni-kontrol-f1].
 * [Native Instruments Traktor Kontrol S5][ni-kontrol-s5].
-* Внешняя звуковая карта. Например, [Focusrite Scarlett 2i2][focusrite].
+* Внешняя звуковая карта [Focusrite Scarlett Solo].
 
 [Текущие комплектующие ПК][pc-config].
 
@@ -34,7 +34,7 @@ title: Вишлист
 [jbl]: https://market.yandex.ru/product/13925684
 [ni-kontrol-s5]: http://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-s5/
 [ni-kontrol-f1]: http://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-f1/
-[focusrite]: http://market.yandex.ru/model.xml?modelid=7754997&hid=91027
+[Focusrite Scarlett Solo]: https://market.yandex.ru/product/508266326
 [pc-config]: https://www.rudeshko.com/pc-config
 
 ## Софт
