@@ -11,6 +11,7 @@ title: Вишлист
 
 По убыванию:
 
+* Микрофон [Blue Ember] ($99).
 * Устройство захвата [Elgato Game Capture HD60 S][hd60-s] ($135).
 * Свет [Elgato Key Light][key-light] ($195).
 * Микшер [TC Helicon GoXLR][goxlr] ($500).
@@ -25,6 +26,7 @@ title: Вишлист
 
 [Текущие комплектующие ПК][pc-config].
 
+[Blue Ember]: https://market.yandex.ru/product/463314132
 [hd60-s]: https://www.elgato.com/en/gaming/game-capture-hd60-s
 [key-light]: https://www.elgato.com/en/gaming/key-light
 [goxlr]: https://www.tc-helicon.com/broadcast
