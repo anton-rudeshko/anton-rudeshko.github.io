@@ -10,6 +10,10 @@ Memory: _Kingston_ HyperX Fury Black DDR4 DIMM 2666Mhz PC-21300 CL16 - 32Gb Kit 
 
 Accessories:
 
+* _Logitech_ HD PRo Webcam C920
+* _Elgato_ Stream Deck
+* _Focusrite_ Solo 3rd Gen
+* _Blue_ Ember
 * _HyperX_ Pulsefire Surge mouse.
 * _Razer_ Ornata Chrome keyboard.
 * Ordinary 16GB flash drive.
