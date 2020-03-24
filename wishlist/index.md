@@ -114,7 +114,7 @@ title: Вишлист
 * Конфеты Cavendish & Harvey Ice Drops.
 * Благовония **Satya**: Super Hit или Nag Champa.
 * Финский кофе Kulta Katriina Perinteinen.
-* Цветные носки размера 42EU. Например, из [funnysocks.ru](https://funnysocks.ru/).
+* Цветные носки размера 42EU. Например, из [funnysocks.ru](https://funnysocks.ru/) или [St. FRIDAY Socks](https://myfriday.ru/muzhskie_noski/).
 * Контейнеры для хранения ***LEGO***.
 * Разборная гантеля (а лучше две).
 * Что угодно из [www.tranceshop.ru](http://www.tranceshop.ru/) или подобного.
