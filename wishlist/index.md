@@ -73,7 +73,7 @@ title: Вишлист
 * [Шмот для Dota 2][dota2-store]. Предпочтение по героям см. на [Dotabuff][dotabuff]. Также буду рад [Plus-подписке][dota2-plus], но для этого точно нужен клиент игры.
 * [Подарочные карты Blizzard][blizzard-giftcards].
 
-[steam]: http://steamcommunity.com/id/Tesla404/wishlist
+[steam]: https://store.steampowered.com/wishlist/id/rudeshko_plays/
 [dota2-store]: http://www.dota2.com/store/
 [dotabuff]: https://www.dotabuff.com/players/55714886
 [dota2-plus]: https://www.dota2.com/plus
