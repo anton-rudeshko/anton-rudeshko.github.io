@@ -5,13 +5,13 @@ title: Вишлист
 
 # Вишлист
 
-*Обновлено 20 марта 2020.*
+*Обновлено 13 апреля 2020.*
 
 ## Железо
 
 По убыванию:
 
-* Шокмаунт для Blue Ember.
+* Шокмаунт (паук) для микрофона Blue Ember.
 * Свет [Elgato Key Light] ($195).
 * Устройство захвата [Elgato Game Capture HD60 S] ($135).
 * [DELL U2715H] display ($680).
@@ -25,7 +25,6 @@ title: Вишлист
 
 [Текущие комплектующие ПК][pc-config].
 
-[Blue Ember]: https://market.yandex.ru/product/463314132
 [Elgato Game Capture HD60 S]: https://www.elgato.com/en/gaming/game-capture-hd60-s
 [Elgato Key Light]: https://www.elgato.com/en/gaming/key-light
 [TC Helicon GoXLR]: https://www.tc-helicon.com/broadcast
@@ -35,7 +34,6 @@ title: Вишлист
 [JBL Charge 3]: https://market.yandex.ru/product/13925684
 [Native Instruments Traktor Kontrol S5]: http://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-s5/
 [Native Instruments Traktor Kontrol F1]: http://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-f1/
-[Focusrite Scarlett Solo]: https://market.yandex.ru/product/508266326
 [pc-config]: https://www.rudeshko.com/pc-config
 
 ## Софт
@@ -53,7 +51,7 @@ title: Вишлист
 
 ## Головоломки
 
-* Крутой Кубик Рубика [Gan 356 XS 3x3x3](https://cccstore.ru/catalog/kubiki-rubika/gan-356-xs-3x3x3/). Вариант с цветным пластиком, без наклеек.
+* Крутой Кубик Рубика [Gan 356 XS 3x3x3](https://cccstore.ru/catalog/kubiki-rubika/gan-356-xs-3x3x3/). Вариант с цветным пластиком, **без наклеек**.
 * Необычные вариации Кубика Рубика:
   * [Gear Cube](http://playlab.ru/toys/mefferts/gear-cube/).
   * [Touch Cube](https://www.rubiks.com/rubik-s-touch-cube.html) или что-то подобное, чтобы была возможность решить с закрытыми глазами.
@@ -64,7 +62,7 @@ title: Вишлист
 
 У меня есть:
 
-* 1x1, 2x2, 3x3, 4x4, mirror, morphix, flat cube.
+* 1x1, 2x2, 3x3 (Gan 356 XS с наклейками), 4x4, mirror, morphix, flat cube.
 * Cast Infinity.
 
 ## Игры
@@ -116,7 +114,6 @@ title: Вишлист
 * Финский кофе Kulta Katriina Perinteinen.
 * Цветные носки размера 42EU. Например, из [funnysocks.ru](https://funnysocks.ru/) или [St. FRIDAY Socks](https://myfriday.ru/muzhskie_noski/).
 * Контейнеры для хранения ***LEGO***.
-* Разборная гантеля (а лучше две).
 * Что угодно из [www.tranceshop.ru](http://www.tranceshop.ru/) или подобного.
 * Майки с 3D-печатью размера L.
 * JollyJumper.
