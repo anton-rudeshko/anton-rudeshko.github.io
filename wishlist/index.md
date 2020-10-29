@@ -5,19 +5,18 @@ title: Вишлист
 
 # Вишлист
 
-*Обновлено 13 апреля 2020.*
+*Обновлено 29 октября 2020.*
 
 ## Железо
 
 По убыванию:
 
-* Шокмаунт (паук) для микрофона Blue Ember.
 * Свет [Elgato Key Light] ($195).
+* Шокмаунт (паук) для микрофона Blue Ember.
 * Устройство захвата [Elgato Game Capture HD60 S] ($135).
-* [DELL U2715H] display ($680).
-* Ещё один [HyperX Cloud II] ($69).
+* Видеомикшер [Blackmagic Design ATEM Mini] ($300; не PRO).
 * Мониторные наушники. Например, [Sennheiser HD 518] ($65).
-* Amazon Kindle с подсветкой. Не разбираюсь, готов довериться чужому выбору, лишь бы PDF умело.
+* Amazon Kindle с подсветкой. Не разбираюсь, готов довериться чужому выбору.
 * [JBL Charge 3] или новее. Лучше яркого цвета.
 * [Native Instruments Traktor Kontrol F1].
 * [Native Instruments Traktor Kontrol S5].
@@ -25,11 +24,10 @@ title: Вишлист
 
 [Текущие комплектующие ПК][pc-config].
 
-[Elgato Game Capture HD60 S]: https://www.elgato.com/en/gaming/game-capture-hd60-s
 [Elgato Key Light]: https://www.elgato.com/en/gaming/key-light
+[Elgato Game Capture HD60 S]: https://www.elgato.com/en/gaming/game-capture-hd60-s
+[Blackmagic Design ATEM Mini]: https://www.blackmagicdesign.com/ru/products/atemmini
 [TC Helicon GoXLR]: https://www.tc-helicon.com/broadcast
-[DELL U2715H]: https://market.yandex.ru/product/11131926
-[HyperX Cloud II]: https://market.yandex.ru/product/12241651
 [Sennheiser HD 518]: https://market.yandex.ru/product/6516805
 [JBL Charge 3]: https://market.yandex.ru/product/13925684
 [Native Instruments Traktor Kontrol S5]: http://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-s5/
@@ -42,6 +40,7 @@ title: Вишлист
 * Подписка [Backblaze][backblaze] ($60).
 * Музыка из [вишлиста в Bandcamp][bandcamp-wishlist].
 * Подписка YouTube Premium.
+* Подписка Spotify Premium.
 * Подписка [Emby Premiere][emby-premiere].
 
 [fl-studio]: https://support.image-line.com/jshop/shop.php
@@ -102,7 +101,6 @@ title: Вишлист
 * Поддержите стримы [донатами](https://donate.stream/rudeshko_plays).
 * [Попросите Армина](mailto:armin@astateoftrance.com) меня поздравить.
 * Чехол для хранения велосипеда.
-* Кистевой тренажёр (можно регулируемый).
 * [Левитирующая лампа](https://www.levitera.ru/product/levitiruyuschiy-svetilnik-cosmic-temnyy).
 * Что-то для занятия каллиграфией (перо, чернила?)
 * "Blood, Sweat, and Pixels" by Jason Schreier (книжка на английском).
