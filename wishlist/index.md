@@ -5,16 +5,18 @@ title: Вишлист
 
 # Вишлист
 
-*Обновлено 23 ноября 2020.*
+*Обновлено 17 декабря 2020.*
 
 ## Железо
+
+В целом всё и так есть :) Ниже уже избыточное.
 
 По убыванию:
 
 * Свет [Elgato Key Light] ($195).
-* Видеомикшер [Blackmagic Design ATEM Mini] ($300; не PRO).
 * Amazon Kindle с подсветкой. Не разбираюсь, готов довериться чужому выбору.
 * Мониторные наушники. Например, [Sennheiser HD 518] ($65).
+* Видеомикшер [Blackmagic Design ATEM Mini] ($300; не PRO).
 * [JBL Charge 3] или новее. Лучше яркого цвета.
 * [Native Instruments Traktor Kontrol F1].
 * [Native Instruments Traktor Kontrol S5].
@@ -93,23 +95,29 @@ title: Вишлист
 
 Не вижу ничего зазорного в денежных подарках :)
 
-## Другое
+## Стримы
 
 * Подпишитесь (можно платно) на мои стриминг-аккаунты: [Twitch](https://www.twitch.tv/rudeshko_plays), [Twitter](https://twitter.com/rudeshko_plays).
-* Обычная деревянная чабань (чайная доска/столик) на 1–2 персоны.
 * Поддержите стримы [донатами](https://donate.stream/rudeshko_plays).
+
+## Другое
+
 * [Попросите Армина](mailto:armin@astateoftrance.com) меня поздравить.
+* Обычная деревянная чабань (чайная доска/столик) на 1–2 персоны.
 * Чехол для хранения велосипеда.
+* Набор для чистки объективов.
+* Сувенирка на тему видеоигр (DOOM, Dota, Minecraft, Ori, Factorio, Portal, Diablo, …): мягкие игрушки, фигурки, кружки, подставки, наклейки, и т.п..
 * [Левитирующая лампа](https://www.levitera.ru/product/levitiruyuschiy-svetilnik-cosmic-temnyy).
-* Что-то для занятия каллиграфией (перо, чернила?)
-* "Blood, Sweat, and Pixels" by Jason Schreier (книжка на английском).
 * Перчатки для тачскрина.
+* Подставки под кружки. Быстро заканчиваются!
 * _Жёсткие_ зубные щётки, R.O.C.S. отлично себя зарекомендовали.
+* Что-то для занятия каллиграфией (перо, чернила?)
+* Финский кофе Kulta Katriina Perinteinen.
 * Любой листовой чай.
+* Цветные носки размера 42EU. Например, из [funnysocks.ru](https://funnysocks.ru/) или [St. FRIDAY Socks](https://myfriday.ru/muzhskie_noski/).
+* "Blood, Sweat, and Pixels" by Jason Schreier (книжка на английском).
 * Конфеты Cavendish & Harvey Ice Drops.
 * Благовония **Satya**: Super Hit или Nag Champa.
-* Финский кофе Kulta Katriina Perinteinen.
-* Цветные носки размера 42EU. Например, из [funnysocks.ru](https://funnysocks.ru/) или [St. FRIDAY Socks](https://myfriday.ru/muzhskie_noski/).
 * Контейнеры для хранения ***LEGO***.
 * Что угодно из [www.tranceshop.ru](http://www.tranceshop.ru/) или подобного.
 * Майки с 3D-печатью размера L.
