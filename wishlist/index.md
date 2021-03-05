@@ -5,7 +5,7 @@ title: Вишлист
 
 # Вишлист
 
-*Обновлено 17 декабря 2020.*
+*Обновлено 5 марта 2021.*
 
 ## Железо
 
@@ -13,6 +13,7 @@ title: Вишлист
 
 По убыванию:
 
+* Беспроводной геймпад Microsoft Xbox One с адаптером для ПК. Любого НЕ белого цвета. Модель `1VA-00008` выглядит ок. Есть геймпад Xbox 360, но залипает и адаптеры несовместимы.
 * Свет [Elgato Key Light] ($195).
 * Amazon Kindle с подсветкой. Не разбираюсь, готов довериться чужому выбору.
 * Мониторные наушники. Например, [Sennheiser HD 518] ($65).
@@ -35,12 +36,12 @@ title: Вишлист
 
 ## Софт
 
-* [FL Studio + ALL Plugins Bundle][fl-studio] ($900).
+* Подписка Discord Nitro/Server Boost.
 * Подписка [Backblaze][backblaze] ($60).
+* [FL Studio + ALL Plugins Bundle][fl-studio] ($900).
 * Музыка из [вишлиста в Bandcamp][bandcamp-wishlist].
 * Подписка YouTube Premium.
 * Подписка Spotify Premium.
-* Подписка Discord Nitro/Server Boost.
 * Подписка [Emby Premiere][emby-premiere].
 
 [fl-studio]: https://support.image-line.com/jshop/shop.php
@@ -103,12 +104,9 @@ title: Вишлист
 ## Другое
 
 * [Попросите Армина](mailto:armin@astateoftrance.com) меня поздравить.
-* Обычная деревянная чабань (чайная доска/столик) на 1–2 персоны.
 * Чехол для хранения велосипеда.
-* Набор для чистки объективов.
 * Сувенирка на тему видеоигр (DOOM, Dota, Minecraft, Ori, Factorio, Portal, Diablo, …): мягкие игрушки, фигурки, кружки, подставки, наклейки, и т.п..
 * [Левитирующая лампа](https://www.levitera.ru/product/levitiruyuschiy-svetilnik-cosmic-temnyy).
-* Перчатки для тачскрина.
 * Подставки под кружки. Быстро заканчиваются!
 * _Жёсткие_ зубные щётки, R.O.C.S. отлично себя зарекомендовали.
 * Что-то для занятия каллиграфией (перо, чернила?)
