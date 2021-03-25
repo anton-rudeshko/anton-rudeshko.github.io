@@ -5,7 +5,7 @@ title: Вишлист
 
 # Вишлист
 
-*Обновлено 17 марта 2021.*
+*Обновлено 25 марта 2021.*
 
 ## Железо
 
@@ -37,14 +37,15 @@ title: Вишлист
 
 ## Софт
 
-* Подписка Discord Nitro/Server Boost.
+* Подписка Discord Nitro/Server Boost ([сервер][discord-server]).
 * Подписка [Backblaze][backblaze] ($60).
+* Подписка YouTube Premium.
+* Подписка [Emby Premiere][emby-premiere].
+* Подписка Spotify Premium.
 * [FL Studio + ALL Plugins Bundle][fl-studio] ($900).
 * Музыка из [вишлиста в Bandcamp][bandcamp-wishlist].
-* Подписка YouTube Premium.
-* Подписка Spotify Premium.
-* Подписка [Emby Premiere][emby-premiere].
 
+[discord-server]: https://www.rudeshko.com/plays/discord
 [fl-studio]: https://support.image-line.com/jshop/shop.php
 [backblaze]: https://secure.backblaze.com/gift.htm
 [bandcamp-wishlist]: https://bandcamp.com/anton-rudeshko/wishlist
@@ -68,8 +69,8 @@ title: Вишлист
 
 ## Игры
 
-* Что-либо из [вишлиста в Steam][steam].
 * [Шмот для Dota 2][dota2-store]. Например, [арканы][dota2-arcana] на Juggernaut/Phantom Assassin/Shadow Fiend/Zeus/IO. Другие предпочтения по героям см. на [Dotabuff][dotabuff]. Также буду рад [Plus-подписке][dota2-plus], но для этого точно нужен клиент игры.
+* Что-либо из [вишлиста в Steam][steam].
 * [Подарочные карты Blizzard][blizzard-giftcards].
 
 [steam]: https://store.steampowered.com/wishlist/id/rudeshko_plays/
@@ -83,7 +84,7 @@ title: Вишлист
 
 * Что угодно из серии [Brickheadz][lego-brickheadz]. Есть: 41593, 41596, 41597, 41600, 41605, 41610, 41612, 41619.
 * [Minecraft][lego-minecraft]: 21114, 21116, 21137. Есть: 21115, 21125, 21142.
-* [Architecture][lego-architecture]: 21050. Есть: 21019, 21026.
+* [Architecture][lego-architecture]: 21050. Есть: 21019, 21026, 21034.
 * Technic: 42009, 42025. Есть: 8068, 9392, 42000, 42034.
 * [Большая книга LEGO][lego-big].
 
@@ -109,13 +110,12 @@ title: Вишлист
 * Чехол для хранения велосипеда.
 * Сувенирка на тему видеоигр (DOOM, Dota, Minecraft, Ori, Factorio, Portal, Diablo, …): мягкие игрушки, фигурки, кружки, подставки, наклейки, и т.п..
 * [Левитирующая лампа](https://www.levitera.ru/product/levitiruyuschiy-svetilnik-cosmic-temnyy).
-* Подставки под кружки. Быстро заканчиваются!
 * _Жёсткие_ зубные щётки, R.O.C.S. отлично себя зарекомендовали.
-* Что-то для занятия каллиграфией (перо, чернила?)
-* Финский кофе Kulta Katriina Perinteinen.
+* Разный кофе в зёрнах. Молотый финский Kulta Katriina Perinteinen.
 * Любой листовой чай.
 * Цветные носки размера 42EU. Например, из [funnysocks.ru](https://funnysocks.ru/) или [St. FRIDAY Socks](https://myfriday.ru/muzhskie_noski/).
 * "Blood, Sweat, and Pixels" by Jason Schreier (книжка на английском).
+* Что-то для занятия каллиграфией (перо, чернила?)
 * Конфеты Cavendish & Harvey Ice Drops.
 * Благовония **Satya**: Super Hit или Nag Champa.
 * Контейнеры для хранения ***LEGO***.
