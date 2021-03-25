@@ -69,11 +69,12 @@ title: Вишлист
 ## Игры
 
 * Что-либо из [вишлиста в Steam][steam].
-* [Шмот для Dota 2][dota2-store]. Предпочтение по героям см. на [Dotabuff][dotabuff]. Также буду рад [Plus-подписке][dota2-plus], но для этого точно нужен клиент игры.
+* [Шмот для Dota 2][dota2-store]. Например, [арканы][dota2-arcana] на Juggernaut/Phantom Assassin/Shadow Fiend/Zeus/IO. Другие предпочтения по героям см. на [Dotabuff][dotabuff]. Также буду рад [Plus-подписке][dota2-plus], но для этого точно нужен клиент игры.
 * [Подарочные карты Blizzard][blizzard-giftcards].
 
 [steam]: https://store.steampowered.com/wishlist/id/rudeshko_plays/
 [dota2-store]: http://www.dota2.com/store/
+[dota2-arcana]: https://dota2.fandom.com/wiki/Arcana
 [dotabuff]: https://www.dotabuff.com/players/55714886
 [dota2-plus]: https://www.dota2.com/plus
 [blizzard-giftcards]: https://giftcards.blizzard.com/
