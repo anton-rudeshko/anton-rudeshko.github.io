@@ -5,7 +5,7 @@ title: Вишлист
 
 # Вишлист
 
-*Обновлено 25 марта 2021.*
+*Обновлено 7 июля 2021.*
 
 ## Железо
 
@@ -13,8 +13,8 @@ title: Вишлист
 
 По убыванию:
 
-* Беспроводной геймпад Microsoft Xbox One с адаптером для ПК. Любого НЕ белого цвета. Модель `1VA-00008` выглядит ок. Есть геймпад Xbox 360, но залипает и адаптеры несовместимы.
 * Чёрненькая электрическая кофемолка Bosch.
+* Портативный роутер, например [TP-LINK M7350].
 * Свет [Elgato Key Light] ($195).
 * Amazon Kindle с подсветкой. Не разбираюсь, готов довериться чужому выбору.
 * Мониторные наушники. Например, [Sennheiser HD 518] ($65).
@@ -26,6 +26,7 @@ title: Вишлист
 
 [Текущие комплектующие ПК][pc-config].
 
+[TP-LINK M7350]: https://market.yandex.ru/product--wi-fi-router-tp-link-m7350/12176383?nid=55410
 [Elgato Key Light]: https://www.elgato.com/en/gaming/key-light
 [Blackmagic Design ATEM Mini]: https://www.blackmagicdesign.com/ru/products/atemmini
 [TC Helicon GoXLR]: https://www.tc-helicon.com/broadcast
@@ -107,7 +108,6 @@ title: Вишлист
 ## Другое
 
 * [Попросите Армина](mailto:armin@astateoftrance.com) меня поздравить.
-* Чехол для хранения велосипеда.
 * Сувенирка на тему видеоигр (DOOM, Dota, Minecraft, Ori, Factorio, Portal, Diablo, …): мягкие игрушки, фигурки, кружки, подставки, наклейки, и т.п..
 * [Левитирующая лампа](https://www.levitera.ru/product/levitiruyuschiy-svetilnik-cosmic-temnyy).
 * _Жёсткие_ зубные щётки, R.O.C.S. отлично себя зарекомендовали.
