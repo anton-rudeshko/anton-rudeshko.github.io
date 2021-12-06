@@ -5,7 +5,7 @@ title: Вишлист
 
 # Вишлист
 
-*Обновлено 7 июля 2021.*
+*Обновлено 6 декабря 2021.*
 
 ## Железо
 
@@ -13,11 +13,11 @@ title: Вишлист
 
 По убыванию:
 
-* Чёрненькая электрическая кофемолка Bosch.
-* Портативный роутер, например [TP-LINK M7350].
+* Чёрненькая электрическая кофемолка Bosch ($35).
 * Свет [Elgato Key Light] ($195).
+* _Открытые_ полноразмерные проводные мониторные наушники Sennheiser. Дальше из этой категории можно выбрать любые, вопрос цены 😉 ($80+).
+* [Decksaver NI Kontrol S2] **не MK3** ($60).
 * Amazon Kindle с подсветкой. Не разбираюсь, готов довериться чужому выбору.
-* Мониторные наушники. Например, [Sennheiser HD 518] ($65).
 * Видеомикшер [Blackmagic Design ATEM Mini] ($300; не PRO).
 * [JBL Charge 3] или новее. Лучше яркого цвета.
 * [Native Instruments Traktor Kontrol F1].
@@ -26,14 +26,13 @@ title: Вишлист
 
 [Текущие комплектующие ПК][pc-config].
 
-[TP-LINK M7350]: https://market.yandex.ru/product--wi-fi-router-tp-link-m7350/12176383?nid=55410
 [Elgato Key Light]: https://www.elgato.com/en/gaming/key-light
+[Decksaver NI Kontrol S2]: https://www.dj-store.ru/oborudovanie/didzhejev/dj-ryukzaki-sumki-chekhly-papki-dlya-didzheev/zashchitnye-kryshki/43705_decksaver-ni-kontrol-s2.html
 [Blackmagic Design ATEM Mini]: https://www.blackmagicdesign.com/ru/products/atemmini
 [TC Helicon GoXLR]: https://www.tc-helicon.com/broadcast
-[Sennheiser HD 518]: https://market.yandex.ru/product/6516805
 [JBL Charge 3]: https://market.yandex.ru/product/13925684
-[Native Instruments Traktor Kontrol S5]: http://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-s5/
-[Native Instruments Traktor Kontrol F1]: http://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-f1/
+[Native Instruments Traktor Kontrol S5]: https://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-s5/
+[Native Instruments Traktor Kontrol F1]: https://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-f1/
 [pc-config]: https://www.rudeshko.com/pc-config
 
 ## Софт
@@ -71,7 +70,7 @@ title: Вишлист
 ## Игры
 
 * [Шмот для Dota 2][dota2-store]. Например, [арканы][dota2-arcana] на Juggernaut/Phantom Assassin/Shadow Fiend/Zeus/IO. Другие предпочтения по героям см. на [Dotabuff][dotabuff]. Также буду рад [Plus-подписке][dota2-plus], но для этого точно нужен клиент игры.
-* Что-либо из [вишлиста в Steam][steam].
+* Что-либо из [вишлиста в Steam][steam]. Но знайте, что у меня и так бэклог на несколько лет вперёд.
 * [Подарочные карты Blizzard][blizzard-giftcards].
 
 [steam]: https://store.steampowered.com/wishlist/id/rudeshko_plays/
@@ -102,8 +101,10 @@ title: Вишлист
 
 ## Стримы
 
-* Подпишитесь (можно платно) на мои стриминг-аккаунты: [Twitch](https://www.twitch.tv/rudeshko_plays), [Twitter](https://twitter.com/rudeshko_plays).
+* Подпишитесь (можно [платно][twitch-sub]) на мои стриминг-аккаунты: [Twitch](https://www.twitch.tv/rudeshko_plays), [Twitter](https://twitter.com/rudeshko_plays).
 * Поддержите стримы [донатами](https://donate.stream/rudeshko_plays).
+
+[twitch-sub]: https://www.twitch.tv/products/rudeshko_plays
 
 ## Другое
 
@@ -112,7 +113,7 @@ title: Вишлист
 * [Левитирующая лампа](https://www.levitera.ru/product/levitiruyuschiy-svetilnik-cosmic-temnyy).
 * _Жёсткие_ зубные щётки, R.O.C.S. отлично себя зарекомендовали.
 * Разный кофе в зёрнах. Молотый финский Kulta Katriina Perinteinen.
-* Любой листовой чай.
+* Любой листовой чай. И в целом приблуды для чайной церемонии, например, пиалы.
 * Цветные носки размера 42EU. Например, из [funnysocks.ru](https://funnysocks.ru/) или [St. FRIDAY Socks](https://myfriday.ru/muzhskie_noski/).
 * "Blood, Sweat, and Pixels" by Jason Schreier (книжка на английском).
 * Что-то для занятия каллиграфией (перо, чернила?)
