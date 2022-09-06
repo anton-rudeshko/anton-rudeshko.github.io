@@ -27,9 +27,8 @@ Storage:
 Unused:
 
 * Audio card: _M-Audio_ AudioPhile 24/96 2003 Rev-B
-* :x: _Corsair_ `CMX2GX3M1A1333C9` DIMM DDR3 2GB PC3-10600 1333MHz (incompatible)
-* :x: 2 × _Corsair XMS3_ `CMX8GX3M2A1333C9`DIMM 4GB PC3-10666 1333MHz (one faulty & one incompatible)
-* 4 × _Kingston_ `KVR13N9S8HK2/8` DIMM 4GB PC3-10600 CL9 240-Pin
+* ☠️ _Corsair_ `CMX2GX3M1A1333C9` DIMM DDR3 2GB PC3-10600 1333MHz (incompatible)
+* ☠️ 2 × _Corsair XMS3_ `CMX8GX3M2A1333C9`DIMM 4GB PC3-10666 1333MHz (one faulty & one incompatible)
 
 Power supply: _Zalman_ `ZM1000-EBT 1000W`
 
