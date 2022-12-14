@@ -5,7 +5,7 @@ title: Вишлист
 
 # Вишлист
 
-*Обновлено 15 мая 2022.*
+*Обновлено 14 декабря 2022. Всё с лёгким налётом неактуальности.*
 
 ## Пластинки
 
@@ -21,13 +21,16 @@ title: Вишлист
 
 По убыванию:
 
-* Свет [Elgato Key Light] ($195).
-* [Decksaver NI Kontrol S2] **не MK3** ($60).
-* Стойки для студийных мониторов.
+* [Steam Deck] максимальной конфигурации ($650).
+* Шейвер [Pitbull Platinum PRO], остерегайтесь подделок ($250).
+* Смартфон Google Pixel 7 **не Pro** ($600) или Nothing Phone (1) ($500).
+* Портативный ЦАП. В них не шарю. Например, [Astell & Kern AK USB-C Dual DAC].
+* Небольшой, но вместительный (10к+ мА·ч) Power Bank.
+* ⏸ [Decksaver NI Kontrol S2] **не MK3** ($60).
+* ⏸ Стойки для студийных мониторов.
 * Ключи [Yubikey 5] любого форм-фактора и в любых количествах.
 * Amazon Kindle с подсветкой. Не разбираюсь, готов довериться чужому выбору.
-* Видеомикшер [Blackmagic Design ATEM Mini] ($300; не PRO).
-* ⏸ Игровой ноутбук или внешняя видеокарта.
+* ⏸ Видеомикшер [Blackmagic Design ATEM Mini] ($300; не PRO).
 * ⏸ [JBL Charge 3] или новее. Лучше яркого цвета.
 * ⏸ [Native Instruments Traktor Kontrol F1].
 * ⏸ [Native Instruments Traktor Kontrol S5].
@@ -35,7 +38,9 @@ title: Вишлист
 
 [Текущие комплектующие ПК][pc-config].
 
-[Elgato Key Light]: https://www.elgato.com/en/gaming/key-light
+[Steam Deck]: https://store.steampowered.com/steamdeck
+[Pitbull Platinum PRO]: https://skullshaver.com/collections/mens-shavers/products/pitbull-platinum-pro-head-and-face-shaver
+[Astell & Kern AK USB-C Dual DAC]: https://us.astellnkern.com/products/ak-usb-c-dual-dac-cable-pee51
 [Decksaver NI Kontrol S2]: https://www.dj-store.ru/oborudovanie/didzhejev/dj-ryukzaki-sumki-chekhly-papki-dlya-didzheev/zashchitnye-kryshki/43705_decksaver-ni-kontrol-s2.html
 [Yubikey 5]: https://www.yubico.com/products/yubikey-5-overview/
 [Blackmagic Design ATEM Mini]: https://www.blackmagicdesign.com/ru/products/atemmini
@@ -49,17 +54,16 @@ title: Вишлист
 
 * Подписка Discord Nitro/Server Boost ([сервер][discord-server]).
 * Подписка [Backblaze][backblaze] ($60).
-* Подписка YouTube Premium.
-* Подписка Spotify Premium.
-* [FL Studio + ALL Plugins Bundle][fl-studio] ($900).
 * Музыка из [вишлиста в Bandcamp][bandcamp-wishlist].
+* Подписка YouTube Premium.
+* [FL Studio + ALL Plugins Bundle][fl-studio] ($900).
 
 [discord-server]: https://www.rudeshko.com/plays/discord
 [fl-studio]: https://support.image-line.com/jshop/shop.php
 [backblaze]: https://secure.backblaze.com/gift.htm
 [bandcamp-wishlist]: https://bandcamp.com/anton-rudeshko/wishlist
 
-## Головоломки
+## ⏸ Головоломки
 
 * Необычные вариации Кубика Рубика:
   * [Gear Cube](http://playlab.ru/toys/mefferts/gear-cube/).
@@ -94,9 +98,10 @@ title: Вишлист
 
 [twitch-sub]: https://www.twitch.tv/products/rudeshko_plays
 
-## Другое
+## Разные приятные мелочи
 
 * [Попросите Армина](mailto:armin@astateoftrance.com) меня поздравить.
+* Портативная документница под карточки, ручку, блокнот, паспорт итп.
 * Калимба. Например, Arcanum S21 или S17A.
 * Сувенирка от [kurzgesagt]: футболки, постеры, носочки, плюши.
 * Комнатные растения 🌿
@@ -104,7 +109,7 @@ title: Вишлист
 * Сувенирка на тему видеоигр (DOOM, Dota, Minecraft, Ori, Factorio, Portal, Diablo, …): мягкие игрушки, фигурки, кружки, подставки, наклейки, и т.п..
 * _Жёсткие_ зубные щётки, R.O.C.S. отлично себя зарекомендовали.
 * Разный кофе в зёрнах. Молотый финский Kulta Katriina Perinteinen.
-* Любой листовой чай. И в целом приблуды для чайной церемонии, например, пиалы.
+* Не дешёвый китай чай. И в целом приблуды для чайной церемонии, например, пиалы.
 * Цветные носки размера 42EU. Например, из [funnysocks.ru](https://funnysocks.ru/) или [St. FRIDAY Socks](https://myfriday.ru/muzhskie_noski/).
 * "Blood, Sweat, and Pixels" by Jason Schreier (книжка на английском).
 * ⏸ Что-то для занятия каллиграфией (перо, чернила?)
