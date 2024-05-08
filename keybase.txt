@@ -6,18 +6,18 @@ I hereby claim:
 
   * I am an admin of https://www.rudeshko.com
   * I am anton_rudeshko (https://keybase.io/anton_rudeshko) on keybase.
-  * I have a public key with fingerprint 8AAE 1D53 A580 CD38 DA2E  2F89 A232 B103 FA89 6824
+  * I have a public key with fingerprint 660A EEB6 C343 5ACE F0E0  B482 DE6F D9A3 8000 065A
 
 To do so, I am signing this object:
 
 {
   "body": {
     "key": {
-      "eldest_kid": "0101686fe4cc2fce95468de25c220213071cf0dfab15f24cf57b61e9cff88826e2e40a",
-      "fingerprint": "8aae1d53a580cd38da2e2f89a232b103fa896824",
+      "eldest_kid": "0120f3010de487bc48d9cf8c4b3ce317130c830697ad5185ea8f63a37bc1ebea66f80a",
+      "fingerprint": "660aeeb6c3435acef0e0b482de6fd9a38000065a",
       "host": "keybase.io",
-      "key_id": "a232b103fa896824",
-      "kid": "0101686fe4cc2fce95468de25c220213071cf0dfab15f24cf57b61e9cff88826e2e40a",
+      "key_id": "de6fd9a38000065a",
+      "kid": "01169ce5dedbc2956b1c4ecbb4f099edeb345ce5522ccdf6a8fee9e105bd597f510f0a",
       "uid": "b4d8e91514d28f3827b709ece2a73519",
       "username": "anton_rudeshko"
     },
@@ -28,10 +28,10 @@ To do so, I am signing this object:
     "type": "web_service_binding",
     "version": 1
   },
-  "ctime": 1557994981,
+  "ctime": 1715178504,
   "expire_in": 157680000,
-  "prev": "8790daa20b0141fd831750cd31b42a45040f7b0338fd83f713d47ef49f27f9a8",
-  "seqno": 3,
+  "prev": "332d8be1084c9add85b5e66c0f9703998d6f38bbe30a2cf8f81e1f064a96566f",
+  "seqno": 11,
   "tag": "signature"
 }
 
@@ -39,23 +39,19 @@ which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
 
-owGtUltIFFEY3k23cjMsktBIoqGCSLZzzszsnFm7aPfoIaXM6MJyZuYcd9KdWWdn
-tUWMiDKiCxr2YEYZvqRkUZYFFQUlilJ0j4pQQhCjLAwKMqIZ0bceOy+H8//f953v
-v9TNTPH4vSXzaw6P+NOPePuGFc+eDzkj1ZxiakkuVM2V0fGLlms0bofLdI0LcQAC
-GMRBRgVVRUylsigEsUaRqCIEEOSBBFUGNEYUKDIkqEyUlCCkssoYxhgFKaICIFwu
-x3SjlFoxSzdsRxYTQqEm8kTEQNV4rBFEEcMyQTxSIOAZwXIQI8EhRsy4y3DMKSRO
-A7rpxJxHeNzeP/D/2XdiXE4RNExlKEJBQ5jxGEmKBGSqUkQkXoSyC4xTyyBR6roy
-bNMIWwmnj5Eyk6vJ5Zxcpa5St71uPRO4qqqqwCQqoJpRRyVmmbapmuVONmLbsXjI
-ZdvJ2DicKuEJobCiG5rTUYdRSa24bhpcCDpI1dZdZSiKkiwLMoa5HN0f0y0a1l2E
-KAUxcI77D61U3EFIMtAIQUABUIBMwzyURHckUBEQEUQgACYpgOexm2MS5DVBokyQ
-GZKYTDDn1lZhmFyId3ySUkcyrpcaxE5YlKvxH/PyqR6v35Mzd2Gq6b117Mm+Gy2j
-efe7JrfQN8VdQY8/bdZkpCBvuufc7WTwM79t5XCKis/6bu9907Bae9syuPlAxiD+
-WFB4KUve2NXad6H7oJ5erTbPu7y14M+rXc9PGr1DqdL6yNyBuqFFOXevbuhcvrT3
-x/5qX23WnmXh4oq8/OYjJR1N9dOzj16LPl1zJePZipSiK/2faou+rOrPLs6s8zaO
-NSzYeTj5rfB7W8PPdc+W9fxiM6zsrz31xwcO/G5rGcsPdKS3znnd35Occu1mUzTZ
-3V67486SaeTB+XNTXwq760nau8LRM5ngcVZaY+dVX6R0y+zryytnzSxfnzhRvynT
-l2hfOPzIl59Bo2s7Ul8s3h7o+XBRfHO64V4/lE+9H711aPvrhyPF7dxf
-=H31F
+owFtkj1oFEEUx/fMKXgQEItYSISbUs5jZudjZ07QImIRURF7l/l4c1mS7F529/JB
+DFZCCgvRRrGOXbCys7AURbAR7MTO2EtSBHX2yHVOM8y83/vP/703T2dnos7c4+Pb
++8d7F7Zbnw5M5K8+6W4jU7gtNNhGyzDZYMVBVafLmUMDhEmMPcUEO2AyMZZJp6yX
+lhlqgZKEUGwlxUIl2nEiOWjpBdU0oAQMaCG8xBr1kM/yIZSjMsvrICsE1gBGWMoo
+1xY8BmyYjB0I75SmEocleJO4VFRNRjBndAX9rAh34ZBO7P2Hn/omQlngDpyxseLC
+EMvAGsM8VgocGMp4iPM4ttZ5EWwDKCCYG8dV4jnBfuJ7PJEzzElQhBPmYumpjBOT
+YAUWYp1QTlQDVlDmehUCrfO6yNNyHPq4tFygnR4KsfXMQtPepp4TbmNjoz+l+rZY
+DSqjsqgLW6yE6FJdj6pBk11vjSY4mPREKDVZ7kJHQ8Y6lFVW5GhAAmnrrFEOc+Ek
+kRyzHoLNUVZCmjUET8SkU807sG6DJqWxkybULZlV2jnJDQchLPYqwVQp6UQo1xig
+WMdh8F4SIB4LppXgYbioqW0tL4I4CUb1MGhW2TDX9bgEtNPZHbejuU40P9dtf3/A
+6vtd9uXz+W9fp7/w9KnmC0ads+emN5vvW9Hre+2F9N1C5/qd2efRy2uHe/rK8Nfb
+Pzff7LZ+HMxcPmpF+7cWYfdjmvNLr178fPTMPDy8O/Phhvv7++L84s7B0Zl/
+=wPLt
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
