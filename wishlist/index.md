@@ -5,12 +5,12 @@ title: Вишлист
 
 # Вишлист
 
-*Обновлено 14 декабря 2022. Всё с лёгким налётом неактуальности.*
+*Обновлено 15 октября 2024.*
 
 ## Пластинки
 
 - [Что есть в коллекции][vinyl-collection].
-- [Чем можно порадовать][vinyl-wantlist].
+- [Чем можно порадовать][vinyl-wantlist] (там есть и просто mp3 музыка, её тоже можно дарить).
 
 [vinyl-collection]: https://www.discogs.com/user/anton-rudeshko/collection?header=1&layout=big
 [vinyl-wantlist]: https://www.discogs.com/wantlist?user=anton-rudeshko&layout=big
@@ -21,47 +21,42 @@ title: Вишлист
 
 По убыванию:
 
-* [Steam Deck] максимальной конфигурации ($650).
-* Шейвер [Pitbull Platinum PRO], остерегайтесь подделок ($250).
-* Смартфон Google Pixel 7 **не Pro** ($600) или Nothing Phone (1) ($500).
 * Портативный ЦАП. В них не шарю. Например, [Astell & Kern AK USB-C Dual DAC].
-* Небольшой, но вместительный (10к+ мА·ч) Power Bank.
+* ⏸ Небольшой, но вместительный (10к+ мА·ч) Power Bank.
 * ⏸ [Decksaver NI Kontrol S2] **не MK3** ($60).
 * ⏸ Стойки для студийных мониторов.
 * Ключи [Yubikey 5] любого форм-фактора и в любых количествах.
 * Amazon Kindle с подсветкой. Не разбираюсь, готов довериться чужому выбору.
 * ⏸ Видеомикшер [Blackmagic Design ATEM Mini] ($300; не PRO).
-* ⏸ [JBL Charge 3] или новее. Лучше яркого цвета.
 * ⏸ [Native Instruments Traktor Kontrol F1].
 * ⏸ [Native Instruments Traktor Kontrol S5].
 * ⏸ Микшер [TC Helicon GoXLR] ($500).
 
 [Текущие комплектующие ПК][pc-config].
 
-[Steam Deck]: https://store.steampowered.com/steamdeck
-[Pitbull Platinum PRO]: https://skullshaver.com/collections/mens-shavers/products/pitbull-platinum-pro-head-and-face-shaver
 [Astell & Kern AK USB-C Dual DAC]: https://us.astellnkern.com/products/ak-usb-c-dual-dac-cable-pee51
 [Decksaver NI Kontrol S2]: https://www.dj-store.ru/oborudovanie/didzhejev/dj-ryukzaki-sumki-chekhly-papki-dlya-didzheev/zashchitnye-kryshki/43705_decksaver-ni-kontrol-s2.html
 [Yubikey 5]: https://www.yubico.com/products/yubikey-5-overview/
 [Blackmagic Design ATEM Mini]: https://www.blackmagicdesign.com/ru/products/atemmini
 [TC Helicon GoXLR]: https://www.tc-helicon.com/broadcast
-[JBL Charge 3]: https://market.yandex.ru/product/13925684
 [Native Instruments Traktor Kontrol S5]: https://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-s5/
 [Native Instruments Traktor Kontrol F1]: https://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-f1/
 [pc-config]: https://www.rudeshko.com/pc-config
 
 ## Софт
 
-* Подписка Discord Nitro/Server Boost ([сервер][discord-server]).
-* Подписка [Backblaze][backblaze] ($60).
+* Лицензия на [Rogue Amoeba Loopback][loopback] ($99). Или весь их бандл ($197).
+* Подписка Discord Nitro/Server Boost ([сервер][discord-server]) ($5–15).
+* Подписка [Backblaze][backblaze] ($99).
 * Музыка из [вишлиста в Bandcamp][bandcamp-wishlist].
 * Подписка YouTube Premium.
 * [FL Studio + ALL Plugins Bundle][fl-studio] ($900).
 
+[loopback]: https://rogueamoeba.com/loopback/
 [discord-server]: https://www.rudeshko.com/plays/discord
-[fl-studio]: https://support.image-line.com/jshop/shop.php
 [backblaze]: https://secure.backblaze.com/gift.htm
 [bandcamp-wishlist]: https://bandcamp.com/anton-rudeshko/wishlist
+[fl-studio]: https://support.image-line.com/jshop/shop.php
 
 ## ⏸ Головоломки
 
@@ -80,7 +75,7 @@ title: Вишлист
 
 ## Игры
 
-* [Шмот для Dota 2][dota2-store]. Например, [арканы][dota2-arcana] на Juggernaut/Phantom Assassin/Shadow Fiend/Zeus/IO. Другие предпочтения по героям см. на [Dotabuff][dotabuff]. Также буду рад [Plus-подписке][dota2-plus], но для этого точно нужен клиент игры.
+* [Шмот для Dota 2][dota2-store]. Например, [арканы][dota2-arcana] на Juggernaut/Phantom Assassin/Zeus/IO. Другие предпочтения по героям см. на [Dotabuff][dotabuff]. Также буду рад [Plus-подписке][dota2-plus], но для этого точно нужен клиент игры.
 * ⏸ Что-либо из [вишлиста в Steam][steam]. Но знайте, что у меня и так бэклог на несколько лет вперёд.
 * [Подарочные карты Blizzard][blizzard-giftcards].
 
@@ -90,13 +85,6 @@ title: Вишлист
 [dotabuff]: https://www.dotabuff.com/players/55714886
 [dota2-plus]: https://www.dota2.com/plus
 [blizzard-giftcards]: https://giftcards.blizzard.com/
-
-## Стримы
-
-* Подпишитесь (можно [платно][twitch-sub]) на мои стриминг-аккаунты: [Twitch](https://www.twitch.tv/rudeshko_plays), [Twitter](https://twitter.com/rudeshko_plays).
-* Поддержите стримы [донатами](https://donate.stream/rudeshko_plays).
-
-[twitch-sub]: https://www.twitch.tv/products/rudeshko_plays
 
 ## Разные приятные мелочи
 
@@ -109,7 +97,7 @@ title: Вишлист
 * Сувенирка на тему видеоигр (DOOM, Dota, Minecraft, Ori, Factorio, Portal, Diablo, …): мягкие игрушки, фигурки, кружки, подставки, наклейки, и т.п..
 * _Жёсткие_ зубные щётки, R.O.C.S. отлично себя зарекомендовали.
 * Разный кофе в зёрнах. Молотый финский Kulta Katriina Perinteinen.
-* Не дешёвый китай чай. И в целом приблуды для чайной церемонии, например, пиалы.
+* Не дешёвый китайский чай. И в целом приблуды для чайной церемонии, например, пиалы.
 * Цветные носки размера 42EU. Например, из [funnysocks.ru](https://funnysocks.ru/) или [St. FRIDAY Socks](https://myfriday.ru/muzhskie_noski/).
 * "Blood, Sweat, and Pixels" by Jason Schreier (книжка на английском).
 * ⏸ Что-то для занятия каллиграфией (перо, чернила?)
@@ -137,11 +125,8 @@ title: Вишлист
 [lego-brickheadz]: https://shop.lego.com/en-US/Brickheadz-sets
 [lego-minecraft]: https://shop.lego.com/en-US/Minecraft-ByTheme
 
-## Деньги
-
-Не вижу ничего зазорного в денежных подарках. В целом потребности нет, зато легко приму в дар акции.
-
 ## 🚫 Лучше не дарить
 
+* Деньги. Вы можете лучше 😉
 * Подарочные сертификаты.
-* Бумажные книги.
+* Бумажные книги (кроме перечисленных выше).
