@@ -56,7 +56,7 @@ _Обновлено 15 октября 2024._
 [loopback]: https://rogueamoeba.com/loopback/
 [discord-server]: https://www.rudeshko.com/plays/discord
 [backblaze]: https://secure.backblaze.com/gift.htm
-[bandcamp-wishlist]: https://bandcamp.com/anton-rudeshko/wishlist
+[bandcamp-wishlist]: https://bandcamp.com/ardsh/wishlist
 [fl-studio]: https://support.image-line.com/jshop/shop.php
 
 ## ⏸ Головоломки
