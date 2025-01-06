@@ -5,7 +5,7 @@ title: Вишлист
 
 # Вишлист
 
-_Обновлено 22 декабря 2024._
+_Обновлено 6 января 2025._
 
 ## Пластинки
 
@@ -24,31 +24,21 @@ _Обновлено 22 декабря 2024._
 По убыванию:
 
 - Красивый большой коврик для мыши и клавиатуры на весь рабочий стол (AKA desk mat).
-- Портативный ЦАП. В них не шарю. Например, [Astell & Kern AK USB-C Dual DAC].
-- ⏸ Небольшой, но вместительный (10к+ мА·ч) Power Bank.
-- ⏸ [Decksaver NI Kontrol S2] **не MK3** ($60).
-- ⏸ Стойки для студийных мониторов.
-- Ключи [Yubikey 5] любого форм-фактора и в любых количествах.
 - Amazon Kindle с подсветкой. Не разбираюсь, готов довериться чужому выбору.
-- ⏸ Видеомикшер [Blackmagic Design ATEM Mini] ($300; не PRO).
-- ⏸ [Native Instruments Traktor Kontrol F1].
-- ⏸ [Native Instruments Traktor Kontrol S5].
-- ⏸ Микшер [TC Helicon GoXLR] ($500).
+- Портативный ЦАП. В них не шарю. Например, [Astell & Kern AK USB-C Dual DAC].
+- Ключи [Yubikey 5] любого форм-фактора и в любых количествах.
+- ⏸ [Decksaver NI Kontrol S2] **не MK3** ($60).
 
 [Текущие комплектующие ПК][pc-config].
 
 [Astell & Kern AK USB-C Dual DAC]: https://us.astellnkern.com/products/ak-usb-c-dual-dac-cable-pee51
 [Decksaver NI Kontrol S2]: https://www.dj-store.ru/oborudovanie/didzhejev/dj-ryukzaki-sumki-chekhly-papki-dlya-didzheev/zashchitnye-kryshki/43705_decksaver-ni-kontrol-s2.html
 [Yubikey 5]: https://www.yubico.com/products/yubikey-5-overview/
-[Blackmagic Design ATEM Mini]: https://www.blackmagicdesign.com/ru/products/atemmini
-[TC Helicon GoXLR]: https://www.tc-helicon.com/broadcast
-[Native Instruments Traktor Kontrol S5]: https://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-s5/
-[Native Instruments Traktor Kontrol F1]: https://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-f1/
 [pc-config]: https://www.rudeshko.com/pc-config
 
 ## Софт
 
-- Лицензия на [Rogue Amoeba Loopback][loopback] ($99). Или весь их бандл ($197).
+- 🔥 Лицензия на [Rogue Amoeba Loopback][loopback] ($99). Или весь их бандл ($197).
 - Подписка Discord Nitro/Server Boost ([сервер][discord-server]) ($5–15).
 - Подписка [Backblaze][backblaze] ($99).
 - Музыка из [вишлиста в Bandcamp][bandcamp-wishlist].
@@ -92,10 +82,9 @@ _Обновлено 22 декабря 2024._
 ## Разные приятные мелочи
 
 - [Попросите Армина](mailto:armin@astateoftrance.com) меня поздравить.
-- Аксессуары для плавания: очки, затычки в ~~рот~~, нос, уши.
 - Проекционные светящие часы.
 - Сувенирка от [kurzgesagt]: футболки, постеры, носочки, плюши.
-- Не дешёвый китайский чай. И в целом приблуды для чайной церемонии, например, пиалы.
+- Не дешёвый красный китайский чай. И в целом приблуды для чайной церемонии, например, пиалы.
 - Цветные носки размера 42EU. Например, из [funnysocks.ru](https://funnysocks.ru/) или [St. FRIDAY Socks](https://myfriday.ru/muzhskie_noski/).
 - Разный кофе в зёрнах. Молотый финский Kulta Katriina Perinteinen.
 - _Жёсткие_ зубные щётки, R.O.C.S. отлично себя зарекомендовали.
@@ -111,7 +100,6 @@ _Обновлено 22 декабря 2024._
 - ⏸ Контейнеры для хранения ***LEGO***.
 - Что угодно из [www.tranceshop.ru](http://www.tranceshop.ru/) или подобного.
 - Майки с 3D-печатью размера L.
-- ⏸ JollyJumper.
 - Что-нибудь, сделанное вашими руками.
 
 [kurzgesagt]: https://shop-eu.kurzgesagt.org/
