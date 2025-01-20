@@ -5,7 +5,7 @@ title: Вишлист
 
 # Вишлист
 
-_Обновлено 6 января 2025._
+_Обновлено 20 января 2025._
 
 ## Пластинки
 
@@ -25,12 +25,14 @@ _Обновлено 6 января 2025._
 
 - Красивый большой коврик для мыши и клавиатуры на весь рабочий стол (AKA desk mat).
 - Amazon Kindle с подсветкой. Не разбираюсь, готов довериться чужому выбору.
+- Кастомный [кальян Hoob][hoob-custom]
 - Портативный ЦАП. В них не шарю. Например, [Astell & Kern AK USB-C Dual DAC].
 - Ключи [Yubikey 5] любого форм-фактора и в любых количествах.
 - ⏸ [Decksaver NI Kontrol S2] **не MK3** ($60).
 
 [Текущие комплектующие ПК][pc-config].
 
+[hoob-custom]: https://hoob.com/rus/hookahs/futurist/hoob-custom.html
 [Astell & Kern AK USB-C Dual DAC]: https://us.astellnkern.com/products/ak-usb-c-dual-dac-cable-pee51
 [Decksaver NI Kontrol S2]: https://www.dj-store.ru/oborudovanie/didzhejev/dj-ryukzaki-sumki-chekhly-papki-dlya-didzheev/zashchitnye-kryshki/43705_decksaver-ni-kontrol-s2.html
 [Yubikey 5]: https://www.yubico.com/products/yubikey-5-overview/
@@ -68,14 +70,14 @@ _Обновлено 6 января 2025._
 
 ## Игры
 
-- [Шмот для Dota 2][dota2-store]. Например, [арканы][dota2-arcana] на Juggernaut/Phantom Assassin/Zeus/IO. Другие предпочтения по героям см. на [Dotabuff][dotabuff]. Также буду рад [Plus-подписке][dota2-plus], но для этого точно нужен клиент игры.
+- [Шмот для Dota 2][dota2-store]. Например, [арканы][dota2-arcana] на Juggernaut/Phantom Assassin/Zeus/IO. Другие предпочтения по героям см. на [OpenDota][opendota]. Также буду рад [Plus-подписке][dota2-plus], но для этого точно нужен клиент игры.
 - ⏸ Что-либо из [вишлиста в Steam][steam]. Но знайте, что у меня и так бэклог на несколько лет вперёд.
 - [Подарочные карты Blizzard][blizzard-giftcards].
 
 [steam]: https://store.steampowered.com/wishlist/id/rudeshko_plays/
 [dota2-store]: http://www.dota2.com/store/
 [dota2-arcana]: https://dota2.fandom.com/wiki/Arcana
-[dotabuff]: https://www.dotabuff.com/players/55714886
+[opendota]: https://www.opendota.com/players/55714886/heroes
 [dota2-plus]: https://www.dota2.com/plus
 [blizzard-giftcards]: https://giftcards.blizzard.com/
 
