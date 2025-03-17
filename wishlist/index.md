@@ -5,7 +5,7 @@ title: Вишлист
 
 # Вишлист
 
-_Обновлено 20 января 2025._
+_Обновлено 17 марта 2025._
 
 ## Пластинки
 
@@ -23,7 +23,7 @@ _Обновлено 20 января 2025._
 
 По убыванию:
 
-- Красивый большой коврик для мыши и клавиатуры на весь рабочий стол (AKA desk mat).
+- Красивый и очень большой (больше «обычных» 900 мм) коврик для мыши и клавиатуры на весь рабочий стол (AKA desk mat).
 - Amazon Kindle с подсветкой. Не разбираюсь, готов довериться чужому выбору.
 - Кастомный [кальян Hoob][hoob-custom]
 - Портативный ЦАП. В них не шарю. Например, [Astell & Kern AK USB-C Dual DAC].
@@ -56,8 +56,10 @@ _Обновлено 20 января 2025._
 ## ⏸ Головоломки
 
 - Необычные вариации Кубика Рубика:
-  - [Gear Cube](http://playlab.ru/toys/mefferts/gear-cube/).
-  - [Touch Cube](https://www.rubiks.com/rubik-s-touch-cube.html) или что-то подобное, чтобы была возможность решить с закрытыми глазами.
+  - [Gear Cube](http://playlab.ru/toys/mefferts/gear-cube/);
+  - [Sensory](https://www.rubiks.com/products/rubiks-sensory) или что-то подобное, чтобы была возможность решить с закрытыми глазами;
+  - [Impossible](https://www.rubiks.com/products/rubiks-impossible);
+  - [Phantom](https://www.rubiks.com/products/rubiks-phantom).
 - Что-нибудь из [Ugears](http://ugears-russia.ru/).
 - [LEONARDO Puzzles](http://www.leonardo-puzzles.com/) / Hanayama Cast Puzzles. Лучше небольшие.
 - Много интересного есть в [CCC Store](https://cccstore.ru/)
