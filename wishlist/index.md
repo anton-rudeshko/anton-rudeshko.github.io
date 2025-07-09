@@ -5,7 +5,7 @@ title: Вишлист
 
 # Вишлист
 
-_Обновлено 17 марта 2025._
+_Обновлено 9 июля 2025._
 
 ## Пластинки
 
@@ -99,7 +99,7 @@ _Обновлено 17 марта 2025._
 - Калимба. Например, Arcanum S21 или S17A.
 - "Blood, Sweat, and Pixels" by Jason Schreier (книжка на английском).
 - ⏸ Что-то для занятия каллиграфией (перо, чернила?)
-- Конфеты Cavendish & Harvey Ice Drops.
+- Конфеты: Lindt или Cavendish & Harvey Ice Drops.
 - Благовония **Satya**: Super Hit или Nag Champa.
 - ⏸ Контейнеры для хранения ***LEGO***.
 - Что угодно из [www.tranceshop.ru](http://www.tranceshop.ru/) или подобного.
