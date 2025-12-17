@@ -5,7 +5,7 @@ title: Вишлист
 
 # Вишлист
 
-_Обновлено 9 июля 2025._
+_Обновлено 17 декабря 2025._
 
 ## Пластинки
 
@@ -14,8 +14,8 @@ _Обновлено 9 июля 2025._
 
 Можно расходники и прочие аксессуары: слипматы, конверты, картриджи и т. п.
 
-[vinyl-collection]: https://www.discogs.com/user/anton-rudeshko/collection?header=1&layout=big
-[vinyl-wantlist]: https://www.discogs.com/wantlist?user=anton-rudeshko&layout=big
+[vinyl-collection]: https://www.discogs.com/user/anton-rudeshko/collection?header=1&layout=big&sort=added&sort_order=desc
+[vinyl-wantlist]: https://www.discogs.com/wantlist?limit=250&user=anton-rudeshko&layout=big
 
 ## Железо
 
@@ -28,22 +28,20 @@ _Обновлено 9 июля 2025._
 - Кастомный [кальян Hoob][hoob-custom]
 - Портативный ЦАП. В них не шарю. Например, [Astell & Kern AK USB-C Dual DAC].
 - Ключи [Yubikey 5] любого форм-фактора и в любых количествах.
-- ⏸ [Decksaver NI Kontrol S2] **не MK3** ($60).
-
-[Текущие комплектующие ПК][pc-config].
 
 [hoob-custom]: https://hoob.com/rus/hookahs/futurist/hoob-custom.html
 [Astell & Kern AK USB-C Dual DAC]: https://us.astellnkern.com/products/ak-usb-c-dual-dac-cable-pee51
 [Decksaver NI Kontrol S2]: https://www.dj-store.ru/oborudovanie/didzhejev/dj-ryukzaki-sumki-chekhly-papki-dlya-didzheev/zashchitnye-kryshki/43705_decksaver-ni-kontrol-s2.html
 [Yubikey 5]: https://www.yubico.com/products/yubikey-5-overview/
+
 [pc-config]: https://www.rudeshko.com/pc-config
 
 ## Софт
 
 - 🔥 Лицензия на [Rogue Amoeba Loopback][loopback] ($99). Или весь их бандл ($197).
-- Подписка Discord Nitro/Server Boost ([сервер][discord-server]) ($5–15).
 - Подписка [Backblaze][backblaze] ($99).
 - Музыка из [вишлиста в Bandcamp][bandcamp-wishlist].
+- Подписка Discord Nitro/Server Boost ([сервер][discord-server]) ($5–15).
 - Подписка YouTube Premium.
 - [FL Studio + ALL Plugins Bundle][fl-studio] ($900).
 
@@ -73,8 +71,8 @@ _Обновлено 9 июля 2025._
 ## Игры
 
 - [Шмот для Dota 2][dota2-store]. Например, [арканы][dota2-arcana] на Juggernaut/Phantom Assassin/Zeus/IO. Другие предпочтения по героям см. на [OpenDota][opendota]. Также буду рад [Plus-подписке][dota2-plus], но для этого точно нужен клиент игры.
-- ⏸ Что-либо из [вишлиста в Steam][steam]. Но знайте, что у меня и так бэклог на несколько лет вперёд.
 - [Подарочные карты Blizzard][blizzard-giftcards].
+- ⏸ Что-либо из [вишлиста в Steam][steam]. Но знайте, что у меня и так бэклог на несколько лет вперёд.
 
 [steam]: https://store.steampowered.com/wishlist/id/rudeshko_plays/
 [dota2-store]: http://www.dota2.com/store/
@@ -86,8 +84,6 @@ _Обновлено 9 июля 2025._
 ## Разные приятные мелочи
 
 - [Попросите Армина](mailto:armin@astateoftrance.com) меня поздравить.
-- Проекционные светящие часы.
-- Сувенирка от [kurzgesagt]: футболки, постеры, носочки, плюши.
 - Не дешёвый красный китайский чай. И в целом приблуды для чайной церемонии, например, пиалы.
 - Цветные носки размера 42EU. Например, из [funnysocks.ru](https://funnysocks.ru/) или [St. FRIDAY Socks](https://myfriday.ru/muzhskie_noski/).
 - Разный кофе в зёрнах. Молотый финский Kulta Katriina Perinteinen.
@@ -95,16 +91,16 @@ _Обновлено 9 июля 2025._
 - Кальянные штуки и расходники: чаши, шланги, мундштуки, уголь, табак.
 - Комнатные растения 🌿
 - Сувенирка на тему видеоигр (DOOM, Dota, Minecraft, Ori, Factorio, Portal, Diablo, …): мягкие игрушки, фигурки, кружки, подставки, наклейки, и т.п..
-- Портативная документница под карточки, ручку, блокнот, паспорт итп.
-- Калимба. Например, Arcanum S21 или S17A.
 - "Blood, Sweat, and Pixels" by Jason Schreier (книжка на английском).
+- Проекционные светящие часы.
+- Портативная документница под карточки, ручку, блокнот, паспорт итп.
 - ⏸ Что-то для занятия каллиграфией (перо, чернила?)
 - Конфеты: Lindt или Cavendish & Harvey Ice Drops.
 - Благовония **Satya**: Super Hit или Nag Champa.
-- ⏸ Контейнеры для хранения ***LEGO***.
-- Что угодно из [www.tranceshop.ru](http://www.tranceshop.ru/) или подобного.
-- Майки с 3D-печатью размера L.
+- Что угодно из [tranceshop.ru](https://www.tranceshop.ru/) или подобного.
+- Майки с 3D-печатью размера M.
 - Что-нибудь, сделанное вашими руками.
+- ⏸ Контейнеры для хранения ***LEGO***.
 
 [kurzgesagt]: https://shop-eu.kurzgesagt.org/
 
